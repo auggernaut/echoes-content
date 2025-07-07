@@ -1,0 +1,11 @@
+{
+    "editor.fontFamily": "Times",
+    "editor.fontSize": 18,
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "Times",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 180,
+    "[markdown]": {
+      "editor.wordWrap": "on"
+    }
+  }
