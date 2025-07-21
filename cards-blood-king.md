@@ -55,11 +55,14 @@ On success: shakes off the trance and regains his senses, request help. On failu
 # Guilded Entry Hall
 Tags: Entry, Security
 
-Stout oak inner doors, painted gold, stand open. A life-like dwarven statue with an outstretched hand greets visitors. A coat hanger holds dark, bloodstained coats. The air is thick with the mingling scents of perfume and blood emanating from within.
+Stout oak doors, painted gold, stand slightly ajar. A life-like dwarven statue with an outstretched hand greets visitors from the entry alcove. Nearby, a coat hanger holds several dark, bloodstained cloaks. The mingling scents of perfume, rot, and old blood fill the air, thick and invasive.
 
-▶ Check the hanger: There’s a coat with an extra invitation. Additionally, 6 coats can be used as disguises. If they are all checked, the last has a valuable item (Moderate Wealth).
-▶ Put an invitation in the statue’s hand: Avoids sounding the alarm. Putting something else there delays the alarm 1d6 turns.
-▶ Upon Entering the Manor: An alarm sounds.
+▶ Search the coats: One contains a crumpled parchment stamped with a black wax sigil. Another hides a valuable item (Moderate Wealth). All six may be used as disguises.
+
+▶ Offer something to the statue’s hand: If a fitting token, offering, or sigil is placed, the statue subtly nods and the hand returns to its side.
+
+▶ Proceed through the doors without offering: An audible click echoes. A bell tolls deeper inside. Within moments, guardians stir.
+
 
 
 # Shadow Hound
@@ -110,7 +113,7 @@ Did the people in the paintings move?
 
 # Dining Room
 
-A long, ornate dinner table, grand enough to seat thirty-two guests. Suspended above, a massive golden chandelier (2  5) bathes the scene in flickering light. Platters and bowls (.5 1) are filled with freshly harvested human organs and limbs, each ghastly serving arranged with care and presentation.
+A long, ornate dinner table, grand enough to seat thirty-two guests. Suspended above, a massive golden chandelier (Moderate Wealth) bathes the scene in flickering light. Platters and bowls (Moderate Wealth) are filled with freshly harvested human organs and limbs, each ghastly serving arranged with care and presentation.
 Muffled screaming can be heard from the next room [Kitchen].
 
 [Blood Servant]s enter and exit (replacing not so fresh dishes with new ones).
