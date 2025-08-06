@@ -4,18 +4,46 @@
 
 ⸻
 
-Technician
-Core Class Card
+Emergency Override
+Defense
+Prepared, Cunning
 
-Health: 3 Strikes
+“I built the back doors into every system — I can slip through them myself.”
 
-Defenses
-- When a Strike would hit you, roll a d6. On a 5+, you avoid it by ducking into cover or shutting a door at the last second.
-- When technology explodes or malfunctions, roll a d6. On a 6, it hurts someone else instead of you.
+When a system or hazard would cause you a Strike (fire, gas, decompression), roll a d6. On 4+, you bypass or reroute it just in time.
 
-Boons
-- Systems Savant: When repairing, hacking, or bypassing tech, roll +1d6 and keep the highest.
-- Rigged to Work: Once per session, declare a broken system still functions one more time before failing.
+Prompts:
+	•	What system did I once save by seconds?
+	•	Who hates me for always cutting corners?
+
+⸻
+
+Dive for Cover
+Defense
+Quick, Desperate
+
+“If sparks fly, I’m already under the table.”
+
+When targeted by an attack, roll a d6. On 5+, you avoid the Strike by ducking into cover.
+If you expose another PC while dodging, gain +1 Karma.
+
+Prompts:
+	•	Who do I always leave behind when I scramble?
+	•	What scar proves I wasn’t fast enough once?
+
+⸻
+
+Failsafe Trigger
+Defense
+Paranoid, Precise
+
+“If it breaks, I already planned how it’ll break.”
+
+Once per fight, negate a Strike against you by declaring a failsafe you prepared. Describe how it works.
+
+Prompts:
+	•	What improvised trick has saved me more than once?
+	•	What piece of tech is held together only by luck and prayer?
 
 ⸻
 
@@ -28,6 +56,48 @@ Once per scene, you may unlock, disable, or reroute one system (doors, alarms, l
 “Every system has a back door. I just need to find it.”
 	•	What tool do I always use, no matter how inappropriate?
 	•	Who taught me my first hack?
+
+⸻
+
+Systems Savant
+Boon
+Analytical, Precise
+
+“Every circuit has a rhythm. I just listen for it.”
+
+When repairing, hacking, or bypassing tech, roll +1d6 and keep the highest.
+
+Prompts:
+	•	What system have I practically memorized?
+	•	Who mistrusts my skill, no matter how often I prove them wrong?
+
+⸻
+
+Mechanical Instincts
+Boon
+Intuitive, Resourceful
+
+“I don’t fix machines. I understand them.”
+
+When improvising with tools, machines, or jury‑rigged gear, roll +1d6 and keep the highest.
+
+Prompts:
+	•	What tool do I always carry, even when it makes no sense?
+	•	What machine feels more like family than people do?
+
+⸻
+
+Data Whisperer
+Boon
+Focused, Eerie
+
+“The code talks to me, and I talk back.”
+
+When dealing with data, logs, or AI systems, roll +1d6 and keep the highest.
+
+Prompts:
+	•	What strange phrase always appears in the data I read?
+	•	Who’s afraid of how easily I slip into the system?
 
 ⸻
 

@@ -1,22 +1,118 @@
 ⸻
 
-🎴 Soldier Deck (10 Cards)
+🎴 Soldier Deck
+
+✅ With this:
+	•	Health (fixed: 4 Strikes)
+	•	Defense (pick 1) → how you survive
+	•	Boon (pick 1) → how you excel
+	•	Deck Draws (2–3 cards) → backgrounds, gear, special moves
+
+So a Soldier could be:
+	•	Combat Armor + Marksman → classic marine.
+	•	Reactive Dodge + Melee Specialist → fast knife fighter.
+	•	Bulwark Stance + Tactical Instincts → shield wall leader.
 
 ⸻
 
-Soldier
-Core Class Card
+🎴 Soldier — Defense Cards (pick 1 at character creation)
 
-Health: 4 Strikes
+⸻
 
-Defenses
-- Combat Armor (plated vest, reinforced helmet)
-- When hit with a strike of damage, the armor blocks the damage if you roll a 4+ and 3+ with a shield.
-- When taking a strike where armor cant help (e.g. fall, vacuum, poison), a mircale saves you from damage if you roll a 6.
+Combat Armor
+Defense
+Armored, Trained
 
-Boons
-- Trained Marksman: When using ranged weapons, roll +1d6 and keep the highest.
-- Melee Specialist: When attacking in close combat, you may reroll one die per fight.
+“The armor is heavy, but it’s saved me more times than I can count.”
+
+When hit with a Strike, roll a d6. On 4+, ignore the damage.
+If carrying a shield, block on 3+ instead.
+
+Prompts:
+	•	Who issued me this armor?
+	•	What scar reminds me armor can still fail?
+
+⸻
+
+Reactive Dodge
+Defense
+Agile, Disciplined
+
+“I read the twitch in a trigger finger before the bullet leaves the barrel.”
+
+When targeted by an attack, roll a d6. On 5+, you avoid it by throwing yourself clear.
+Gain +1 Karma if you dive into danger to protect another.
+
+Prompts:
+	•	Who taught me to always move first?
+	•	Who did I fail to protect when I hesitated?
+
+⸻
+
+Bulwark Stance
+Defense
+Unyielding, Intimidating
+
+“When I plant my feet, nothing moves me.”
+
+Once per fight, you may enter a stance to ignore the next Strike entirely.
+While in stance, you cannot move until your next action.
+
+Prompts:
+	•	What battle earned me the name “Bulwark”?
+	•	Who relies on me to never fall?
+
+⸻
+
+⸻
+
+🎴 Soldier — Boon Cards (pick 1 at character creation)
+
+⸻
+
+Trained Marksman
+Boon
+Precise, Steady
+
+“I don’t waste bullets — I end fights.”
+
+When using ranged weapons, roll +1d6 and keep the highest.
+
+Prompts:
+	•	Whose face do I still see down my sights?
+	•	What ritual steadies my hand before I fire?
+
+⸻
+
+Melee Specialist
+Boon
+Ferocious, Brutal
+
+“Up close, it’s just me, them, and the blade.”
+
+In close combat, reroll one die per fight.
+
+Prompts:
+	•	What weapon feels like an extension of my arm?
+	•	What do I tell myself when I have to get bloody?
+
+⸻
+
+Tactical Instincts
+Boon
+Cunning, Protective
+
+“I see the battlefield three moves ahead.”
+
+Once per room, ask the GM: “Where’s the best position?” You and allies there gain advantage on the first action.
+
+Prompts:
+	•	Who always trusts my orders without question?
+	•	What mistake still haunts my tactics?
+
+⸻
+
+🎴 Soldier — Ability Cards (pick 3 at character creation)
 
 ⸻
 
