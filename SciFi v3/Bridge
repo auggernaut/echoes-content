@@ -1,0 +1,234 @@
+# Bridge - Location Cards
+
+## How to Use This System
+
+When players enter the Bridge, present the Card Front first to establish the normal layout and key features. Then draw one scenario card to set the current state and tone. Each scenario card provides details and prompts that evolve the scene based on player actions.
+
+---
+
+## Card Front: Bridge (Normal)
+
+Tiered command dais (captain’s chair, harness, manual overrides). Semi‑circle of consoles (helm, navigation, comms, tactical). Panoramic viewport (radiation shutters, emergency blast screen). Holographic system map (projector pit, status glyphs). Shipwide log terminal (voiceprint, command key slot). Overhead lighting grid (status strips, annunciators). Port/starboard doors (security locks to main corridor).
+
+---
+
+## Card 1: Abandoned Command
+
+**Atmosphere:** Quiet, Stale, Dim
+
+**Intro Description:**
+The bridge sits in a muted hush. Dust motes drift through flat light; inactive displays reflect the viewport’s dull sheen. The captain’s chair is slightly askew, as if someone stood in a hurry and never returned.
+
+**Details:**
+• check captain’s chair: a command key fob is wedged beneath the armrest, sticky with old coffee
+• review log terminal: an interrupted log entry ends mid‑sentence, timestamped an hour before main clocks
+• inspect comms console: outbound queue lists unsent tight‑beam packets, flagged “hold pending authorization”
+• check floor by helm: scuffed boot marks arc toward the port door, overlapping in different directions
+• search under consoles: a dropped earpiece blinks a slow, unsynced blue heartbeat
+• test blast screen toggle: the actuator engages, then halts with a soft mechanical choke mid‑deployment
+
+**Story Seeds:**
+• Why was the command handoff aborted?
+• What held transmission authorization?
+• Where did the bridge crew go—voluntarily or not?
+
+---
+
+## Card 2: Emergency Lockdown
+
+**Atmosphere:** Red‑Lit, Sealed, Pressured
+
+**Intro Description:**
+Scarlet wash lights pulse through the bridge. The doors show amber bars; the blast screen is half‑lowered. Soft chimes repeat a three‑tone pattern between terse status prompts.
+
+**Details:**
+• check door panel: lockdown reads active; local override requires two keys (captain/exec)
+• inspect blast screen track: a warped runner and fine grit bind the screen at mid‑travel
+• query shipwide terminal: repeating alert cites containment breach forward of bulkhead 4
+• examine helm interlock: thruster controls are greyed with “docked under protest” annotation
+• pull status strips: power is rerouted through aux bus; a breaker trips back within seconds of reset
+• listen beneath consoles: faint ticking increases near the tactical bay’s floor panel, then stabilizes
+
+**Story Seeds:**
+• What triggered lockdown—and is it still relevant?
+• Who has the second key?
+• What happens if the blast screen is forced?
+
+---
+
+## Card 3: Ghost in the Logs
+
+**Atmosphere:** Flickering, Echoed, Uncanny
+
+**Intro Description:**
+Screens wake and sleep in irregular patterns. The holographic map blooms into forms that don’t match the starfield beyond and then fades, leaving afterimages that refuse to settle.
+
+**Details:**
+• replay last log: voiceprint authenticates, but the speaker’s cadence mismatches the captain by 3% deviation
+• scrub log timeline: entries reorder when scrubbed backward; screenshots disagree by one frame each pass
+• query nav buffer: alternate coordinates persist in volatile memory despite purge, tagged “emergency route C”
+• open diagnostics: checksum warnings cascade for archived files with intact headers
+• watch holo projector: transient shapes resemble ship schematics overlaid with non‑human annotations
+• poll AI channel: a text reply returns three different answers when polled within the same minute
+
+**Story Seeds:**
+• Who altered (or is altering) the logs?
+• What do the alternate coordinates represent?
+• Is the AI compromised—or is something mimicking it?
+
+---
+
+## Card 4: Last Transmission
+
+**Atmosphere:** Tense, Frayed, Urgent
+
+**Intro Description:**
+A clipped voice stutters from comms, looping a fragment of a message. The waveform shows intermittent spikes, as if something is stepping on the signal.
+
+**Details:**
+• stabilize comms band: the fragment extends by two words before noise swallows it again
+• check antenna status: primary array nominal; a phantom source appears on the auxiliary dish path
+• examine recorder buffer: the clip’s head contains a faint background chant of ship ambience out of phase
+• review sender metadata: origin matches own ship ID with a drift of 0.7 seconds
+• patch external mic: faint tapping syncs to the loop’s cadence from outside the viewport frame
+• triangulate spike source: spikes peak when facing starboard quarter by 12 degrees
+
+**Story Seeds:**
+• Is the transmission coming from now—or from the ship out of time?
+• What completes the missing words?
+• What’s riding the signal?
+
+---
+
+## Card 5: Breach Warning
+
+**Atmosphere:** Thin, Cold, Strained
+
+**Intro Description:**
+The air bites colder. Frost filigree creeps along a corner of the viewport; the dehumidifiers hum hard. A soft hiss breathes in the captain’s platform just at the edge of hearing.
+
+**Details:**
+• inspect viewport frame: micro‑cracks spider from a fastener; the blast screen seals most but not all drafts
+• check hull integrity readout: a localized pressure drop maps to the dais rim
+• lift dais panel: a gasket is pinched; a hairline gap chills the underside wiring looms
+• watch breath: vapor plumes stronger near the port side rail and dissipate toward comms
+• test sealant kit: quickseal putty films over the draft but peels when flexed; needs time or reinforcement
+• scan exterior: a faint smear on the outer pane tracks like impact residue
+
+**Story Seeds:**
+• What caused the micro‑breach?
+• How long before the chill impacts systems—or people?
+• Is the draft a symptom of something larger?
+
+---
+
+## Card 6: Captain’s Last Stand
+
+**Atmosphere:** Resolute, Personal, Heavy
+
+**Intro Description:**
+Personal effects sit where a life paused: a jacket over the chair back, a mug ring staining the armrest table, a paper note folded under a weight.
+
+**Details:**
+• read the note: a single word, “Hold,” underlined, with coordinates scrawled on the reverse
+• check jacket pockets: a datachip labeled “for XO” and a broken stylus cap
+• query access history: last captain override locked weapons to “local only” with no remote control
+• inspect tactical: hardpoints were manually slaved; auto‑targeting disabled forty minutes before silence
+• open armrest compartment: a small med injector with one spent cartridge and one full
+• search dais bolts: fresh tool marks on two bolts, as if something was mounted and removed
+
+**Story Seeds:**
+• What did “Hold” refer to—position, fire, or something else?
+• Why lock weapons to local control?
+• Who was the injector meant for?
+
+---
+
+## Card 7: Systems Overload
+
+**Atmosphere:** Harsh, Hot, Blinding
+
+**Intro Description:**
+White glare floods half the consoles; fans whine. The air smells of hot plastic and a faint sweetness that doesn’t belong.
+
+**Details:**
+• check power bus: aux bus shows repeated overcurrent spikes on the nav/tactical loop
+• feel panel backs: one is too hot to touch for more than a second; insulation is tacky
+• pull a fuse: the replacement blows instantly with a soft pop and sweet odor
+• run thermal camera: a heat bloom pulses under the holo pit, cycling every nine seconds
+• review auto‑shutdowns: three safeties are bypassed in sequence by a “maintenance script”
+• pop floor hatch: a cable bundle is cross‑patched with jumpers that don’t match ship spec
+
+**Story Seeds:**
+• Is this sabotage, a field repair, or something else?
+• What’s under the holo pit?
+• Who wrote the “maintenance script”?
+
+---
+
+## Card 8: False Stars
+
+**Atmosphere:** Disorienting, Beautiful, Wrong
+
+**Intro Description:**
+The starfield beyond the viewport looks magnificent—and unfamiliar. Constellations dissolve when you try to trace them, reforming into different patterns.
+
+**Details:**
+• compare charts: current sky doesn’t match any stored ephemeris; clock drift reads nominal
+• polarize viewport: faint lines appear, like a grid overlay the stars ignore
+• ask nav computer: “Sky solution requires external reference,” despite strong signal lock
+• rotate ship model: inertial data insists the ship hasn’t turned while the view has
+• check internal cams: reflected stars don’t match the forward view when seen on shiny surfaces
+• record time‑lapse: patterns cycle through a loop that returns to “normal” every 17 minutes
+
+**Story Seeds:**
+• Are you seeing outside—or being shown something?
+• What happens at the 17‑minute reset?
+• Can the false sky be used as a key?
+
+---
+
+## Card 9: Quiet Coup
+
+**Atmosphere:** Ordered, Tense, Controlled
+
+**Intro Description:**
+Everything is in place—but too in place. Consoles set to defaults, chair centered, floor spotless except for a single, deliberate scuff near the port door.
+
+**Details:**
+• check access logs: multiple successful command entries from the same ident within seconds apart
+• inspect comms draft box: a prepared broadcast sits unsigned, titled “continuity of command”
+• look under chair: a taped spare ident band with the XO’s biometric pattern
+• query security cams: gaps at precise intervals; one frame shows a reflection without a source
+• examine port door plate: the deliberate scuff reveals a second plate beneath with different serial
+• poll crew badges: three pings respond from the same location tag on the aft bulkhead
+
+**Story Seeds:**
+• Who orchestrated the takeover—and why so quietly?
+• Where are the real ident bands?
+• What does the unsigned broadcast declare?
+
+---
+
+## Card 10: Something at the Glass
+
+**Atmosphere:** Breath‑Held, Close, Intimate
+
+**Intro Description:**
+Condensation blooms on the inside of the viewport in an oval the size of a face. The glass trembles, just once, as if something leaned in—or out.
+
+**Details:**
+• warm the pane: the oval clears, revealing faint oils in a print that isn’t quite human
+• shine oblique light: filament trails in the residue outline lines like veins or circuits
+• tap the glass: a soft answering tap returns, offset and slightly late
+• watch for breath: the oval returns when the room cools, but not when a person exhales nearby
+• inspect frame sensors: micro‑vibration logs show a pattern consistent with touch from outside
+• listen with contact mic: a low, steady rhythm that isn’t mechanical thrums through the pane
+
+**Story Seeds:**
+• Is something on the other side—or in here with you?
+• What does it want from the bridge?
+• What happens if you open the shutters?
+
+---
+
