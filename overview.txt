@@ -1,7 +1,0 @@
-This repoository contains the content for a ttrpg game system called Echoes of Expanse.
-
-At a high level the game system is based on EZD6, but with a few key differences:
-
-- Cards are used to contain reusable scenario content: NPCs, locations, items, etc. are all generic and can be used in multiple scenarios.
-- Story Guides provide the plot and story beats for a scenario.
-- GM Screen has the game rules
