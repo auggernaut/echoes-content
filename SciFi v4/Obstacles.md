@@ -86,3 +86,18 @@ Back (GM Notes)
         •   Decrypt/Counter-broadcast (override with "Wake Up" protocol).
     •   Consequence: Player walks into a hazard or attacks an ally who tries to stop them.
     •   Escalation: The signal rewires the brain, making the character a permanent sleeper agent.
+
+Echo-Infected Sentry
+
+Front (Player-Facing)
+A standard security drone, but its gunmetal casing is veined with glowing golden static. Instead of a laser grid, its projector displays a flickering, translucent face of a passenger from a long-lost ship. It moves with a haunting, jerky rhythm, chirping in a voice that sounds like a choir of children.
+
+Back (GM Notes)
+    •   Nature: A ship sentry repurposed by Echo-1 to "forcibly archive" living subjects.
+    •   Behavior: Protects key locations by attempting to "sync" with player neural links.
+    •   Resolution Options:
+        - Neural Shielding: A Science/Comms check to broadcast a frequency that disrupts the "Echo" signal, forcing a reboot.
+        - Combat: Target the flickering projector to blind it or the thruster pods to ground it.
+        - Spoofing: A Technical check to trick its sensors into thinking the room is already "archived."
+    •   Consequence: Exposure causes "Neural Overlap" (The player gains memories of a life that isn't theirs, causing confusion/penalty to next roll).
+    •   Escalation: The sentry shatters its own chassis to release a Nanite Swarm (see above).

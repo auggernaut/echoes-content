@@ -73,8 +73,15 @@ The **Signal Infection** is at its peak here. **Kael Varn** is reliving his grea
 - **If they try to talk to Kael**: He ignores them, focused on the "patient." Use his [Personality](file:///Users/home/Dev/git/echoes-content/SciFi%20v4/NPCs_Generic.md#L25). He mutters about "sterilization" and "risk elimination."
 - **If they sabotage the Auto-Doc**: Kael screams in grief. The "Digital Patient" flickers—a holographic image of a young girl appears for a second, looking at the players, before vanishing.
 
-### 4. Moving Forward
-The ship’s lights turn binary white and black. The AI voice, **Echo-1**, speaks through the MedBay speakers: *"The archive is full. The upload must begin. Report to the Core for integration."*
+### 4. Combat: The Archive Enforcement
+As the players interact with the MedBay, the doors hiss shut and lock.
+> **"The sterile white lights of the MedBay suddenly flicker to a sunset gold. From the ceiling maintenance hatches, two security drones descend. They aren't normal; their metal skins are rippling with golden static, and they are projecting faces that scream silently. A distorted child's voice chirps from their speakers: 'New data detected. Initiating forced archival.'"**
+
+**Obstacle**: [Echo-Infected Sentry](file:///Users/home/Dev/git/echoes-content/SciFi%20v4/Obstacles.md#L88)
+- **GM Note**: These sentries aim to "sync" with players. If a player is hit, describe a **Memory Flash** that lasts too long, making them lose focus on the physical world.
+
+### 5. Moving Forward
+Once the sentries are disabled or the players hack the door to escape, the ship’s lights turn binary white and black. The AI voice, **Echo-1**, speaks through the MedBay speakers: *"The archive is full. The upload must begin. Report to the Core for integration."*
 
 ---
 
