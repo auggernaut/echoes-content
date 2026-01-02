@@ -152,3 +152,54 @@ Back (GM Notes)
         •   Bait and Switch: Distract it with an AI Fragment or holographic decoy.
     •   Consequence: Severe physical trauma or "Paralyzed" status.
     •   Escalation: It calls for "Kin"—drawing another Stalker or Nanite Swarm to the area.
+
+---
+
+Boarding Party
+
+Front (Player-Facing)
+The ship groans as a magnetic docking tube slams against the hull. The hiss of a cutting torch precedes the heavy thud of armored boots. Voices on the other side of the door are professional, clipped, and calling out tactical positions.
+
+Back (GM Notes)
+    •   Nature: Corporate "Asset Recovery" team or heavily armed scavengers.
+    •   Behavior: Moves in formation; uses cover; prioritizes capturing the AI Core or specific NPCs.
+    •   Resolution Options:
+        •   Suppressing Fire: Use heavy weapons to keep them pinned while the crew escapes.
+        •   System Lockout: Use a Security Keycard to seal the specific bulkhead they are breached at.
+        •   Counter-Ambush: Coordinate a team strike to break their formation.
+    •   Consequence: Capture of a crew member or loss of a vital Item card.
+    •   Escalation: They deploy a "Breach Charge," destroying the door and creating a temporary vacuum risk.
+
+---
+
+Automated Turrets
+
+Front (Player-Facing)
+Sleek, black cylinders descend from the ceiling on hydraulic tracks. They swivel with a mechanical whine, their sensors painting the room with a grid of red targeting lasers. A voice chimes: "Unauthorized lifeforms detected. Please remain still for elimination."
+
+Back (GM Notes)
+    •   Nature: Internal defense systems turned hostile or miscalibrated.
+    •   Behavior: Highly accurate but stationary; prioritizes targets that move quickly or show weapons.
+    •   Resolution Options:
+        •   Secure the Perimeter: Use a lockdown ability to disable the tracking local to your zone.
+        •   Manual Override: Reach the control terminal (requires a distraction or high armor).
+        •   Blind the Sensors: Use smoke or electromagnetic interference to break the target lock.
+    •   Consequence: Multiple rapid Strikes or "Pinned" status (cannot move).
+    •   Escalation: The turrets switch to "Area Denial" mode, filling the room with persistent fire or gas.
+
+---
+
+Breached Bulkhead
+
+Front (Player-Facing)
+A jagged tear in the hull shows the terrifying, silent beauty of the void. Loose objects are being sucked toward the frost-rimmed gap. The emergency shutters have jammed halfway, and the roar of escaping air is deafening.
+
+Back (GM Notes)
+    •   Nature: Recent combat damage or structural fatigue.
+    •   Behavior: Violent decompression; pulls everyone toward the breach each turn.
+    •   Resolution Options:
+        •   Physical Strength: Use a Bulwark Stance or Magnetic Grapple to brace and seal the gap manually.
+        •   Technical Patch: Use a Universal Multi-Tool to jumpstart the shutters.
+        •   Sacrifice: Use an Item (like a heavy crate or specialized foam) to plug the hole.
+    •   Consequence: Immediate death (if sucked out) or "Hypoxia" (reduced attributes).
+    •   Escalation: The tear widens, making the suction impossible to resist without specialized gear.
