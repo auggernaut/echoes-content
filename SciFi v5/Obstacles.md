@@ -101,3 +101,54 @@ Back (GM Notes)
         - Spoofing: A Technical check to trick its sensors into thinking the room is already "archived."
     •   Consequence: Exposure causes "Neural Overlap" (The player gains memories of a life that isn't theirs, causing confusion/penalty to next roll).
     •   Escalation: The sentry shatters its own chassis to release a Nanite Swarm (see above).
+
+---
+
+The Stalker
+
+Front (Player-Facing)
+A flicker of movement in the shadows. A wet, rhythmic scratching against the metal bulkheads. You feel a gaze on the back of your neck, but when you turn, there is only the humming silence of the ship.
+
+Back (GM Notes)
+    •   Nature: A persistent, stealthy predator that has adapted to the ship's layout.
+    •   Behavior: Hunts one player at a time; avoids direct light; strikes when a character is isolated.
+    •   Resolution Options:
+        •   Lure it into a trap: Use a Bio-Scanner or noise to bait it.
+        •   Bright light: Use flares or the Observation Deck's lights to drive it back.
+        •   Thermal tracking: Use Thermal Goggles to reveal its position before it strikes.
+    •   Consequence: "Bled" or "Shock" status (physical damage or extreme fear).
+    •   Escalation: It begins sabotaging the lights in the room, creating perfect darkness.
+
+---
+
+Bio-Organic Hive
+
+Front (Player-Facing)
+The walls are no longer metal; they are covered in a thick, pulsating mass of violet veins and wet, leathery skin. The air is warm and smells of sulfur and old meat. The floor is sticky, and every step feels like you're walking on something breathing.
+
+Back (GM Notes)
+    •   Nature: A sprawling, invasive organism that is slowly consuming the ship's interior.
+    •   Behavior: Reacts to vibrations; attempts to "absorb" anything that stays still for too long.
+    •   Resolution Options:
+        •   Chemical spray: Use toxins from the Hydroponics Bay to kill the mass.
+        •   Extreme heat: Use a plasma torch or reactor vent to burn it away.
+        •   Quiet movement: Stealth check to traverse without alerting the "limbs."
+    •   Consequence: "Trapped" or "Infected" status (requires help to escape or medical treatment).
+    •   Escalation: The hive releases a toxic cloud that consumes the room's oxygen.
+
+---
+
+Apex Predator
+
+Front (Player-Facing)
+A creature of impossible geometry—shifting limbs of chitin and bone, eyes that glow with a cold, predatory intelligence. It stands as tall as a man but moves with the grace of a liquid. It doesn't growl; it mimics the sound of a ship's alarm, a perfect, chilling decoy.
+
+Back (GM Notes)
+    •   Nature: A high-threat entity from the "Hollow Moon" or a deep-space anomaly.
+    •   Behavior: Highly intelligent; uses tactics; focuses on the strongest or most "threatening" player first.
+    •   Resolution Options:
+        •   Coordinate Fire: Requires multiple players to attack at once to overcome its shielding.
+        •   Pulse Shield: Use a Portable Pulse Shield to block its strikes while others hack the doors.
+        •   Bait and Switch: Distract it with an AI Fragment or holographic decoy.
+    •   Consequence: Severe physical trauma or "Paralyzed" status.
+    •   Escalation: It calls for "Kin"—drawing another Stalker or Nanite Swarm to the area.

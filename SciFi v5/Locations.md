@@ -1,4 +1,4 @@
-# Engineering Deck
+# Reactor Core
 **Tags:** Overheated, Thrumming, Metallic
 
 **Front**
@@ -86,7 +86,7 @@
 
 *Image Prompt:* A high-tech futuristic hospital room. Surgical robots with multiple arms hang from the ceiling. Sterile white and blue lighting, but with a creepy, abandoned feel. Medical clutter, maybe a spilled vial or a covered body. Clean but unsettling.
 
-*First Impressions:* A chemical haze hangs like glittering dust in sterile light. Bodies lie sealed under transparent film, faces smoothed by auto-foam. Auto-doc arms twitch to life, then freeze mid-motion. The air smells like antiseptic and hot metal, with a sweetness that shouldn’t be there.
+*First Impressions:* A chemical haze hangs like glittering dust in sterile light. Empty gurneys sit sealed under transparent film, their shapes smoothed by layers of auto-foam. Auto-doc arms twitch to life, then freeze mid-motion. The air smells like antiseptic and hot metal, with a sweetness that shouldn’t be there.
 
 **Back**
 
@@ -113,7 +113,7 @@
 
 *Image Prompt:* A large observation deck on a spaceship. Floor-to-ceiling windows showing a nebula or star field. Luxury seating that looks torn or displaced. Dust motes floating in light beams. Lonely, vast, existential.
 
-*First Impressions:* Floor-to-ceiling glass looks out onto tumbling wreckage and the lightless sun. For a moment, shadows seem to move on the far side of the glass, as if the ship has an audience. The room groans and clicks as temperature shifts crawl through the hull.
+*First Impressions:* A panoramic wall of reinforced glass offers a dizzying, unfiltered view of the deep void and distant, sprawling nebulae. Rows of plush, abandoned lounge chairs are bathed in the silver spill of starlight, their shadows stretching long across the deck. 
 
 **Back**
 
@@ -157,3 +157,85 @@
 *Hazards:* Halon gas dumps (fire suppression removes O2); Neuro-shock from unshielded interfacing; freezing temperatures.
 
 *Reveals:* A manual "kill switch" hidden under floor plates; heat signatures in the server racks that suggest a biological presence (hiding/nesting); the code on the screens scrolling characters that form the viewers' names.
+
+---
+
+# Hydroponics Bay
+**Tags:** Humidity, Overgrown, Bioluminescent
+
+**Front**
+
+*Image Prompt:* A futuristic greenhouse inside a spaceship. Multiple levels of vertical gardens filled with strange, glowing plants. The air is thick with mist. Water drips from pipes. Green and purple lighting. Lush but claustrophobic.
+
+*First Impressions:* The air is thick enough to chew—warm, damp, and smelling of rich earth and rot. Trails of bioluminescent moss creep up the walls like glowing veins. Shadowy shapes of oversized ferns sway in the artificial breeze of the ventilation, and the sound of trickling water is a constant, rhythmic hum.
+
+**Back**
+
+*Atmosphere:* Lush, humid, and deceptively peaceful. A wild jungle contained within a metal cage.
+
+*Sensory Details:* The smell of damp soil and ozone; the wet slap of leaves against a jumpsuit; the distant croak of a drainage pump; the flickering of purple "growth lights."
+
+*Key Features:*
+
+*   **Central Nutrient Tank:** A large vat of murky green fluid that feeds the entire bay.
+*   **Maintenance Shed:** A small, reinforced room containing pruning tools and chemical sprayers.
+*   **Ventilation Hub:** A massive fan system that distributes oxygen to the rest of the ship.
+
+*Hazards:* Toxic pollen clouds (disorientation/nausea); slippery algae on the walkways; aggressive, mutated vines that react to heat.
+
+*Reveals:* A human skeleton overgrown with flowers; a hidden stash of "illegal" non-synthetic seeds; a terminal showing the oxygen levels are being supplemented by a source outside the ship.
+
+---
+
+# Communications Array
+**Tags:** Static-filled, Cold, Hissing
+
+**Front**
+
+*Image Prompt:* A room filled with monitors, dish controls, and server racks. One wall is dominated by a holographic display of the local star system. Cables tangle on the floor. Dim lighting, mostly from the screens. Eerie silence occasionally broken by static.
+
+*First Impressions:* A thousand screens blink like digital eyes, most of them showing only the grey snow of dead frequencies. The room is colder than the rest of the ship, the heat bled away by the massive cooling units required for the long-range dishes. A low, rhythmic hiss of static pulses from the speakers, sounding almost like breath.
+
+**Back**
+
+*Atmosphere:* Cold, analytical, and lonely. A place built to bridge the void that now only echoes it.
+
+*Sensory Details:* The smell of hot electronics; the biting chill of the air; the visual strobe of red "No Signal" icons; the faint vibration of the massive external dishes rotating.
+
+*Key Features:*
+
+*   **Main Transmitter:** The primary console for sending and receiving long-range data.
+*   **Signal Buffer:** A series of glowing cylinders that store incoming messages for decryption.
+*   **Emergency Flare Launcher:** A manual control for firing physical signaling flares from the hull.
+
+*Hazards:* High-voltage electrical leaks; EM interference scrambling neural implants; sudden depressurization if the external dish housing is breached.
+
+*Reveals:* An incoming message that predates the ship's launch; coordinates for a "Ghost Station" marked as friendly; logs of an outgoing message sent from the Bridge *after* the crew entered stasis.
+
+---
+
+# Cargo Hold / Maintenance Gut
+**Tags:** Cavernous, Echoing, Shadowy
+
+**Front**
+
+*Image Prompt:* A massive, multi-level cargo bay of a spaceship. Towering stacks of shipping containers create dark canyons and narrow alleys. Dim overhead lighting casts long, distorted shadows. Maintenance shafts and pipes cover the walls like mechanical vines. Moody, industrial, and slightly industrial horror aesthetic.
+
+*First Impressions:* The sheer scale of the hold makes the air feel thin and cold. Great columns of cargo crates rise into the darkness above, forming a labyrinth of metal and plastic. The heavy, metallic smell of grease and stagnant air hangs thick, and every distant clank or hiss echoes through the vast space, making it impossible to tell where the sounds originate.
+
+**Back**
+
+*Atmosphere:* Oppressive scale, industrial neglect, and the constant feeling of being watched from the heights.
+
+*Sensory Details:* The metallic echo of footsteps; the smell of ozone and old oil; the feeling of a draft coming from a maintenance shaft; the rhythmic thrum of the secondary power grid.
+
+*Key Features:*
+
+*   **Cargo Containers:** Some sealed, some pried open; perfect for hiding or finding supplies.
+*   **Maintenance Shafts:** A network of narrow, dark tunnels that traverse the ship's "gut."
+*   **Service Lift:** A large, slow-moving platform for transporting heavy gear between levels.
+
+*Hazards:* Unstable cargo stacks (crushing damage); exposed high-voltage conduits; pockets of toxic fumes in the maintenance shafts.
+
+*Reveals:* A container labeled with "Classified Bio-Hazard"; a makeshift living area hidden in a hollowed-out crate; scratches on the walls that look like they were made by something with claws.
+

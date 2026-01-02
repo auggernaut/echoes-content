@@ -7,7 +7,7 @@
 ✅ With this:
 	•	Defense (pick 1) → how you survive (includes Health)
 	•	Boon (pick 1) → how you excel
-	•	Deck Draws (2–3 cards) → backgrounds, gear, special moves
+	•	Deck Draws (2–3 cards) → abilities, gear, special moves
 
 So a Security officer could be:
 	•	Combat Armor + Trained Marksman → classic marine.
@@ -220,8 +220,8 @@ Once per session, inject to ignore penalties for 1 scene. Afterwards, take 1 Str
 
 ⸻
 
-Ex-Military
-Background
+Tactical Protocol
+Ability
 Loyal, Haunted
 
 Once per session, declare a tactical protocol you learned in service; the GM must give you an advantage from it.
@@ -232,8 +232,8 @@ Once per session, declare a tactical protocol you learned in service; the GM mus
 
 ⸻
 
-Mutiny Order
-Background
+Hidden Mutiny
+Ability
 Burdened, Secretive
 
 Once per game, the GM may reveal you authored a mutiny order that was never executed. If you acknowledge it, gain +1 Karma. If you hide it, roll Will TN 6.
@@ -244,8 +244,8 @@ Once per game, the GM may reveal you authored a mutiny order that was never exec
 
 ⸻
 
-Authority Figure
-Background
+Command Presence
+Ability
 Rigid, Protective
 
 Once per session, assert your authority to coordinate the crew. Allies gain advantage on their next action, but NPCs may resist your command.
@@ -257,8 +257,7 @@ Once per session, assert your authority to coordinate the crew. Allies gain adva
 ⸻
 
 ✅ Breakdown:
-	•	Abilities (5): Heavy Strike, Suppressing Fire, Battlefield Reflexes, Armor Training, Secure the Perimeter
-	•	Backgrounds (3): Ex-Military, Mutiny Order, Authority Figure
+	•	Abilities (8): Heavy Strike, Suppressing Fire, Battlefield Reflexes, Armor Training, Secure the Perimeter, Tactical Protocol, Hidden Mutiny, Command Presence
 	•	Items (3): Captain's Revolver, Security Keycard, Combat Stims
 
 ⸻

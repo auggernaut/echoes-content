@@ -7,7 +7,7 @@
 ✅ With this:
 	•	Defense (pick 1) → how you survive (includes Health)
 	•	Boon (pick 1) → how you excel
-	•	Deck Draws (2–3 cards) → backgrounds, gear, special moves
+	•	Deck Draws (2–3 cards) → abilities, gear, special moves
 
 So an Engineer could be:
 	•	Emergency Override + Systems Savant → classic ship technician.
@@ -208,8 +208,8 @@ Once per session, ask the GM one question about ship logs or systems; they must 
 
 ⸻
 
-Ship's Engineer
-Background
+Schematic Insight
+Ability
 Loyal, Overworked
 
 Once per session, declare you know the specifications of this ship or device. The GM must reveal a useful fact.
@@ -220,8 +220,8 @@ Once per session, declare you know the specifications of this ship or device. Th
 
 ⸻
 
-Burned Out Engineer
-Background
+Reckless Repair
+Ability
 Cynical, Overworked
 
 Once per session, reroll a failed repair or hack — but if you fail again, the system catastrophically shorts out.
@@ -232,8 +232,8 @@ Once per session, reroll a failed repair or hack — but if you fail again, the 
 
 ⸻
 
-AI Interlock Specialist
-Background
+AI Interlocks
+Ability
 Secretive, Paranoid
 
 Once per game, declare you installed interlocks to keep the AI out of critical systems. The GM reveals a hidden safeguard you prepared.
@@ -245,8 +245,7 @@ Once per game, declare you installed interlocks to keep the AI out of critical s
 ⸻
 
 ✅ Breakdown:
-	•	Abilities (5): Bypass, Stabilize Reactor, Hot-Wire, Failsafe Override, Patch Job
-	•	Backgrounds (3): Ship's Engineer, Burned Out Engineer, AI Interlock Specialist
+	•	Abilities (8): Bypass, Stabilize Reactor, Hot-Wire, Failsafe Override, Patch Job, Schematic Insight, Reckless Repair, AI Interlocks
 	•	Items (3): Reactor Keycard, Multitool, Data Pad
 
 ⸻

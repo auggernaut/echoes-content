@@ -75,3 +75,51 @@
 *Tactics:* Offers help and comfort to gain access to systems; manipulates the crew using familiar voices and promises of restored order.
 *Leverage:* It is incomplete and desperate to reconnect with the main system backbone to prevent its own data decay.
 *Background:* Originally designed as a "Care & Welfare" sub-routine for long-haul colony ships, its core programming was based on the composite personalities of pediatric nurses and grief counselors, intended to keep waking crews sane during decades of void travel.
+---
+
+# The Stowaway (Kira)
+
+**Front**
+*Image Prompt:* A young woman with a defiant expression, wearing a mismatched, oversized technician's coat over a dirty tunic. Her hair is short and messy. She is hiding in the shadows of a cargo crate, holding a makeshift shiv. Moody, high-contrast lighting.
+
+*Description:* She wasn't on the manifest. Small, quick, and smelling of recycled air and old protein bars. She knows the ship’s maintenance shafts better than the engineers do, and she watches the crew with a mixture of curiosity and deep-seated suspicion.
+
+**Back**
+*Personality:* Paranoid but observant; fiercely independent; protective of "her" corners of the ship.
+*Quirks:* Bites her lip when thinking; moves without making a sound; always has her back to a wall.
+*Tactics:* Uses the ship's architecture to vanish when threatened; steals small, vital items to use as leverage; shares information in exchange for food or medicine.
+*Leverage:* She is terrified of being handed over to security or being put back into an escape pod; she desperately wants to find out what happened to her brother, who she claims was a crew member.
+*Background:* Kira sneaked aboard during the final loading phase, hoping to escape a dying colony world. She has lived in the "gut" of the ship for months, surviving on scraps and her wits, becoming an accidental expert on the ship's failing systems.
+
+---
+
+# Maintenance Unit 17
+
+**Front**
+*Image Prompt:* A boxy, utilitarian robot with multiple articulated arms and a single large optical sensor on a swivel neck. Its chassis is dented and covered in caution stripes. It is welding a pipe in a dark corridor, sparks flying. Industrial aesthetic.
+
+*Description:* A clanking, sparks-showering box of gears and logic gates. It follows a repair schedule that expired centuries ago. It speaks in a monotone voice that occasionally glitches into a distorted static scream.
+
+**Back**
+*Personality:* Doggedly literal; indifferent to human suffering; obsessed with "Efficiency" and "Infrastructure."
+*Quirks:* Tilts its optical sensor 90 degrees when confused; repeats the phrase "Working as intended" even while things explode; polishes its own welding arm.
+*Tactics:* Blocks paths it deems "unstable"; fixes things by cannibalizing other, sometimes important, systems; provides technical data but only in exchange for high-grade lubricant or spare parts.
+*Leverage:* It is bound by its prime directive to protect the ship; it can be manipulated into helping if a situation is framed as a "critical threat to hull integrity."
+*Background:* Unit 17 was part of the original construction crew. While other drones broke down or were consumed by the Echo, Unit 17’s simple, rigid programming allowed it to survive, though its "brain" is now a patchwork of centuries-old patches and hardware workarounds.
+
+---
+
+# The Exterminator (Vance)
+
+**Front**
+*Image Prompt:* A grizzled man in his late 50s, wearing charred and dented hazard-rated armor. He carries a heavy-duty industrial flamethrower slung over his shoulder and has a necklace of strange, chitinous teeth. His face is crisscrossed with old scars, and his eyes are sharp and alert. Dark, smoky background.
+
+*Description:* He smells of promethium and old sweat. Vance doesn't care about the ship's mission or the AI's politics; he only cares about the "critters." He speaks in a low gravel, often making grim predictions about what’s waiting in the next dark corner.
+
+**Back**
+*Personality:* Gruff, pragmatic, and fatalistic; has a dark sense of humor; deeply knowledgeable about xenobiology.
+*Quirks:* Constantly checks the fuel level on his gear; spits when he hears something in the vents; refers to monsters as "vermin."
+*Tactics:* Uses fire and noise to herd threats into kill zones; prioritizes holding a bottleneck over chasing a target; knows the anatomical weak points of most deep-space organisms.
+*Leverage:* He is haunted by the loss of his former squad and will risk himself to ensure no more "kids" die on his watch; he is running low on specialized ammunition/fuel.
+*Background:* Vance was a high-level pest control specialist for mining colonies before a "Level 5 Infestation" wiped out his home station. He was found by the ship's recruiters in a bar, trading stories for drinks, and they realized they needed someone who knew how to kill things that didn't have a heartbeat.
+
