@@ -23,6 +23,22 @@ An escaped biological specimen (an **Apex Predator** or **Stalker**) is loose on
 
 ---
 
+## 🚀 Adventure Start: The Hook
+Before you begin, read this to the players to set the stage and get them invited in the story.
+
+> **"You are the maintenance crew of the *Aegis*, a deep-space hauler carrying a classified cargo. You've just woken up from cryo-sleep because the perimeter alarm in the Observation Deck has been tripped. The ship is silent. The air is cold. And you are the only ones awake."**
+
+### Setup Questions (Ask the Players)
+Don't just start the game—let them build the hook. Ask one question to each player:
+*   **To the Security Officer**: "Why did you insist on bringing your heavy pulse rifle on a routine maintenance check?"
+*   **To the Engineer**: "What system has been glitching for weeks that you're dreading to fix?"
+*   **To the Medic**: "You have a bad feeling about this mission. What rumors did you hear before we left port?"
+
+### 🌟 Rule: Roleplay Rewards
+Tell the players: *"If you do something cool, act in character, or make a choice that makes the story better (even if it hurts your character), I will give you a **Karma Token** (Hero Die). You can use these to re-roll dice later."*
+
+---
+
 ## 🎬 Scene 1: The Observation Deck
 **Tags**: Silent, Expansive, Star-lit
 **Location Card**: [Observation Deck](file:///Users/home/Dev/git/echoes-content/SciFi%20v5/Locations.md)
