@@ -1,11 +1,29 @@
-# 🎴 SciFi v5 Card Design System
+## 🏗️ Character Creation & Loadout
 
-## Core Concept
-This card design transforms the game into a **Deck-Builder ARPG**. Players have a limited **Loadout Capacity (LP)** (e.g., 10 Points). They must build a deck of Items and Abilities whose total Cost ≤ Capacity. 
+### The Signature Trio
+Every character starts with a **5-Slot Loadout**. At character creation, players must select:
+1.  **[DEFENSE] (Pick 1)**: Occupies **1 Slot**. Provides health and avoidance.
+2.  **[BOON] (Pick 1)**: Occupies **1 Slot**. Provides passive mastery.
+3.  **The Remaining 3 Slots**: Can be filled with any combination of **[ABILITY]** or **[ITEM]** cards.
+    *   **[ABILITY]**: Usually occupies 0-1 Slots.
+    *   **[ITEM]**: Occupies 1-2 Slots as indicated.
 
-This incentivizes buying **Booster Packs** to find cards with **Lower Cost** (Efficiency) or **Better Tags** (Synergy) to optimize their build.
+Players can discover **Loot** cards during a session, but they must always stay within their **5-Slot** limit, dropping equipment if necessary to make room.
 
 ---
+
+## 📐 Physical Formats
+
+### Player Cards (Standard)
+*   **Format**: Double-sided or Single-sided with standard backing.
+*   **Content**: Brief, mechanical, and focused on immediate use.
+
+### GM Cards (Tarot / Large)
+*   **Format**: Large format (Tarot) to hold high-quality character art, location maps, and detailed mechanical blocks.
+*   **Components**: Includes **Locations**, **NPCs**, **Threats**, and **Loot**.
+*   **Card Layout**: All Adventure cards follow a consistent **Front/Back** structure:
+    *   **Front**: High-quality setting/character art and an immersive "First Impression" description.
+    *   **Back**: Full detail including Mechanics, Item Details, GM guidance, and Narrative Revelations.
 
 ## 📐 Card layout (Text Format)
 
@@ -22,6 +40,7 @@ Every card in the system will follow this standardized block structure.
 
 **[Effect Name]**: 
 The rules text describing what the card does.
+**[BURN]**: If this keyword is present, discard the card after use.
 Highlights include **Keywords** and **Dice mechanics**.
 
 ---------------------------------------------------------------------
@@ -34,17 +53,20 @@ Highlights include **Keywords** and **Dice mechanics**.
 
 ## 🔍 The Anatomy Explained
 
-### 1. 💎 Cost (Loadout Points - LP)
-*   **Location**: Top Left / Top Right.
-*   **Purpose**: The primary balancing knob.
-*   **Values**:
-    *   **0 LP**: Basic skills (Punch, Run). Weak but free.
-    *   **1-2 LP**: Standard reliable gear (Pistol, Wrench).
-    *   **3-4 LP**: Strong powers (Turret, Heavy Armor).
-    *   **5+ LP**: "Ultimate" moves.
-*   **Sales Mechanic**: Players hunt for "Efficient" versions. A Common Pistol costs 2 LP. A **Rare Pistol** costs 1 LP but does the same damage. This frees up space for more gear.
+### 1. 📂 Deck Category (Identification)
+*   **Location**: Top Center / Border Color.
+*   **Character Cards (🔵 Blue Border/Icon)**: Signature gear and skills.
+*   **Adventure Cards (🔴 Red Border/Icon)**: Salvage, environmental loot, and quest items.
 
-### 2. 🏷️ Tags & Factions (Synergy)
+### 2. ⚡ Card Types
+*   **[DEFENSE]**: Core survival stats (Health) and avoidance mechanics. **Pick 1** at character creation.
+*   **[BOON]**: Passive traits or major skill specialties. **Pick 1** at character creation.
+*   **[ABILITY]**: Activated techniques or training.
+*   **[ITEM]**: Physical gear that takes up a Slot.
+*   **[BURN]**: High-power consumables. Discarded after use (Found in Adventure Decks).
+*   **[SLOT]**: The cost to carry (Usually 1, heavy items are 2).
+
+### 3. 🏷️ Tags & Factions (Synergy)
 *   **Location**: Under the Type line.
 *   **Examples**: `[Void Corp]`, `[Thermal]`, `[Heavy]`, `[Cyber]`.
 *   **Purpose**: Encourages collecting "Sets".
@@ -63,44 +85,43 @@ Highlights include **Keywords** and **Dice mechanics**.
 
 ## 🖼️ Examples
 
-### Example 1: The "Starter" Card (Inefficient)
+### Example 1: Character Deck Card (Permanent)
 ```text
-💎3  |  EMERGENCY OVERRIDE                                  🛠️
+🔵 1 SLOT  |  SIGNATURE MULTITOOL                         🛠️
 ---------------------------------------------------------------------
-DEFENSE • TECH • ⚪ COMMON
+CHARACTER • [ITEM] • ⚪ COMMON
 ---------------------------------------------------------------------
-[TAGS]: [Engineering], [Improvised]
+[TAGS]: [Engineering], [Personal]
 
-**Bypass**: 
-When a hazard causes a Strike, roll a d6. 
-On a 4+, you negate the Strike.
+**Reliable Fix**: 
+Boon on any [Repair] or [Tech] roll.
+If the roll is a 6, gain 1 Karma.
 
 ---------------------------------------------------------------------
-"I can fix it, but it's gonna be ugly."
+"Been with me since the academy. It's the only thing I trust."
 ---------------------------------------------------------------------
-CORE-005
+CHAR-ENG-001
 ```
 
-### Example 2: The "Chase" Card (Efficient Upgrade)
-*Players buy packs to replace the card above with this one.*
-
+### Example 2: Adventure Deck Card (Discovered Loot)
 ```text
-💎2  |  SYSTEMS BACKDOOR                                    🌌
+🔴 1 SLOT  |  EMERGENCY STIM-PATCH                      🌌
 ---------------------------------------------------------------------
-DEFENSE • TECH • 🔵 RARE
+ADVENTURE • [ITEM] • [BURN] • 🟢 UNCOMMON
 ---------------------------------------------------------------------
-[TAGS]: [Engineering], [Void Corp], [Cyber]
+[TAGS]: [Medical], [One-Shot]
 
-**Root Access**: 
-When a hazard causes a Strike, roll a d6. 
-On a 3+, you negate the Strike.
-**Set Bonus (Void Corp)**: If you have 2 other [Void Corp] cards, 
-you also heal 1 Health.
+**Adrenaline Rush**: 
+Heal 1 Strike and take an immediate extra action.
+**[BURN]**: Discard this card after use.
 
----------------------------------------------------------------------
-"Standard protocols are for people who don't know the password."
----------------------------------------------------------------------
-EXP1-042
+**Back (Item Details)**
+*Description:* Standard issue for emergency waking. Tastes like copper.
+
+**Mechanics:** 
+*   **Adrenaline Rush**: Heal 1 Strike and take an immediate extra action.
+*   **[BURN]**: Discard this card after use.
+
 ```
 
 ### Example 3: The "Trash to Treasure" Component

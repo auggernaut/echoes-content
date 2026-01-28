@@ -1,27 +1,14 @@
-⸻
+🎴 Engineer Character Deck (10 Cards)
 
-🎴 Engineer Deck (10 Cards)
-
-⸻
-
-✅ With this:
-	•	Defense (pick 1) → how you survive (includes Health)
-	•	Boon (pick 1) → how you excel
-	•	Deck Draws (2–3 cards) → abilities, gear, special moves
-
-So an Engineer could be:
-	•	Emergency Override + Systems Savant → classic ship technician.
-	•	Dive for Cover + Mechanical Instincts → quick improviser.
-	•	Failsafe Trigger + Data Whisperer → paranoid systems analyst.
-
-⸻
-
-🎴 Engineer — Defense Cards (pick 1 at character creation)
+**Character Creation**:
+1.  **Pick 1 [DEFENSE]** (Uses 1 Slot)
+2.  **Pick 1 [BOON]** (Uses 1 Slot)
+3.  **Spend 3 Slots** on any combination of **[ABILITY]** or **[ITEM]** cards below.
 
 ⸻
 
 Emergency Override
-Defense
+🔵 CHARACTER • [DEFENSE] • [SLOT: 1]
 Prepared, Cunning
 Health: 3 Strikes
 
@@ -34,7 +21,7 @@ When a system or hazard would cause you a Strike (fire, gas, decompression, reac
 ⸻
 
 Dive for Cover
-Defense
+🔵 CHARACTER • [DEFENSE] • [SLOT: 1]
 Quick, Desperate
 Health: 3 Strikes
 
@@ -48,7 +35,7 @@ If you expose another PC while dodging, gain +1 Karma.
 ⸻
 
 Failsafe Trigger
-Defense
+🔵 CHARACTER • [DEFENSE] • [SLOT: 1]
 Paranoid, Precise
 Health: 3 Strikes
 
@@ -67,7 +54,7 @@ Once per fight, negate a Strike against you by declaring a failsafe you prepared
 ⸻
 
 Systems Savant
-Boon
+🔵 CHARACTER • [BOON] • [SLOT: 1]
 Analytical, Precise
 
 Roll +1d6 when: repairing ship systems, hacking terminals, bypassing security locks, diagnosing system failures, rerouting power.
@@ -79,7 +66,7 @@ Roll +1d6 when: repairing ship systems, hacking terminals, bypassing security lo
 ⸻
 
 Mechanical Instincts
-Boon
+🔵 CHARACTER • [BOON] • [SLOT: 1]
 Intuitive, Resourceful
 
 Roll +1d6 when: improvising with tools, jury-rigging broken equipment, using machines in creative ways, making repairs with limited resources, understanding how devices work.
@@ -91,7 +78,7 @@ Roll +1d6 when: improvising with tools, jury-rigging broken equipment, using mac
 ⸻
 
 Data Whisperer
-Boon
+🔵 CHARACTER • [BOON] • [SLOT: 1]
 Focused, Eerie
 
 Roll +1d6 when: reading ship logs, accessing data terminals, interfacing with AI systems, decrypting files, analyzing corrupted data, tracing system connections.
@@ -102,12 +89,12 @@ Roll +1d6 when: reading ship logs, accessing data terminals, interfacing with AI
 
 ⸻
 
-🎴 Engineer — Ability Cards (pick 3 at character creation)
+🎴 Engineer — Ability & Item Cards (Spend remaining 3 Slots)
 
 ⸻
 
 Bypass
-Ability
+🔵 CHARACTER • [ABILITY] • [SLOT: 1]
 Clever, Quick
 
 Once per scene, you may unlock, disable, or reroute one ship system (doors, alarms, locks, life support) without rolling.
@@ -119,7 +106,7 @@ Once per scene, you may unlock, disable, or reroute one ship system (doors, alar
 ⸻
 
 Stabilize Reactor
-Ability
+🔵 CHARACTER • [ABILITY] • [SLOT: 1]
 Risky, Vital
 
 Once per session, roll a d6. On a 4+, you stabilize a failing system (reactor, engine, life support). On a 1, it worsens dramatically.
@@ -131,7 +118,7 @@ Once per session, roll a d6. On a 4+, you stabilize a failing system (reactor, e
 ⸻
 
 Hot-Wire
-Ability
+🔵 CHARACTER • [ABILITY] • [SLOT: 1]
 Improvised, Bold
 
 Once per fight, you may jury-rig a device or weapon to function in an unintended way. Gain advantage on that roll, then the device breaks.
@@ -143,7 +130,7 @@ Once per fight, you may jury-rig a device or weapon to function in an unintended
 ⸻
 
 Failsafe Override
-Ability
+🔵 CHARACTER • [ABILITY] • [SLOT: 1]
 Cautious, Dangerous
 
 Once per session, you can force a system to keep running one more time before total failure.
@@ -155,7 +142,7 @@ Once per session, you can force a system to keep running one more time before to
 ⸻
 
 Patch Job
-Ability
+🔵 CHARACTER • [ABILITY] • [SLOT: 1]
 Improvised, Desperate
 
 Once per scene, restore 1 temporary Hit to an ally by cobbling together a brace, patch, or rig.
@@ -166,22 +153,8 @@ Once per scene, restore 1 temporary Hit to an ally by cobbling together a brace,
 
 ⸻
 
-Reactor Keycard
-Item
-Essential, Restricted
-
-A keycard that grants access to Engineering controls and reactor systems.
-
-Once per session, use this to override a locked system or gain advantage on an Engineering roll.
-
-"I've been waiting for this moment."
-	•	Who gave me this card, and what did it cost?
-	•	What system am I forbidden from accessing with it?
-
-⸻
-
 Multitool
-Item
+🔵 CHARACTER • [ITEM] • [SLOT: 1]
 Compact, Essential
 
 A folding all-purpose tool with sparks and solder.
@@ -195,7 +168,7 @@ Once per room, reroll a failed repair.
 ⸻
 
 Data Pad
-Item
+🔵 CHARACTER • [ITEM] • [SLOT: 1]
 Portable, Flickering
 
 A cracked pad that still connects to half the ship's systems.
@@ -209,7 +182,7 @@ Once per session, ask the GM one question about ship logs or systems; they must 
 ⸻
 
 Schematic Insight
-Ability
+🔵 CHARACTER • [ABILITY] • [SLOT: 1]
 Loyal, Overworked
 
 Once per session, declare you know the specifications of this ship or device. The GM must reveal a useful fact.
@@ -221,7 +194,7 @@ Once per session, declare you know the specifications of this ship or device. Th
 ⸻
 
 Reckless Repair
-Ability
+🔵 CHARACTER • [ABILITY] • [SLOT: 1]
 Cynical, Overworked
 
 Once per session, reroll a failed repair or hack — but if you fail again, the system catastrophically shorts out.
@@ -233,7 +206,7 @@ Once per session, reroll a failed repair or hack — but if you fail again, the 
 ⸻
 
 AI Interlocks
-Ability
+🔵 CHARACTER • [ABILITY] • [SLOT: 1]
 Secretive, Paranoid
 
 Once per game, declare you installed interlocks to keep the AI out of critical systems. The GM reveals a hidden safeguard you prepared.
@@ -245,8 +218,4 @@ Once per game, declare you installed interlocks to keep the AI out of critical s
 ⸻
 
 ✅ Breakdown:
-	•	Abilities (8): Bypass, Stabilize Reactor, Hot-Wire, Failsafe Override, Patch Job, Schematic Insight, Reckless Repair, AI Interlocks
-	•	Items (3): Reactor Keycard, Multitool, Data Pad
-
-⸻
-
+	•	1 Defense + 1 Boon + 3 Extra Cards = 5 Total Slots.

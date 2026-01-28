@@ -1,27 +1,14 @@
-⸻
+🎴 Survivor Character Deck (10 Cards)
 
-🎴 Survivor Deck (10 Cards)
-
-⸻
-
-✅ With this:
-	•	Defense (pick 1) → how you survive (includes Health)
-	•	Boon (pick 1) → how you excel
-	•	Deck Draws (2–3 cards) → abilities, gear, special moves
-
-So a Survivor could be:
-	•	Duck and Weave + Scrapwork Survivor → quick scavenger.
-	•	Cover Rat + Loot Expert → cautious opportunist.
-	•	Play Dead + Improviser → desperate trickster.
-
-⸻
-
-🎴 Survivor — Defense Cards (pick 1 at character creation)
+**Character Creation**:
+1.  **Pick 1 [DEFENSE]** (Uses 1 Slot)
+2.  **Pick 1 [BOON]** (Uses 1 Slot)
+3.  **Spend 3 Slots** on any combination of **[ABILITY]** or **[ITEM]** cards below.
 
 ⸻
 
 Duck and Weave
-Defense
+🔵 CHARACTER • [DEFENSE] • [SLOT: 1]
 Quick, Slippery
 Health: 2 Strikes
 
@@ -29,13 +16,13 @@ When targeted by an attack, roll a d6. On 5+, you slip aside and avoid the Strik
 
 "I don't block hits. I make sure they don't land."
 	•	Who always tells me to "stand still for once"?
-	•	What scar reminds me I wasn't fast enough?
+	•	What scar reminds me I wasn't fast enough once?
 
 ⸻
 
 Cover Rat
-Defense
-Cautious, Opportunistic
+🔵 CHARACTER • [DEFENSE] • [SLOT: 1]
+Causal, Opportunistic
 Health: 3 Strikes
 
 When in a room with cover (crates, walls, debris), roll a d6. On 4+, a Strike that hits you instead shatters the cover.
@@ -47,7 +34,7 @@ When in a room with cover (crates, walls, debris), roll a d6. On 4+, a Strike th
 ⸻
 
 Play Dead
-Defense
+🔵 CHARACTER • [DEFENSE] • [SLOT: 1]
 Sneaky, Desperate
 Health: 2 Strikes
 
@@ -59,14 +46,8 @@ Once per fight, you may avoid a Strike entirely by dropping prone and feigning d
 
 ⸻
 
-⸻
-
-🎴 Survivor — Boon Cards (pick 1 at character creation)
-
-⸻
-
 Loot Expert
-Boon
+🔵 CHARACTER • [BOON] • [SLOT: 1]
 Greedy, Sharp-Eyed
 
 Roll +1d6 when: searching for valuables, finding hidden stashes, identifying salvageable gear, appraising items, spotting overlooked resources, looting efficiently.
@@ -78,7 +59,7 @@ Roll +1d6 when: searching for valuables, finding hidden stashes, identifying sal
 ⸻
 
 Improviser
-Boon
+🔵 CHARACTER • [BOON] • [SLOT: 1]
 Clever, Resourceful
 
 Roll +1d6 when: using junk and scraps, creating improvised tools or weapons, jury-rigging solutions, adapting items for new purposes, making do with limited resources, thinking outside the box.
@@ -90,7 +71,7 @@ Roll +1d6 when: using junk and scraps, creating improvised tools or weapons, jur
 ⸻
 
 Scrapwork Survivor
-Boon
+🔵 CHARACTER • [BOON] • [SLOT: 1]
 Tough, Pragmatic
 
 Roll +1d6 when: scavenging food and supplies, bracing wounds, jury-rigging shelter, finding safe places to rest, enduring harsh conditions, making do with nothing, surviving against the odds.
@@ -101,12 +82,8 @@ Roll +1d6 when: scavenging food and supplies, bracing wounds, jury-rigging shelt
 
 ⸻
 
-🎴 Survivor — Ability Cards (pick 3 at character creation)
-
-⸻
-
 Jury-Rig
-Ability
+🔵 CHARACTER • [ABILITY] • [SLOT: 1]
 Clever, Resourceful
 
 Once per scene, you can cobble together a temporary tool or weapon from scraps. It works for one use, then breaks.
@@ -118,7 +95,7 @@ Once per scene, you can cobble together a temporary tool or weapon from scraps. 
 ⸻
 
 Loot Rat
-Ability
+🔵 CHARACTER • [ABILITY] • [SLOT: 1]
 Greedy, Opportunistic
 
 Once per room, you may ask the GM: "What here is valuable?" They must answer truthfully.
@@ -130,7 +107,7 @@ Once per room, you may ask the GM: "What here is valuable?" They must answer tru
 ⸻
 
 Salvage Instinct
-Ability
+🔵 CHARACTER • [ABILITY] • [SLOT: 1]
 Greedy, Reckless
 
 When loot is on the line, you may roll twice and keep the better result on risky actions.
@@ -142,7 +119,7 @@ When loot is on the line, you may roll twice and keep the better result on risky
 ⸻
 
 Scrapshield
-Ability
+🔵 CHARACTER • [ABILITY] • [SLOT: 1]
 Protective, Improvised
 
 Once per session, you can throw together a junk barricade, giving yourself or an ally +1 temporary Hit.
@@ -154,7 +131,7 @@ Once per session, you can throw together a junk barricade, giving yourself or an
 ⸻
 
 Hide in Plain Sight
-Ability
+🔵 CHARACTER • [ABILITY] • [SLOT: 1]
 Sneaky, Calm
 
 Once per scene, you may blend into your surroundings or appear harmless. Enemies ignore you unless you act aggressively.
@@ -166,7 +143,7 @@ Once per scene, you may blend into your surroundings or appear harmless. Enemies
 ⸻
 
 Survivor's Bag
-Item
+🔵 CHARACTER • [ITEM] • [SLOT: 1]
 Useful, Clattering
 
 A bag full of scavenged supplies and improvised tools.
@@ -180,7 +157,7 @@ Once per session, pull out a useful mundane item (rope, crowbar, duct tape, rati
 ⸻
 
 Lucky Trinket
-Item
+🔵 CHARACTER • [ITEM] • [SLOT: 0]
 Fragile, Personal
 
 A small keepsake that reminds you of home or someone you lost.
@@ -194,7 +171,7 @@ Once per game, reroll any failed roll. The trinket breaks afterward.
 ⸻
 
 Emergency Beacon Core
-Item
+🔵 CHARACTER • [ITEM] • [SLOT: 1]
 Valuable, Dangerous
 
 A portable beacon that can transmit an SOS signal.
@@ -208,7 +185,7 @@ Once per session, activate to call for help or transmit a message. May draw unwa
 ⸻
 
 Deep Sleep Recall
-Ability
+🔵 CHARACTER • [ABILITY] • [SLOT: 1]
 Disoriented, Determined
 
 Once per session, declare you remember something from before the drift. The GM reveals a clue about the ship's past or your own history.
@@ -220,7 +197,7 @@ Once per session, declare you remember something from before the drift. The GM r
 ⸻
 
 Cycle Recall
-Ability
+🔵 CHARACTER • [ABILITY] • [SLOT: 1]
 Unnerving, Detached
 
 Once per game, declare you've been awake before — maybe multiple times. The GM reveals a hidden truth about the ship's cycles or your own nature.
@@ -232,7 +209,7 @@ Once per game, declare you've been awake before — maybe multiple times. The GM
 ⸻
 
 Scavenger's Claim
-Ability
+🔵 CHARACTER • [ABILITY] • [SLOT: 1]
 Infamous, Respected
 
 Once per session, you may claim scavenger's rights, taking an item or resource even if contested. NPCs react poorly, but other survivors respect you.
@@ -244,8 +221,4 @@ Once per session, you may claim scavenger's rights, taking an item or resource e
 ⸻
 
 ✅ Breakdown:
-	•	Abilities (8): Jury-Rig, Loot Rat, Salvage Instinct, Scrapshield, Hide in Plain Sight, Deep Sleep Recall, Cycle Recall, Scavenger's Claim
-	•	Items (3): Survivor's Bag, Lucky Trinket, Emergency Beacon Core
-
-⸻
-
+	•	1 Defense + 1 Boon + 3 Extra Cards = 5 Total Slots.

@@ -53,8 +53,8 @@ The players are safe here, but they need to realize they are being hunted. This 
 - **If the Security Officer checks the perimeter**: *"I want to check the door for forced entry."*
     *   **GM Response**: "Roll a d6. You need a 4+ to see the details."
     *   **Result**: If they succeed, they find deep claw marks gouged into the steel. *Establish the physical strength of the threat.*
-- **If the Engineer examines the slime**: *"I want to analyze this goo."*
-    *   **GM Response**: "That sounds tricky. Roll a d6. If you use your *Bio-Scanner*, take a **Boon** (roll 2d6 and keep the highest)."
+- **If the Engineer examines the slime**: *"I want to analyze this goo. I have a Bio-Scanner, which gives me a Boon."*
+    *   **GM Response**: "That sounds tricky. Roll 2d6 (keep the highest)."
     *   **Result**: It's bio-luminescent residue. It tracks movement. If they touch it, it glows bright blue.
 - **If anyone fails a roll**: Don't just say "nothing happens." Say: *"You step in the slime by accident. It glows bright blue, revealing your position."*
 
@@ -102,14 +102,14 @@ The creature is stalking them. This scene teaches **Stealth** and **Action Econo
 
 - **The Stalker attacks from above**: It drops onto a crate near the **Medic**. Reading the *Threat Card*, tell the GM: *"It has 2 Strikes to kill. It rolls a d6 to hit you on a 4+."*
 - **Player Turn**:
-    - **Security**: *"I fire my pulse rifle!"*
-        *   **GM**: "Roll a d6 to hit! If you use your *Trained Marksman* ability, take a **Boon**."
+    - **Security**: *"I fire my pulse rifle! I have Trained Marksman, which gives me a Boon."*
+        *   **GM**: "Roll 2d6 to hit!"
         *   **Hit**: The creature shrieks and leaps back into the shadows. (Mark 1 Strike on the monster).
     - **Engineer**: *"I try to hide!"*
         *   **GM**: "Roll a d6 to beat a 4."
         *   **Success**: The creature ignores them and targets someone else.
-    - **Medic**: *"I scan it to find a weak point!"*
-        *   **GM**: "Do you have a scanner? Yes? Take a Boon."
+    - **Medic**: *"I scan it to find a weak point! I have a scanner, so that's a Boon."*
+        *   **GM**: "Roll 2d6."
         *   **Success**: You realize its skin is sensitive to **Heat**.
 
 ### 4. Moving Forward
