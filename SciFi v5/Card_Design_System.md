@@ -25,28 +25,55 @@ Players can discover **Loot** cards during a session, but they must always stay 
     *   **Front**: High-quality setting/character art and an immersive "First Impression" description.
     *   **Back**: Full detail including Mechanics, Item Details, GM guidance, and Narrative Revelations.
 
-## 📐 Card layout (Text Format)
+## 📐 Card Layouts (Text Format)
 
-Every card in the system will follow this standardized block structure.
+Card structure varies by **Deck Category** and **Type**.
+
+### 🔵 Character Deck Layout (Standard Size)
+*Single-sided or with a standard thematic back.*
 
 ```text
 [COST ICON] [CARD NAME]                                    [SET ICON]
 ---------------------------------------------------------------------
-[TYPE] • [SUB-TYPE] • [RARITY]
+🔵 CHARACTER • [TYPE] • [RARITY]
 ---------------------------------------------------------------------
-[TAGS]: [Tag_1], [Tag_2], [Faction]
+[TAGS]: [Tag_1], [Tag_2]
 
-[IMAGE / ILLUSTRATION PLACEHOLDER]
+**[Effect/Mastery Name]**: 
+The mechanical rules text.
 
-**[Effect Name]**: 
-The rules text describing what the card does.
-**[BURN]**: If this keyword is present, discard the card after use.
-Highlights include **Keywords** and **Dice mechanics**.
+**[Narrative Prompt]**: 
+A question or prompt for the player to define their character's past.
 
 ---------------------------------------------------------------------
-"Flavor text describing the world or character."
+"Flavor text describing the character's outlook."
 ---------------------------------------------------------------------
-[COLLECTION ID]                            [ARTIST CREDIT]
+[COLLECTION ID]
+```
+
+### 🔴 Adventure Deck Layout (Tarot Size)
+*Double-sided "Front/Back" structure for immersive gameplay.*
+
+**Front (Player View - First Impression)**
+```text
+🔴 ADVENTURE • [TYPE] • [SLOT COST]
+## [CARD NAME]
+
+[ARTWORK / ILLUSTRATION PLACEHOLDER]
+
+**Front Description**: 
+Immersive, sensory text describing the location, person, or item as first seen.
+```
+
+**Back (GM View / Item Details)**
+```text
+**Back (Full Detail)**
+
+**[Item Details / GM Guidance]**
+*   **Function**: What it does in the world.
+*   **Mechanics**: Advantage/Reroll rules or Strike modification.
+*   **Narrative Twist**: A secret or complication (Targeted for the GM).
+*   **[BURN]**: If present, discard after resolution/use.
 ```
 
 ---
@@ -89,13 +116,16 @@ Highlights include **Keywords** and **Dice mechanics**.
 ```text
 🔵 1 SLOT  |  SIGNATURE MULTITOOL                         🛠️
 ---------------------------------------------------------------------
-CHARACTER • [ITEM] • ⚪ COMMON
+🔵 CHARACTER • [ITEM] • ⚪ COMMON
 ---------------------------------------------------------------------
 [TAGS]: [Engineering], [Personal]
 
 **Reliable Fix**: 
-Boon on any [Repair] or [Tech] roll.
-If the roll is a 6, gain 1 Karma.
+Boon on any [Repair] or [Tech] roll. If the roll is a 6, gain 1 Karma.
+
+**Narrative Prompt**:
+- Who gave you this tool when you first signed onto the Aegis?
+- What's the one thing you've fixed that you're most proud of?
 
 ---------------------------------------------------------------------
 "Been with me since the academy. It's the only thing I trust."
@@ -104,43 +134,26 @@ CHAR-ENG-001
 ```
 
 ### Example 2: Adventure Deck Card (Discovered Loot)
+
+**Front (Player View)**
 ```text
-🔴 1 SLOT  |  EMERGENCY STIM-PATCH                      🌌
----------------------------------------------------------------------
-ADVENTURE • [ITEM] • [BURN] • 🟢 UNCOMMON
----------------------------------------------------------------------
-[TAGS]: [Medical], [One-Shot]
+🔴 [ITEM]  |  [SLOT: 1]
+## EMERGENCY STIM-PATCH                      
 
-**Adrenaline Rush**: 
-Heal 1 Strike and take an immediate extra action.
-**[BURN]**: Discard this card after use.
+[Image: A small adhesive patch with a glowing nanite injector.]
 
-**Back (Item Details)**
-*Description:* Standard issue for emergency waking. Tastes like copper.
-
-**Mechanics:** 
-*   **Adrenaline Rush**: Heal 1 Strike and take an immediate extra action.
-*   **[BURN]**: Discard this card after use.
-
+**Front Description**: 
+A small, sterile-sealed pouch containing an adhesive patch. It smells faintly of ozone and chemicals.
 ```
 
-### Example 3: The "Trash to Treasure" Component
-*A common card that is useless on its own but powerful for fusion.*
-
+**Back (Item Details)**
 ```text
-💎1  |  SPENT URANIUM CELL                                  ☢️
----------------------------------------------------------------------
-ITEM • COMPONENT • ⚪ COMMON
----------------------------------------------------------------------
-[TAGS]: [Radioactive], [Fuel]
+**Back (Full Detail)**
 
-**Unstable**: 
-This card does nothing on its own.
-**Refuel**: Discard this card to recharge a [Heavy Weapon] or 
-power a [Reactor] ability instantly.
-
----------------------------------------------------------------------
-"Warm to the touch. Probably not safe."
----------------------------------------------------------------------
-JUN-088
+**Item Details**
+*   **Function**: Delivers a rapid burst of medical nanites.
+*   **Mechanics**: 
+    *   **Adrenaline Rush**: Heal 1 Strike and take an extra action.
+    *   **[BURN]**: Discard this card after one use.
+*   **Narrative Twist**: The patch is expired; the extra action causes a minor tremor.
 ```
