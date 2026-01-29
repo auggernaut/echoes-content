@@ -8,14 +8,15 @@
 ## The Stalker
 
 **Front (Player-Facing)**
-*Image: A long-limbed shadow clinging to the ceiling of a dark corridor.*
-A flicker of movement in the shadows. A wet, rhythmic scratching against the metal bulkheads. You feel a gaze on the back of your neck, but when you turn, there is only the humming silence of the ship.
+*Image: A long-limbed shadow clinging to the ceiling of a dark corridor. Its eyes are not visible, but you feel their weight.*
+A flicker of movement in the peripherals. A wet, rhythmic scratching against the metal bulkheads. You feel a gaze on the back of your neck, but when you turn, there is only the humming silence of the ship. It wants you to feel alone.
 
 **Back (GM Detail)**
 *   **Strikes:** 2
 *   **To Hit:** 4+ (5+ in bright light)
 *   **Boons:** +1d6 to Stealth, +1d6 to Climbing.
 *   **Abilities:**
+    *   **[Lurker]:** Gains a Boon on attacks if no PC is actively looking at it (GM: enforce player facing).
     *   **Pounce:** If attacking from hidden, deals 1 Strike and targets must roll 4+ to resist or become *Stunned*.
     *   **Shadow Meld:** Can vanish into any non-illuminated area as a free action.
 *   **Behavior:** Avoids groups; strikes the tail of the party; flees if it takes 1 Strike.
@@ -118,3 +119,18 @@ A jagged tear in the hull shows the silent beauty of the void. Loose objects are
 **Back (GM Detail)**
 *   **Save:** 6+ (to avoid being pulled)
 *   **Effect:** Suction pulls characters 1 zone toward the breach each turn. 0 Oxygen in the zone.
+
+---
+
+🔴 ADVENTURE • [HAZARD]
+## Gravity Flutters
+**Tags:** Disorienting, Vertical, Violent
+
+**Front (Player-Facing)**
+*Image: A room where loose tools and debris are suspended mid-air between the floor and ceiling.*
+The artificial gravity is failing in waves. Your stomach lurches as the "down" becomes "up" for a heartbeat, then "sideways." The deckplates groan as the ship struggles to remember which way is home.
+
+**Back (GM Detail)**
+*   **Trigger:** Any critical failure in a room with power issues.
+*   **Effect:** [Axis Flip]: Everyone in the room must roll 4+ or be slammed into the new "floor" (ceiling or wall), taking 1 Strike (Armor allows a save). 
+*   **Gameplay Twist:** For the next turn, the room's architecture is inverted. Tactical advantages (cover) are lost or repositioned.

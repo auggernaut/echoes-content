@@ -29,7 +29,7 @@ A heavy, industrial-grade tool with various folding attachments—wrenches, scan
 
 **Back (Item Details)**
 *   **Function:** Grants advantage on Engineering and Technical checks related to physical repairs or hacking.
-*   **Risk:** The plasma torch can accidentally trigger fire suppression systems.
+*   **Risk:** [Sticky Trigger]: If used for a desperate repair (rolling a 1), the plasma torch triggers fire suppression (Bane on all actions in the room for 1 turn due to foam/halon).
 *   **Mechanical Benefit:** Once per session, automatically succeed on a "Minor Repair" check.
 *   **Narrative Twist:** The tool has the name "Mara Iko" etched into the casing.
 
@@ -94,16 +94,32 @@ Bulky visor-like goggles that allow the wearer to see heat signatures through wa
 ---
 
 🔴 ADVENTURE • [ITEM] • [SLOT: 1]
-## Bio-Scanner
+## Vibration Sensor
 
 **Front (Player View)**
-*Image: A handheld device with a high-resolution screen showing a heartbeat signal.*
-A handheld device with a small, high-resolution screen. It emits a faint, high-pitched ping as it sweeps the area for organic life-signs.
+*Image: A small, circular hub that suction-cups to a bulkhead, showing a ripple-pattern display.*
+A handheld hub that connects to the ship's skin. It "feels" the vibrations in the hull. It doesn't tell you *what* is moving, only *where* and *how heavy*.
 
 **Back (Item Details)**
-*   **Function:** Detects biological entities through walls or floors.
-*   **Mechanical Benefit:** Advantage on "Perception/Scouting" rolls to avoid being surprised.
-*   **Narrative Twist:** The scanner picks up a "Ghost Signal"—a heartbeat in a physically empty room.
+*   **Function:** Detects movement through walls, floors, or vents by hull resonance.
+*   **Mechanical Benefit:** Boon on Scouting rolls. On a Success, the GM tells you the size of the movement (Titan, Humanoid, Small).
+*   **Drawback:** [Blind Resonance]: Cannot distinguish between a crewmate and a monster. If two sources of movement are present, you must guess or roll Will 5+ to focus.
+*   **Narrative Twist:** The sensor picks up a rhythmic "thump-thump" coming from the empty void outside the hull.
+
+---
+
+🔴 ADVENTURE • [ITEM] • [BURN] • [SLOT: 1]
+## Thermal Siphon
+
+**Front (Player View)**
+*Image: A canister with cooling fins that rapidly frosts over when activated.*
+A high-capacity coolant cell designed for reactor emergencies. When cracked, it draws all thermal energy from the immediate vicinity into itself, turning the air into a lung-burning frost.
+
+**Back (Item Details)**
+*   **Function:** Flash-freezes a 10ft area.
+*   **[BURN]:** Discard after one use.
+*   **Mechanical Benefit:** Creates a [Frigid] hazard zone for 3 turns. Any biological creature (like the Stalker) entering the zone must roll 5+ or lose its next action to thermal shock.
+*   **Risk:** If used in a small room, the user takes 1 Strike from freezing air unless they have armor.
 
 ---
 

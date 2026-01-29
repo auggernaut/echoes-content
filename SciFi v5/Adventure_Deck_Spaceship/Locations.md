@@ -95,20 +95,56 @@ Cable looms gather like roots around a cold, black obelisk of memory lattice. Th
 ---
 
 🔴 ADVENTURE • [LOCATION]
-## Cargo Hold / Maintenance Gut
+## Cargo Hold
 **Tags:** Cavernous, Echoing, Shadowy
 
 **Front (Player-Facing)**
-*Image: Towering stacks of shipping containers creating dark canyons. Maintenance shafts and pipes.*
-Columns of cargo crates rise into the darkness above, forming a labyrinth of metal and plastic. Every distant clank or hiss echoes through the vast space, making it impossible to tell where sound originates.
+*Image: Towering stacks of shipping containers creating dark canyons.*
+Columns of cargo crates rise into the darkness above, forming a labyrinth of metal and plastic. Every distant clank or hiss echoes through the vast space, making it impossible to tell where sound originates. The scale makes you feel small and exposed.
 
 **Back (GM Detail)**
 *   **Atmosphere:** Oppressive scale, industrial neglect.
 *   **Key Features:**
-    *   **Cargo Containers:** Some sealed, some pried open.
-    *   **Maintenance Shafts:** Narrow tunnels through the ship's "gut."
+    *   **Cargo Containers:** Pried open like ribcages.
+    *   **Catwalks:** Metal grating suspended over the abyss.
 *   **Hazards:** Unstable stacks, high-voltage conduits, toxic fumes.
-*   **Reveals:** Container labeled "Classified Bio-Hazard"; makeshift living area hidden in a crate.
+*   **Reveals:** A container labeled "Classified Bio-Hazard"; a trail of discarded gear leading to a vent.
+
+---
+
+🔴 ADVENTURE • [LOCATION]
+## The Gut (Maintenance)
+**Tags:** Cramped, Hissing, Vibrating
+
+**Front (Player-Facing)**
+*Image: Narrow maintenance shafts filled with hissing steam and low-hanging wires.*
+The walls squeeze in. You can feel the ship's heartbeat through the vibrating steel. It's a claustrophobic vein of pipes, cables, and narrow crawlspaces. Every movement feels loud, and every hiss of steam feels like a breath.
+
+**Back (GM Detail)**
+*   **Atmosphere:** Claustrophobic dread, mechanical intimacy.
+*   **Key Features:**
+    *   **The Veins:** Narrow tunnels where one must crawl.
+    *   **Power Junctions:** Humming nodes pulsing with lethal energy.
+*   **Hazards:** [Cramped Combat] (Bane on rolls using large weapons like Rifles or Two-Handed tools), scalding steam.
+*   **Reveals:** A makeshift "nest" made of shredded jumpsuits and copper wire; claw marks inside the ventilation ducts.
+
+---
+
+🔴 ADVENTURE • [LOCATION]
+## Hydroponics Wing
+**Tags:** Humid, Overgrown, Oxygen-Rich
+
+**Front (Player-Facing)**
+*Image: Rows of vertical glass tubes filled with bioluminescent algae and twisted, pale vines. The air is thick and smells of wet earth and ozone.*
+The air here is sweet—too sweet. Oxygen levels are in the red, making your skin tingle. Pale vines creep out of shattered growth tanks, illuminated by the ghostly green glow of nutrient vats. The mist is thick enough to hide a predator.
+
+**Back (GM Detail)**
+*   **Atmosphere:** Tropical humidity, uncanny growth.
+*   **Key Features:**
+    *   **Oxygen Scrubbers:** Massive fans humming at triple speed.
+    *   **Growth Tanks:** Shattered glass and spilling nutrient sludge.
+*   **Hazards:** [Oversized Oxygen Levels] (Any use of fire or energy weapons that causes a Strike deals +1 additional Strike from the micro-detonation), slippery moss, low visibility.
+*   **Reveals:** The central scrubber is choked with bio-matter; a crew member's skeleton half-merged with the vines.
 
 ---
 
