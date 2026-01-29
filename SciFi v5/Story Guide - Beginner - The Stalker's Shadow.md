@@ -26,7 +26,7 @@ An escaped biological specimen (an **Apex Predator** or **Stalker**) is loose on
 ## 🚀 Adventure Start: The Hook
 Before you begin, read this to the players to set the stage and get them invited in the story.
 
-> **"You are the maintenance crew of the *Aegis*, a deep-space hauler carrying a classified cargo. You've just woken up from cryo-sleep because the perimeter alarm in the Observation Deck has been tripped. The ship is silent. The air is cold. And you are the only ones awake."**
+> **"You are the on-duty maintenance crew of the *Aegis*, a deep-space hauler. It's the middle of the 'ghost shift'—that quiet, cold stretch where the rest of the crew is sleeping and the ship belongs to you. Suddenly, the console at your station chirps. A proximity alarm has been tripped in the Observation Deck. You've been sent to investigate what we assume is a simple sensor glitch. "**
 
 ### Setup Questions (Ask the Players)
 Don't just start the game—let them build the hook. Ask one question to each player:
@@ -52,11 +52,15 @@ The players are safe here, but they need to realize they are being hunted. This 
 ### 3. Player Actions & GM Responses
 - **If the Security Officer checks the perimeter**: *"I want to check the door for forced entry."*
     *   **GM Response**: "Roll a d6. You need a 4+ to see the details."
-    *   **Result**: If they succeed, they find deep claw marks gouged into the steel. *Establish the physical strength of the threat.*
+    *   **Result**: 
+        *   **Success**: They find deep claw marks gouged into the steel. *Establish the physical strength of the threat.*
+        *   **Failure**: They focus so hard on the door they miss the trail of items; the group loses their chance to track the creature before it reaches the vents.
 - **If the Engineer examines the slime**: *"I want to analyze this goo. I have a Bio-Scanner, which gives me a Boon."*
     *   **GM Response**: "That sounds tricky. Roll 2d6 (keep the highest)."
-    *   **Result**: It's bio-luminescent residue. It tracks movement. If they touch it, it glows bright blue.
-- **If anyone fails a roll**: Don't just say "nothing happens." Say: *"You step in the slime by accident. It glows bright blue, revealing your position."*
+    *   **Result**: 
+        *   **Success**: It's bio-luminescent residue. It tracks movement. If they touch it, it glows bright blue.
+        *   **Failure**: The scanner malfunctions from psychotropic interference. As you step back in frustration, you slide right through the goo. It glows bright blue, broadcasting your exact position to the creature in the vents.
+- **The "Fail Forward" Rule**: Never let a failed roll stall the game. If a player fails, always push the story forward, but with a complication or cost. 
 
 ### 4. Moving Forward
 **Specialist Aris** drops from a ceiling vent (scaring them). She ignores the slime and points her rifle down the dark corridor. *"It's heading to the Cargo Hold. It likes the cold. If we don't seal it in, it'll start breeding."*
@@ -104,13 +108,19 @@ The creature is stalking them. This scene teaches **Stealth** and **Action Econo
 - **Player Turn**:
     - **Security**: *"I fire my pulse rifle! I have Trained Marksman, which gives me a Boon."*
         *   **GM**: "Roll 2d6 to hit!"
-        *   **Hit**: The creature shrieks and leaps back into the shadows. (Mark 1 Strike on the monster).
+        *   **Result**:
+            *   **Success**: The creature shrieks and leaps back into the shadows. (Mark 1 Strike on the monster).
+            *   **Failure**: The shot misses, hitting a steam pipe. The room fills with fog, giving the Stalker a Boon on its next attack.
     - **Engineer**: *"I try to hide!"*
         *   **GM**: "Roll a d6 to beat a 4."
-        *   **Success**: The creature ignores them and targets someone else.
+        *   **Result**: 
+            *   **Success**: The creature ignores them and targets someone else.
+            *   **Failure**: They knock over a crate, making a loud clang. The Stalker strikes them immediately (Take 1 Strike).
     - **Medic**: *"I scan it to find a weak point! I have a scanner, so that's a Boon."*
         *   **GM**: "Roll 2d6."
-        *   **Success**: You realize its skin is sensitive to **Heat**.
+        *   **Result**: 
+            *   **Success**: You realize its skin is sensitive to **Heat**.
+            *   **Failure**: The scanner picks up the Medic's own frantic heartbeat. They gain the [Panicked] condition.
 
 ### 4. Moving Forward
 Aris shouts: *"We can't kill it in the dark! Inspect the container cranes! Drive it toward the Reactor Core!"* The players must make a fighting retreat, holding off the creature while moving to the exit.
@@ -129,10 +139,18 @@ This is the final Boss Fight. The environment is the weapon.
 
 ### 3. The Final Conflict
 The players must use their skills to kill it or eject it.
-- **Option A: The Burn (Engineer)**: *"I overload the cooling vent!"* (Roll 4+). Failure means the console explodes.
+- **Option A: The Burn (Engineer)**: *"I overload the cooling vent!"* (Roll 4+). 
+    *   **Success**: The creature is blasted by superheated steam, ending the fight.
+    *   **Failure**: The console explodes. The Engineer takes 2 Strikes and the creature remains active.
 - **Option B: The Stand (Security)**: *"I use Bulwark Stance to tank the hit!"* (Read the card: You ignore the damage on a 4+ roll).
-- **Option C: The Lure (Survivor)**: *"I act as bait."* Roll a d6 to dodge. If they fail, they take a Strike, but the monster is in position.
-- **Option D: The Toxin (Medic)**: *"I inject the poison!"* This is an attack roll. If successful, the creature takes 2 Strikes instantly.
+    *   **Success**: The creature's claws scrape uselessly against the armor.
+    *   **Failure**: The armor buckles. Take 1 Strike and lose your next action while recovering.
+- **Option C: The Lure (Survivor)**: *"I act as bait."* Roll a d6 to dodge. 
+    *   **Success**: The monster is in position and the Survivor escapes to safety.
+    *   **Failure**: They take a Strike, but the monster is successfully lured into the trap.
+- **Option D: The Toxin (Medic)**: *"I inject the poison!"* This is an attack roll. 
+    *   **Success**: The creature takes 2 Strikes instantly and collapses.
+    *   **Failure**: The needle snaps against the hide. The creature becomes [Enraged], dealing +1 Strike on its next hit.
 
 ### 4. Resolution
 - **Success**: The creature dies in a screeching finale (burned, shot, or frozen).

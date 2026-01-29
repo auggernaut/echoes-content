@@ -109,3 +109,21 @@ Columns of cargo crates rise into the darkness above, forming a labyrinth of met
     *   **Maintenance Shafts:** Narrow tunnels through the ship's "gut."
 *   **Hazards:** Unstable stacks, high-voltage conduits, toxic fumes.
 *   **Reveals:** Container labeled "Classified Bio-Hazard"; makeshift living area hidden in a crate.
+
+---
+
+🔴 ADVENTURE • [LOCATION]
+## Observation Deck
+**Tags:** Silent, Expansive, Star-lit
+
+**Front (Player-Facing)**
+*Image: Massive viewport showing distant stars. A large, circular room with scattered furniture and a layer of translucent slime on the glass.*
+The ship’s hum is quiet here. The massive viewport looks out onto a field of distant stars, cold and indifferent. But the peace is broken: smeared across the usually pristine glass is a thick, translucent slime. A table lies overturned, and a trail of shiny objects—wrenches, datapads, silverware—leads toward the maintenance vents.
+
+**Back (GM Detail)**
+*   **Atmosphere:** Eerie stillness, celestial scale.
+*   **Key Features:**
+    *   **The Viewport:** High-strength glass, now smeared with slime.
+    *   **Maintenance Vents:** Narrow access points to the ship's gut.
+*   **Hazards:** Slippery slime (Bane on movement), low lighting.
+*   **Reveals:** Deep claw marks on the pressure doors; the slime glows blue when scanned or touched.
