@@ -4,7 +4,6 @@
 
 ---
 
-🔴 ADVENTURE • [NPC]
 ## Passenger Nine
 
 **Front (Player-Facing)**
@@ -20,7 +19,6 @@ A pale man in an outdated jumpsuit. Calm. Too calm. He claims to have been awake
 
 ---
 
-🔴 ADVENTURE • [NPC]
 ## Dr. Kael Varn (Ship's Medic)
 
 **Front (Player-Facing)**
@@ -36,7 +34,6 @@ A medic with hollow eyes and steady hands that only shake when he thinks no one 
 
 ---
 
-🔴 ADVENTURE • [NPC]
 ## Chief Engineer Mara Iko
 
 **Front (Player-Facing)**
@@ -51,7 +48,6 @@ Grease under the nails, blood on the knuckles, a voice like a worn-out compresso
 
 ---
 
-🔴 ADVENTURE • [NPC]
 ## The Stowaway (Kira)
 
 **Front (Player-Facing)**
@@ -66,7 +62,6 @@ Small, quick, and smelling of recycled air and old protein bars. She knows the s
 
 ---
 
-🔴 ADVENTURE • [NPC]
 ## Vance (The Exterminator)
 
 **Front (Player-Facing)**
@@ -77,4 +72,19 @@ He smells of promethium and old sweat. Vance doesn't care about the ship's missi
 *   **Personality:** Gruff, pragmatic, fatalistic; dark sense of humor.
 *   **Tactics:** Uses fire and noise to herd threats; knows weak points of deep-space organisms.
 *   **Leverage:** Haunted by the loss of his former squad; will risk himself to protect "the kids."
-*   **Background:** Former pest control specialist whose home station was wiped out.
+*   **Background:** Former exterminator who lost his license; took this contract to escape his reputation.
+
+---
+
+## Specialist Aris
+
+**Front (Player-Facing)**
+*Image: A sharp-eyed scout in lightweight recon armor, clinging to a maintenance rail.*
+She doesn't walk; she moves like a shadow between the vents. Her recon armor is scuffed and silent. She watches the ship's overhead architecture more than the floor, her rifle always half-raised.
+
+**Back (GM Detail)**
+*   **Personality:** Vigilant, curt, professional.
+*   **Quirks:** Tilts head to listen to airflow; hates being on the ground.
+*   **Tactics:** Provides overwatch; drops from above to surprise friends and foes.
+*   **Leverage:** Driven by mission success and crew safety; has a secret "off-the-books" directive from the company.
+*   **Background:** Recon specialist who survives by staying high and staying quiet.

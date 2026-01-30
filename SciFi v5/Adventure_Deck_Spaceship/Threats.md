@@ -1,10 +1,9 @@
 # 🔴 ADVENTURE DECK: Threats (Spaceship Setting)
 
 **TAROT SIZE (Large Format)**
-
 ---
 
-🔴 ADVENTURE • [THREAT]
+
 ## The Stalker
 
 **Front (Player-Facing)**
@@ -23,7 +22,6 @@ A flicker of movement in the peripherals. A wet, rhythmic scratching against the
 
 ---
 
-🔴 ADVENTURE • [THREAT]
 ## Apex Predator
 
 **Front (Player-Facing)**
@@ -42,7 +40,6 @@ A creature of impossible geometry—shifting limbs of chitin and bone. It doesn'
 
 ---
 
-🔴 ADVENTURE • [THREAT]
 ## Bio-Organic Hive
 
 **Front (Player-Facing)**
@@ -60,7 +57,6 @@ The walls are no longer metal; they are covered in a thick, pulsating mass of vi
 
 ---
 
-🔴 ADVENTURE • [THREAT]
 ## Rogue Sentry
 
 **Front (Player-Facing)**
@@ -78,7 +74,6 @@ A hovering sphere of gunmetal and glass. It tracks movement with a red laser gri
 
 ---
 
-🔴 ADVENTURE • [THREAT]
 ## Nanite Swarm
 
 **Front (Player-Facing)**
@@ -96,7 +91,6 @@ A metallic mist drifts through the corridor — glittering dust that hums faintl
 
 ---
 
-🔴 ADVENTURE • [HAZARD]
 ## Psychotropic Leak
 
 **Front (Player-Facing)**
@@ -109,7 +103,6 @@ The air smells like ozone and burnt sugar. Shadows seem to detach from the walls
 
 ---
 
-🔴 ADVENTURE • [HAZARD]
 ## Breached Bulkhead
 
 **Front (Player-Facing)**
@@ -122,7 +115,6 @@ A jagged tear in the hull shows the silent beauty of the void. Loose objects are
 
 ---
 
-🔴 ADVENTURE • [HAZARD]
 ## Gravity Flutters
 **Tags:** Disorienting, Vertical, Violent
 

@@ -5,6 +5,13 @@ This adventure is designed for a first-time GM running the **EZd6** system. It f
 > [!IMPORTANT]
 > **Reading Aloud**: Text in **bold boxes** like this is intended to be read aloud to your players when they enter a room or trigger an event.
 
+## 🃏 Scenario Deck List
+Pull these cards from the **Adventure Deck (Spaceship)** before starting:
+*   **Locations**: [Observation Deck], [The Gut (Maintenance)], [Hydroponics Wing], [Cargo Hold], [Reactor Core].
+*   **Threats**: [The Stalker], [Rogue Sentry].
+*   **NPCs**: [Specialist Aris], [The Stowaway (Kira)], [Vance (The Exterminator)], [Passenger Nine].
+*   **Loot**: [Universal Multi-Tool], [Vibration Sensor].
+
 ---
 
 ## 🎭 Adventure Background (GM Only)
@@ -63,11 +70,22 @@ The players are safe here, but they need to realize they are being hunted. This 
 - **The "Fail Forward" Rule**: Never let a failed roll stall the game. If a player fails, always push the story forward, but with a complication or cost. 
 
 ### 4. Moving Forward
-**Specialist Aris** drops from a ceiling vent (scaring them). She ignores the slime and points her rifle down the dark corridor. *"It's heading to the Cargo Hold. It likes the cold. If we don't seal it in, it'll start breeding."*
+**Specialist Aris** drops from a ceiling vent (scaring them). She ignores the slime and points her rifle down the dark corridor. 
+
+> **"It's heading to the Cargo Hold. We take the Maintenance Shafts—they're narrow, but we stay out of the corridor cameras. Move. Now."**
+
+**The Hidden Path (Optional)**:
+If the players hesitate or investigate the area further:
+- **Investigating the Main Console**: A success (4+) reveals that the Maintenance Gut is partially blocked by a steam leak. The system suggests a detour through the **Hydroponics Wing**.
+- **Questioning Aris**: *"Is there no other way?"* Aris scowls. *"The Hydroponics Wing is open, but it's a humid deathtrap. I wouldn't recommend it."*
+
+**The Choice**:
+- **Route A: The Maintenance Gut**: Go to [Scene 2A](#-scene-2a-the-maintenance-gut). (Aris's recommended route; Stealth/Cramped).
+- **Route B: The Hydroponics Wing**: Go to [Scene 2B](#-scene-2b-the-hydroponics-wing). (Discovered alternative; Environmental hazards).
 
 ---
 
-## 🎬 Scene 2: The Maintenance Gut
+## 🎬 Scene 2A: The Maintenance Gut
 **Tags**: Cramped, dark, steam-filled
 **Location Card**: [Maintenance Gut](file:///Users/home/Dev/git/echoes-content/SciFi%20v5/Locations.md)
 
@@ -75,7 +93,7 @@ The players are safe here, but they need to realize they are being hunted. This 
 > **"You squeeze into the narrow walls of the ship's spine. Steam hisses from broken pipes, obscuring your vision. The floor grating vibrates with the engine's thrum. Ahead, a single red emergency light blinks. Underneath it, you see a leg—a human leg, wearing a grey jumpsuit."**
 
 ### 2. The Situation
-This scene teaches **Investigation** and **Tech Use**. The body is a trap, or at least a warning.
+This scene teaches **Investigation** and **Tech Use**. The body is a warning left by **Mara Iko's** lost maintenance team.
 
 ### 3. Player Actions & GM Responses
 - **If the Survivor checks the body**: It's a decoy. A jumpsuit stuffed with wire and insulation. But inside the pocket is a **Universal Multi-Tool**.
@@ -84,10 +102,40 @@ This scene teaches **Investigation** and **Tech Use**. The body is a trap, or at
     *   **GM Response**: "This is Hard. Roll with a **Bane** (roll 2d6, keep the lowest) to see if you can bypass the fried circuits."
     *   **Failure (1-3)**: Sparks fly! They take 1 Strike of damage. The lights flicker but stay dim.
     *   **Success (4-6)**: The lights buzz on, revealing the path ahead is covered in sticky webbing.
-- **If Aris uses her Ocular Implant**: *"I'm picking up a heat signature. It's massive. And it's waiting for us."*
+- **If Kira (The Stowaway) appears**: She peeks from a junction box. *"Ssh! The 'Eye' is coming. If it sees you, it screams. If it screams, the Stalker comes. Hide. Now."*
+- **The Sentry Encounter (Rogue Sentry)**: A gunmetal sphere with a red laser grid drifts around the corner.
+    *   **GM Tip (The "Unauthorized" Glitch)**: The ship is under a **Quarantine Lockdown** triggered by the Stalker's biomass. Even though the players are crew, the AI has flagged all biological signatures as "potential contaminants."
+    *   **The Choice**: Hide (Stealth roll vs 4) or Attack quickly.
+    *   **Result**: 
+        *   **Success (Hide/Kill)**: The Sentry passes, chirping *"Quarantine Protocol Active: Searching for Contaminants,"* or is destroyed silently. The players keep the element of surprise.
+        *   **Failure**: The Sentry chirps *"Contaminant Detected: Commencing Sterilization"* and fires its strobe. The room fills with fog (Bane on next action) and the Stalker is alerted and gains a Boon on its first attack in Scene 3.
 
 ### 4. Moving Forward
-They reach the heavy blast doors of the Cargo Hold. They are locked. The Engineer or Security officer must work together to pry them open, or hack the panel. As the door screeches open, a low growl shakes the floor plates.
+They reach the heavy blast doors of the Cargo Hold. (Skip to [Scene 3](#-scene-3-the-cargo-hold)).
+
+---
+
+## 🎬 Scene 2B: The Hydroponics Wing
+**Tags**: Overgrown, Humid, Bioluminescent
+**Location Card**: [Hydroponics Wing](file:///Users/home/Dev/git/echoes-content/SciFi%20v5/Adventure_Deck_Spaceship/Locations.md)
+
+### 1. The Scene
+> **"The air here is thick and sweet, heavy with the scent of damp earth and rotting vegetation. The UV lights are flickering. Giant ferns and mutated vines have burst from their canisters, choking the corridor. You see a pale man in a worn grey jumpsuit standing knee-deep in the flora, staring at a cluster of glowing mushrooms."**
+
+### 2. The Situation
+This scene teaches **Environmental Awareness** and **Hazard Navigation**. The high oxygen levels make energy weapons and fire extremely dangerous.
+
+### 3. Player Actions & GM Responses
+- **If the players approach Passenger Nine**: He whispers without looking up. *"We thought the plants were dying. They were just changing. The Stalker is the gardener now. It feeds them... things."*
+    *   **GM Rule**: He points to a trail of glowing spores. If players follow it, give them a **Boon** on their next Scouting roll.
+- **The Oxygen Hazard**: Remind players of the `[Oversized Oxygen Levels]` rule on the Location Card. 
+    *   **Energy/Fire Attacks**: Any roll of a 1 on a fire or energy attack triggers a micro-explosion. The attacker and target both take 1 Strike.
+- **If the Medic analyzes the spores**: It's the same bioluminescent goo from Scene 1, but concentrated.
+    *   **Success (4+)**: You find a route that avoids the sticky vines.
+    *   **Failure**: You trigger a spore pod. Your suit is coated in glowing dust. The Stalker can track you perfectly—it gains a **Boon** on its first attack in Scene 3.
+
+### 4. Moving Forward
+The vines thin out as you reach the service entrance to the Cargo Hold. (Proceed to [Scene 3](#-scene-3-the-cargo-hold)).
 
 ---
 
@@ -96,10 +144,10 @@ They reach the heavy blast doors of the Cargo Hold. They are locked. The Enginee
 **Location Card**: [Cargo Hold](file:///Users/home/Dev/git/echoes-content/SciFi%20v5/Locations.md)
 
 ### 1. The Scene
-> **"The Cargo Hold is a canyon of stacked crates and shipping containers. It's freezing in here. The lights are dead. The only illumination comes from the strobe of Aris's rifle. Somewhere in the dark rafters, forty feet up, you hear claws scraping against metal. It knows you're here."**
+> **"The Cargo Hold is a canyon of stacked crates and shipping containers. It's freezing in here. The lights are dead. The only illumination comes from the intermittent flare of Vance's flamethrower. Somewhere in the dark rafters, forty feet up, you hear claws scraping against metal. It knows you're here."**
 
 ### 2. The Situation
-The creature is stalking them. This scene teaches **Stealth** and **Action Economy**.
+The creature is stalking them. This scene teaches **Stealth** and **Action Economy**. **Vance (The Exterminator)** meets the crew here, checking his fuel tank with a grim nod.
 
 ### 3. The Encounter: The Stalker
 **Threat Card**: [The Stalker](file:///Users/home/Dev/git/echoes-content/SciFi%20v5/Threats.md)
@@ -123,7 +171,7 @@ The creature is stalking them. This scene teaches **Stealth** and **Action Econo
             *   **Failure**: The scanner picks up the Medic's own frantic heartbeat. They gain the [Panicked] condition.
 
 ### 4. Moving Forward
-Aris shouts: *"We can't kill it in the dark! Inspect the container cranes! Drive it toward the Reactor Core!"* The players must make a fighting retreat, holding off the creature while moving to the exit.
+**Vance** growls: *"We can't kill it in the dark! Inspect the container cranes! Drive it toward the Reactor Core! The heat'll blister it out of the shadows!"* The players must make a fighting retreat, holding off the creature while moving to the exit.
 
 ---
 
@@ -159,5 +207,5 @@ The players must use their skills to kill it or eject it.
 ---
 
 ## 🏁 Conclusion
-- **Epilogue**: The ship is safe. Aris nods to the crew, acknowledging them as equals. "Not bad for a maintenance crew."
+- **Epilogue**: The ship is safe. **Vance** leans against his scorched flamethrower and spits. "Not bad for a maintenance crew. You kept your heads. Mostly."
 - **Loot**: The players harvest a **Xenomorph Scale** (Item) which can be crafted into armor.
