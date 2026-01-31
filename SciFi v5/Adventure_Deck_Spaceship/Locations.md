@@ -13,12 +13,13 @@
 The air tastes metallic. Heat shimmers off the deckplates. A half-lit reactor core looms in the chamber’s center, breathing in mechanical gasps. Every few seconds, the lights dim and pulse like a dying heartbeat.
 
 **Back (GM Detail)**
-*   **Atmosphere:** Oppressive heat, volatility.
-*   **Key Features:**
-    *   **The Core:** Shielded column requiring manual tuning.
-    *   **Catwalks:** Metal grating slippery with oil.
-*   **Hazards:** Electrical arcs, steam vents, radiation leaks.
-*   **Reveals:** A maintenance crawlspace allows access to core couplings.
+*   **Sensory:** The deep, bone-rattling thrum of the drive; the scent of ozone and hot oil; the oppressive warmth that makes skin prickle; the blue-white glare of the core.
+*   **Features:**
+    *   **The Core:** A shielded, vertical column pulsing with lethal energy.
+    *   **Cooling Pipes:** A network of frost-rimmed tubes that hiss with high-pressure coolant.
+    *   **Manual Overrides:** A heavy lever and analog dial for emergency containment.
+*   **Hazards:** Electrical arcs; steam vents; radiation leaks; intense heat exhaustion.
+*   **Reveals:** A loose floorplate covering a smuggler's stash; a maintenance log showing unauthorized access; a hidden camera lens embedded in a rivet.
 
 ---
 
@@ -31,30 +32,32 @@ The air tastes metallic. Heat shimmers off the deckplates. A half-lit reactor co
 A skin of frost turns the cryo‑pods into glass sarcophagi. One capsule is shattered inward, glittering with glass dust. Cold breath blooms in the air. Frozen stasis gel beads on the deck with an antiseptic sweetness.
 
 **Back (GM Detail)**
-*   **Atmosphere:** Tomb-like stillness, biting cold.
-*   **Key Features:**
-    *   **Cryo Pods:** Glass coffins, some occupied.
-    *   **Revival Station:** Terminal for waking crew.
-*   **Hazards:** Hypoxia, extreme cold exposure, ice.
-*   **Reveals:** Scratches on the *inside* of a pod; a pod labeled "Empty" that contains bio-residue.
+*   **Sensory:** The absolute silence of the void; the clinical smell of antiseptic and frozen gel; the biting cold that numbs fingers; the rhythmic click of pod life-support.
+*   **Features:**
+    *   **Cryo Pods:** Rows of vertical glass pods, some frosted, some occupied by sleeping crew.
+    *   **Revival Station:** A flickering terminal for manual pod awakening.
+    *   **Mist Generators:** Ceiling vents that pour out cold, white fog.
+*   **Hazards:** Hypoxia (low oxygen); extreme cold exposure; slippery stasis gel; failing pod alarms.
+*   **Reveals:** Scratches on the *inside* of a pod; a pod labeled "Empty" that contains bio-residue; a weapon hidden in an emergency blanket.
 
 ---
 
 🔴 ADVENTURE • [LOCATION]
 ## The Bridge
-**Tags:** Static-hissing, Cracked, Abandoned
+**Tags:** Command, Hissing, Fragile
 
 **Front (Player-Facing)**
 *Image: Cracked viewport framing a starry void. Captain's chair in the center.*
-A cracked viewport frames the void like a black coin. Chairs are still buckled; consoles breathe to life in uneven pulses, shedding static snow. A faint comm light blinks, trying to say something through the noise.
+The nerve center of the ship. Tactical stations blink in a rhythmic, electronic pulse around a central command chair. The massive viewport looks out into the void, its glass spiderwebbed with thin, shivering cracks. A faint comm light blinks on the console—a ghost signal waiting for an answer.
 
 **Back (GM Detail)**
-*   **Atmosphere:** Abandoned center of authority.
-*   **Key Features:**
-    *   **Captain’s Chair:** Central position with overrides.
-    *   **Navigation Console:** Holographic map table (flickering).
-*   **Hazards:** Vacuum exposure, gravity fluctuations, electrical fires.
-*   **Reveals:** A "black box" chip taped under a console; the comms picking up a ghost signal.
+*   **Sensory:** The whistle of air cycling (or leaking); the smell of burnt plastic and stale coffee; the visual vertigo of the stars moving past the cracks; the static hiss from the comms.
+*   **Features:**
+    *   **Captain's Chair:** The central position; physical keys and overrides.
+    *   **Navigation Console:** Holographic map table, flickering or corrupted.
+    *   **Blast Shutters:** Heavy metal shields that can cover windows (or fail to).
+*   **Hazards:** Vacuum exposure (if window fails); gravity fluctuations; electrical fires; automated security defenses.
+*   **Reveals:** A hidden stash in a panel; a "black box" chip taped under a console; the comms system picking up a signal.
 
 ---
 
@@ -67,12 +70,13 @@ A cracked viewport frames the void like a black coin. Chairs are still buckled; 
 A chemical haze hangs like glittering dust in sterile light. Auto-doc arms twitch to life, then freeze mid-motion. The air smells like antiseptic and hot metal, with a sweetness that shouldn’t be there.
 
 **Back (GM Detail)**
-*   **Atmosphere:** Clinical and unwittingly hostile.
-*   **Key Features:**
-    *   **Auto-Doc:** Robotic surgical spider (Heal/Harm).
-    *   **Fabricator:** Prints drugs/bandages (limited stock).
-*   **Hazards:** Miscalibrated robots, toxic spills, quarantine lockdowns.
-*   **Reveals:** Medical logs don't match crew manifest; bio-sample in the freezer (non-human).
+*   **Sensory:** The sharp sting of alcohol and bleach; the high-pitched whine of surgical lasers; the eerie stillness of the hibernation beds; the flickering white UV lights.
+*   **Features:**
+    *   **Auto-Doc:** A robotic surgical spider suspended from the ceiling.
+    *   **Chemical Fabricator:** A dispenser for medical patches and experimental compounds.
+    *   **Bio-Scanner Hub:** A wall-mounted monitor showing the ship's current biological count.
+*   **Hazards:** Miscalibrated surgical robots; toxic chemical spills; quarantine locks; psychotropic gas leaks.
+*   **Reveals:** Medical logs that don't match the crew manifest; a bio-sample in the freezer labeled "Classified"; bloodstains hidden under a gurney.
 
 ---
 
@@ -82,15 +86,16 @@ A chemical haze hangs like glittering dust in sterile light. Auto-doc arms twitc
 
 **Front (Player-Facing)**
 *Image: Dark server room with a central glowing monolith. Cables like tree roots.*
-Cable looms gather like roots around a cold, black obelisk of memory lattice. The temperature drops with each step toward the core, and breath crystallizes in the air.
+Cable looms gather like roots around a cold, black obelisk of memory lattice. The temperature drops with each step toward the core, and breath crystallizes in the air. This is the ship's brain, and it is vast.
 
 **Back (GM Detail)**
-*   **Atmosphere:** Sacred, electrically charged temple.
-*   **Key Features:**
-    *   **The Interface:** Central terminal for ship AI.
-    *   **Memory Banks:** Slots for AI data shards.
-*   **Hazards:** Halon gas dumps (O2 removal), neuro-shock, freezing.
-*   **Reveals:** A manual "kill switch" under floor plates; heat signatures in the server racks (nesting).
+*   **Sensory:** The low, vibrating hum of massive data processing; the smell of ozone and dry, cold air; the static charge that makes hair stand up; the pulsing blue light of the memory lattice.
+*   **Features:**
+    *   **The Obelisk:** The central memory lattice housed in a black, crystalline tower.
+    *   **Interface Port:** A specialized terminal for direct neural-link interaction.
+    *   **Halon Vents:** Emergency vents designed to snuff out electrical fires by removing oxygen.
+*   **Hazards:** Halon gas dumps; neuro-shock from the interface; extreme freezing temperatures; electrical arcs from server racks.
+*   **Reveals:** A manual "kill switch" hidden under floor plates; heat signatures nesting in the cable looms; unauthorized data-mining logs.
 
 ---
 
@@ -99,16 +104,16 @@ Cable looms gather like roots around a cold, black obelisk of memory lattice. Th
 **Tags:** Cavernous, Echoing, Shadowy
 
 **Front (Player-Facing)**
-*Image: Towering stacks of shipping containers creating dark canyons.*
-Columns of cargo crates rise into the darkness above, forming a labyrinth of metal and plastic. Every distant clank or hiss echoes through the vast space, making it impossible to tell where sound originates. The scale makes you feel small and exposed.
+Columns of cargo crates rise into the darkness above, forming a labyrinth of metal and plastic. Every distant clank or hiss echoes through the vast space. The scale makes you feel small and exposed in this canyon of shipping containers.
 
 **Back (GM Detail)**
-*   **Atmosphere:** Oppressive scale, industrial neglect.
-*   **Key Features:**
-    *   **Cargo Containers:** Pried open like ribcages.
-    *   **Catwalks:** Metal grating suspended over the abyss.
-*   **Hazards:** Unstable stacks, high-voltage conduits, toxic fumes.
-*   **Reveals:** A container labeled "Classified Bio-Hazard"; a trail of discarded gear leading to a vent.
+*   **Sensory:** The booming echo of your own footsteps; the smell of grease and wet cardboard; the industrial chill of an unheated space; the sight of towering, swaying crate stacks.
+*   **Features:**
+    *   **Shipping Containers:** Massive metal boxes, some pried open like ribcages.
+    *   **Cargo Crane:** A heavy overhead crane on rails, currently locked mid-move.
+    *   **Maintenance Vents:** Wide floor grates leading to the ship's gut.
+*   **Hazards:** Unstable crate stacks; high-voltage conduits; shifting shadow-blindness; toxic fumes from leaking containers.
+*   **Reveals:** A container labeled "Classified Bio-Hazard"; a trail of discarded gear leading to a dark corner; a hidden living space among the crates.
 
 ---
 
@@ -121,12 +126,13 @@ Columns of cargo crates rise into the darkness above, forming a labyrinth of met
 The walls squeeze in. You can feel the ship's heartbeat through the vibrating steel. It's a claustrophobic vein of pipes, cables, and narrow crawlspaces. Every movement feels loud, and every hiss of steam feels like a breath.
 
 **Back (GM Detail)**
-*   **Atmosphere:** Claustrophobic dread, mechanical intimacy.
-*   **Key Features:**
-    *   **The Veins:** Narrow tunnels where one must crawl.
-    *   **Power Junctions:** Humming nodes pulsing with lethal energy.
-*   **Hazards:** [Cramped Combat] (Bane on rolls using large weapons like Rifles or Two-Handed tools), scalding steam.
-*   **Reveals:** A makeshift "nest" made of shredded jumpsuits and copper wire; claw marks inside the ventilation ducts.
+*   **Sensory:** The intense heat of the pipe-walls; the smell of recycled air and old sweat; the constant, grinding vibration; the dim, red emergency lighting.
+*   **Features:**
+    *   **The Veins:** Narrow crawlspaces where you must move in single file.
+    *   **Power Junctions:** Buzzing nodes of exposed wiring and glowing fuses.
+    *   **Steam Valves:** Rusty wheels that control the ship's thermal regulation.
+*   **Hazards:** Cramped spaces (limited mobility); scalding steam bursts; exposed live wires; oxygen deprivation.
+*   **Reveals:** A makeshift "nest" of shredded jumpsuits; claw marks on the inside of the ducts; a discarded ID badge from a long-lost crew member.
 
 ---
 
@@ -135,16 +141,16 @@ The walls squeeze in. You can feel the ship's heartbeat through the vibrating st
 **Tags:** Humid, Overgrown, Oxygen-Rich
 
 **Front (Player-Facing)**
-*Image: Rows of vertical glass tubes filled with bioluminescent algae and twisted, pale vines. The air is thick and smells of wet earth and ozone.*
-The air here is sweet—too sweet. Oxygen levels are in the red, making your skin tingle. Pale vines creep out of shattered growth tanks, illuminated by the ghostly green glow of nutrient vats. The mist is thick enough to hide a predator.
+The air here is sweet—too sweet. Oxygen levels are in the red, making your skin tingle. Pale vines creep out of shattered growth tanks, illuminated by the ghostly green glow of nutrient vats. The mist is thick enough to hide anything.
 
 **Back (GM Detail)**
-*   **Atmosphere:** Tropical humidity, uncanny growth.
-*   **Key Features:**
-    *   **Oxygen Scrubbers:** Massive fans humming at triple speed.
-    *   **Growth Tanks:** Shattered glass and spilling nutrient sludge.
-*   **Hazards:** [Oversized Oxygen Levels] (Any use of fire or energy weapons that causes a Strike deals +1 additional Strike from the micro-detonation), slippery moss, low visibility.
-*   **Reveals:** The central scrubber is choked with bio-matter; a crew member's skeleton half-merged with the vines.
+*   **Sensory:** The suffocating humidity; the smell of wet earth and rotting flowers; the green, sickly glow of the UV vats; the sound of water dripping onto leaves.
+*   **Features:**
+    *   **Growth Tanks:** Shattered glass tubes spilling nutrient-rich sludge.
+    *   **Mist Sprayers:** Ceiling units that periodically spray a thick, sweet-smelling fog.
+    *   **Oxygen Scrubbers:** Massive fans at the end of the hall, choked with vines.
+*   **Hazards:** Flammable atmosphere (200% oxygen); slippery moss; low visibility from mist; entangling vines.
+*   **Reveals:** A skeletal hand reaching out from the soil; a secret stash of "illegal" seeds; the central scrubber is jammed with non-human matter.
 
 ---
 
@@ -153,13 +159,13 @@ The air here is sweet—too sweet. Oxygen levels are in the red, making your ski
 **Tags:** Silent, Expansive, Star-lit
 
 **Front (Player-Facing)**
-*Image: Massive viewport showing distant stars. A large, circular room with scattered furniture and a layer of translucent slime on the glass.*
-The ship’s hum is quiet here. The massive viewport looks out onto a field of distant stars, cold and indifferent. But the peace is broken: smeared across the usually pristine glass is a thick, translucent slime. A table lies overturned, and a trail of shiny objects—wrenches, datapads, silverware—leads toward the maintenance vents.
+The ship’s hum is quiet here. The massive viewport looks out onto a field of distant stars, cold and indifferent. It is a place of peace, or at least it was. Now, a table lies overturned, and the silence is deafening.
 
 **Back (GM Detail)**
-*   **Atmosphere:** Eerie stillness, celestial scale.
-*   **Key Features:**
-    *   **The Viewport:** High-strength glass, now smeared with slime.
-    *   **Maintenance Vents:** Narrow access points to the ship's gut.
-*   **Hazards:** Slippery slime (Bane on movement), low lighting.
-*   **Reveals:** Deep claw marks on the pressure doors; the slime glows blue when scanned or touched.
+*   **Sensory:** The eerie silence; the cold light of distant suns; the smell of cold metal and recycled air; the feeling of being watched by the void.
+*   **Features:**
+    *   **The Viewport:** A floor-to-ceiling sheets of reinforced transparisteel.
+    *   **Star-Map Console:** A central hub showing the current sector's astrology.
+    *   **Tiered Seating:** Luxury seating for passengers, now scattered and broken.
+*   **Hazards:** Slippery deckplates; low-light blindness; gravity "flutters" (occasional weightlessness); psychological vertigo.
+*   **Reveals:** Deep claw marks on the blast doors; a discarded data-pad with a final message; a secret sensor-tap under the console.

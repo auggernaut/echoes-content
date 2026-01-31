@@ -110,6 +110,27 @@ Immersive, sensory text describing the location, person, or item as first seen.
 
 ---
 
+## 🌎 Location Design & Scenario Interplay
+
+### 1. Evergreen Versatility (The "Menu" Approach)
+Location cards are designed to be **evergreen**. They do not contain scenario-specific text. Instead, they provide a "Menu" of atmospheric and hazard-based elements that a GM can adapt to any story.
+
+*   **Front (Player-Facing)**: Pure sensory immersion. Vivid descriptions and a bulleted list of physical **Features**.
+*   **Back (GM-Facing)**: A toolbox of **Hazards** (immediate dangers) and **Reveals** (secrets or plot advancement).
+
+### 2. Scenario-Card Interplay
+In **SciFi v5**, the story is a collaboration between the **Scenario Guide** (The Logic) and the **Adventure Deck** (The Environment).
+
+*   **Scenario Guide**: Defines the *Why* and *Who*. It provides the Hook, NPC motivations, and specific Threat tactics.
+*   **Cards**: Define the *Where* and *What*. A single [MedBay] card can be a site of bio-horror in one scenario and a tech-mystery in another, depending on which **Hazards** or **Reveals** the GM selects from the card's menu.
+
+### 3. GM as the Weaver
+The GM is the bridge between the scenario and the table. 
+*   **Hidden Information**: Players should **never** see the back of a GM card (Location, NPC, Threat). This preserves the "Reveals" as genuine surprises.
+*   **Narrative Adaptation**: GMs are encouraged to pick the Hazard or Reveal that best fits the scenario's current tension. If the mission is about a leak, use the "Corrosive Leak" hazard; if it's about a ghost, use the "Ghost Signal" reveal.
+
+---
+
 ## 🖼️ Examples
 
 ### Example 1: Character Deck Card (Permanent)

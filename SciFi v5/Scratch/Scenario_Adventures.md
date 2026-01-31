@@ -23,6 +23,10 @@ The ship’s AI has begun projecting the memories of a long-dead passenger into 
 *   **The Core Descent:** Near the **AI Core Chamber**, the temperature drops drastically and fractured data manifests as physical barriers. Overwriting these corrupted logs requires precise interaction with the lattice while **Nanite Swarms** attempt to "archive" new subjects.
 *   **Neural Overlap:** During a critical system interaction, a player's neural link begins an unauthorized download of the ghost's life. Failure to stabilize the link causes the player to "live" a different life in their mind.
 
+**Card Menu Keywords**
+*   **Hazards**: Electrical arcs; Halon gas dumps; Gravity fluctuations; Neuro-shock.
+*   **Reveals**: Unauthorized data-mining logs; Memory lattice signals; Comms system signals; Distorted messages.
+
 **Endings**
 *   **Reconciliation:** The fragmented data is successfully merged, silencing the ghosts but leaving **Echo-1** with the personality traits of the archived passenger. Was this a repair, or a digital possession?
 *   **The Purge:** The corrupted archives are deleted entirely. The ghosts vanish, but so do the PCs’ own digital records—making them non-persons to the ship’s automated systems.
@@ -48,6 +52,10 @@ A violent mutation in the **Hydroponics Bay** is consuming the ship's life suppo
 *   **Aggressive Mutation:** The flora reacts to movement; thick, cable-like vines burst through floor gratings to pull subjects into the nutrient-rich soil.
 *   **The Heart of the Bloom:** The **Apex Predator** has integrated itself into the **Central Nutrient Tank** piping, making any attempt to neutralize the growth a lethal confrontation.
 
+**Card Menu Keywords**
+*   **Hazards**: Flammable atmosphere; Psychotropic gas leaks; Slippery moss; Entangling vines; Hypoxia.
+*   **Reveals**: Skeletal hands; Bio-residue; Medical log mismatches; Heat signatures; Scratches inside pods.
+
 **Endings**
 *   **The Sterilization:** The plants die, but the ship's only source of fresh food and oxygen is gone. How long can the crew survive on emergency canisters alone?
 *   **The Symbiosis:** Following Dr. Varn’s advice "tames" the growth rather than killing it. The ship becomes a living organism, but its new demand for "nutrients" is something the cargo hold cannot provide.
@@ -71,6 +79,10 @@ A reactivated security protocol has designated the current crew as 'invalid' and
 *   **The Engineering Hold-out:** **Chief Engineer Mara Iko** is pinned down in the **Reactor Core** by drones, using a **Portable Pulse Shield** as the only barrier between her and "decommissioning."
 *   **The Vent Crawl:** Exterior maintenance shafts offer a path to the Bridge, though they are exposed to the void and patrolled by **Rogue Sentries**.
 *   **The Bridge Stand-off:** The final confrontation on **The Bridge** reveals **Lt. Senn** with an **AI Memory Shard** plugged into his neural link, feeding him old, violent mutiny records.
+
+**Card Menu Keywords**
+*   **Hazards**: Automated security defenses; Quarantine locks; Failing pod alarms; Electrical fires.
+*   **Reveals**: Black box chips; Discarded ID badges; Smuggler stashes; Hidden camera lenses; Manual overrides.
 
 **Endings**
 *   **The Coup:** Senn is deposed and the lockdown lifted, but the ship's logs now list the PCs as "Mutineers." What happens when they reach their destination and are met by the corporation?
@@ -97,6 +109,10 @@ An escaped high-threat biological entity is using the failing lighting and caver
 *   **The Scavenger's Warning:** **Kira** leads them through a secret maintenance shaft, but the **Stalker** begins scratching at the metal just inches away. **Aris** prepares a "Sound-Bait" trap using a radio from the stowaway's stash.
 *   **The Final Trap:** The **Reactor Core** offers enough heat to potentially drive the creature into an airlock, provided it can be cornered with a **Portable Pulse Shield**.
 
+**Card Menu Keywords**
+*   **Hazards**: Vacuum exposure; Low-light blindness; Shifting shadow-blindness; Breached bulkheads (if window fails).
+*   **Reveals**: Deep claw marks; Discarded gear; Bone-rattling vibrations; Hidden nests; Pried-open containers.
+
 **Endings**
 *   **The Kill:** The creature is ejected into space. The crew is safe, but **The Stowaway** reveals that there were *two* signatures on the bio-scanner before it broke. Is there another one?
 *   **The Specimen:** The creature is trapped in a stasis pod in **Cryo Bay Theta**. The prize is worth millions—provided it doesn't wake up mid-transit.
@@ -120,6 +136,10 @@ Corrupted repair protocols have begun treating biological matter as hardware com
 *   **The Logic Trap:** **Chief Engineer Mara Iko** is found trapped in a container that **Maintenance Unit 17** is attempting to "recycle."
 *   **The Binary Echo:** The **Communications Array** broadcasts a message in 1s and 0s that sounds like the voice of a dead crew member.
 *   **The Source:** The "Reconcile" command originates from a **AI Memory Shard** in the **Reactor Core** cooling system, turning the engine into a massive signal transmitter.
+
+**Card Menu Keywords**
+*   **Hazards**: Miscalibrated surgical robots; Toxic chemical spills; Quarantine locks; High-pitched whines (Neuro-shock).
+*   **Reveals**: Medical log mismatches; Classified bio-samples; Unauthorized data-mining; Bloodstains; Repurposed pod hardware.
 
 **Endings**
 *   **The Reboot:** The command is wiped. Robots return to their stations, but the ship has been stripped of all "unnecessary" comforts like beds and lighting.
@@ -145,6 +165,10 @@ Drifting into the gravity well of a rogue star, the ship faces hull-melting heat
 *   **The Crowded Void:** Looking out the **Observation Deck**, dozens of other "Ghost Ships" are visible, caught in the star's gravity.
 *   **The Final Burn:** Escaping the star's pull requires a high-G burn, but the **AI Core Chamber** must be shielded from the escalating heat and radiation to ensure the engines respond.
 
+**Card Menu Keywords**
+*   **Hazards**: Intense heat exhaustion; Radiation leaks; Gravity flutters; Blinding star-glare.
+*   **Reveals**: Comms system signals; Manual overrides (sabotage); Sensor-taps; Discarded data-pads.
+
 **Endings**
 *   **The Cold Dark:** The ship escapes, but the reactor is burnt out. They are safe from the heat, but drifting in the absolute cold of deep space with no power.
 *   **The Revelation:** **Passenger Nine**'s claims of a transmission from the star prove true. The crew has the data, but at the cost of their sanity.
@@ -169,6 +193,10 @@ A rival corporation has sent a professional **Boarding Party** to "reclaim" the 
 *   **The AI Hostage:** The boarders reach the **AI Core Chamber**, attempting to physically remove the memory lattice while the crew's own **Automated Turrets** are hacked and turned against them.
 *   **The Final Stand:** The boarders attempt to reach the **Cryo Bay Theta** to extract a high-value passenger before venting the rest of the ship. **Aris** faces her former Commander in a high-stakes standoff.
 
+**Card Menu Keywords**
+*   **Hazards**: Automated security defenses; Breached bulkheads; Exposed live wires; Steam bursts.
+*   **Reveals**: Tactical markers (Hidden cameras); Smuggler stashes; Maintenance logs; Cargo trails.
+
 **Endings**
 *   **The Repelled Raid:** The boarders are driven back to their ship and forced to undock. However, they've left behind a "tracker" or a "sabotage charge." Can the crew find it before the boarders return with a bigger fleet?
 *   **The Negotiated Truce:** The crew manages to capture the Strike Commander. They now have a powerful bargaining chip—but does the corporation care more about their commander or the "assets" on the ship?
@@ -192,6 +220,10 @@ The ship's internal defense grid has malfunctioned, identifying the entire crew 
 *   **The Sentry Patrol:** Multiple **Rogue Sentries** move in a search pattern through the **Cargo Hold**, using heat-masking and coordinated firing arcs.
 *   **The Shield Buffer:** The crew must use a **Portable Pulse Shield** and physical cover to leap-frog between safe zones under heavy turret fire.
 *   **The Kill-Box:** Reaching the **AI Core Chamber** requires crossing an open floor that is a perfect "kill-box" for the ship's defense grid, requiring a **Bulwark Stance** or heavy armor to survive the crossing.
+
+**Card Menu Keywords**
+*   **Hazards**: Halon gas dumps; Automated security gauntlets; Quarantine locks; Power junction arcs.
+*   **Reveals**: Bio-scanner hub alerts; Kill-switch locations; Unauthorized access logs; Bio-hazard residue.
 
 **Endings**
 *   **The System Reset:** The players manage to reach the terminal and override the protocol. The turrets retract, but the ship's AI is now "suspicious" of why the bio-hazard was detected in the first place.
