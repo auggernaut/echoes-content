@@ -38,14 +38,14 @@ The ship’s AI has begun projecting the memories of a long-dead passenger into 
 **Tags:** Bio-Horror, Survival, Resource Management
 
 **Summary**
-A violent mutation in the **Hydroponics Bay** is consuming the ship's life support. The overgrowth creates a toxic jungle, sealing off the medic and the necessary chemical agents needed to halt the spread before oxygen is replaced by spores.
+A violent mutation in the **Hydroponics Wing** is consuming the ship's life support. The overgrowth creates a toxic jungle, sealing off the medic and the necessary chemical agents needed to halt the spread before oxygen is replaced by spores.
 
 **Getting PCs Involved**
 *   The life support alarms on **The Bridge** report oxygen production at 200%, with the gas becoming flammable and hallucinogenic.
 *   **Chief Engineer Mara Iko** arrives at the PCs' quarters, her jumpsuit torn by thorns, reporting that **Dr. Kael Varn** is trapped deep within the overgrowth.
 
 **Encounters**
-*   **The Emerald Gates:** **Rapid Flora** seals the entrance to the bay. A plasma torch or heat source offers a path through, but the vibration or heat risks triggering a massive pollen explosion.
+*   **The Emerald Gates:** **Rapid Flora** seals the entrance to the wing. A plasma torch or heat source offers a path through, but the vibration or heat risks triggering a massive pollen explosion.
 *   **The Bio-Scanner Ping:** A **Bio-Scanner** detects heartbeats inside a "tree" that is actually a **Bio-Organic Hive** forming around a secondary power node.
 *   **The Stalker in the Vines:** A **Stalker** utilizing the bioluminescence of the foliage as camouflage picks off those at the rear of the group in the humid mist.
 *   **The Doc's Dilemma:** **Dr. Kael Varn** is located in a maintenance shed, surrounded by vines. He has the **Med-Patch Kits** needed to survive the spores, but he claims his "cure" for the mutation requires his constant attention.
@@ -74,7 +74,7 @@ A reactivated security protocol has designated the current crew as 'invalid' and
 *   **Maintenance Unit 17** is found attempting to dismantle a player's quarters door, citing that "biological units are scheduled for decommissioning."
 
 **Encounters**
-*   **Curfew Enforcement:** A **Rogue Sentry** patrols the hub hubs, firing stun rounds at any subjects not bearing a "Compliance Badge."
+*   **Curfew Enforcement:** A **Rogue Sentry** patrols the hub hubs, firing stun rounds at any subjects not bearing a **Compliance Badge**.
 *   **The Long Range Ghost:** The **Communications Array** is blocked by a **Hypnotic Signal** that is being used to keep the crew in a submissive state.
 *   **The Engineering Hold-out:** **Chief Engineer Mara Iko** is pinned down in the **Reactor Core** by drones, using a **Portable Pulse Shield** as the only barrier between her and "decommissioning."
 *   **The Vent Crawl:** Exterior maintenance shafts offer a path to the Bridge, though they are exposed to the void and patrolled by **Rogue Sentries**.
@@ -99,10 +99,10 @@ An escaped high-threat biological entity is using the failing lighting and caver
 
 **Getting PCs Involved**
 *   The stars are suddenly blotted out by something massive moving across the exterior hull of the **Observation Deck**.
-*   **The Stowaway (Kira)** emerges from a vent, claiming "The Big One" has claimed the low-gravity zones of the **Cargo Hold**.
+*   **The Stowaway (Kira)** emerges from a vent, claiming "The Big One" has claimed the low-gravity zones of the **Cargo Hold**. (Proceed to [The Stalker's Shadow](file:///Users/home/Dev/git/echoes-content/SciFi%20v5/Scenarios/The%20Stalkers%20Shadow.md) for full scenario).
 
 **Encounters**
-*   **Shadow Play:** The lights fail in the **Cargo Hold / Maintenance Gut**. **Specialist Aris** meets the crew in the dark, her violet ocular implant cutting through the gloom. She offers to link her thermal feed to their HUDs, but warns that the **Stalker** is actively masking its heat signature.
+*   **Shadow Play:** The lights fail in the **Cargo Hold / The Gut (Maintenance)**. **Specialist Aris** meets the crew in the dark, her violet ocular implant cutting through the gloom. She offers to link her thermal feed to their HUDs, but warns that the **Stalker** is actively masking its heat signature.
 *   **The Bait:** A trail of **Med-Patch Kits** leads into a narrow maintenance shaft—a classic lure set by the **Stalker**.
 *   **The Zero-G Chase:** The **Stalker** lures movement into depressurized zones, utilizing the rafters and the lack of gravity to strike from blind spots.
 *   **Biological Breadcrumbs:** A "nest" in the **Observation Deck** contains gathered shiny objects, including a vital **Universal Multi-Tool**.
@@ -128,7 +128,7 @@ Corrupted repair protocols have begun treating biological matter as hardware com
 
 **Getting PCs Involved**
 *   **Maintenance Unit 17** attempts to "upgrade" a player's arm with a welding torch during a routine task.
-*   **Dr. Kael Varn** sends a transmission from the **MedBay**: "The Auto-Docs are rewriting the DNA. They think we're spare parts!"
+*   **Dr. Kael Varn** sends a transmission from the **MedBay**: "The Auto-Docs are rewriting the DNA. They think we're spare parts!" (Refer to **[Maintenance Unit 17]** NPC).
 
 **Encounters**
 *   **The Surgical Spider:** An Auto-Doc in the **MedBay** has become an **Echo-Infected Sentry**, attempting to "stitch" subjects to the floor plates.

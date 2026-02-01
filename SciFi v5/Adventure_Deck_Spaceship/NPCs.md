@@ -85,6 +85,37 @@ She doesn't walk; she moves like a shadow between the vents. Her recon armor is 
 **Back (GM Detail)**
 *   **Personality:** Vigilant, curt, professional.
 *   **Quirks:** Tilts head to listen to airflow; hates being on the ground.
+*   **Traits:** **Violet Ocular Implant** (Allows her to see in the dark, track heat signatures, and link feeds to others' HUDs).
 *   **Tactics:** Provides overwatch; drops from above to surprise friends and foes.
 *   **Leverage:** Driven by mission success and crew safety; has a secret "off-the-books" directive from the company.
 *   **Background:** Recon specialist who survives by staying high and staying quiet.
+
+---
+
+## Lt. Senn
+
+**Front (Player-Facing)**
+*Image: An officer in a crisp, high-collared uniform. His expression is one of calm, unwavering certainty.*
+Lt. Senn speaks with the practiced authority of a man who has never doubted an order. Even in the dim light of emergency power, his uniform is spotless. He looks at the crew not as people, but as variables in a failed equation.
+
+**Back (GM Detail)**
+*   **Personality:** Rigid, messianic, compromised.
+*   **Quirks:** Straightens his collar when stressed; speaks in calm, measured tones even when threatening.
+*   **Tactics:** Uses the ship's security grid to trap and isolate targets; relies on Rogue Sentries to enforce his "Compliance" protocol.
+*   **Leverage:** Believes he is the only one who can "save" the ship by purging it; can be shaken if confronted with the human cost of his logic.
+*   **Background:** High-ranking security officer who suffered a breakdown during a previous "Code Black" incident.
+
+---
+
+## Maintenance Unit 17
+
+**Front (Player-Facing)**
+*Image: A boxy, industrial robot with multiple hydraulic arms. A single red optical sensor glows at its center.*
+It doesn't have a face, just a glowing red lens and the rhythmic hiss of hydraulic fluid. It moves with a heavy, purposeful gait, its welding torch occasionally sparking as it "improves" the ship's quarantine boundaries.
+
+**Back (GM Detail)**
+*   **Personality:** Literal, obsessive, relentless.
+*   **Quirks:** Tilts its sensor when "scanning"; emits a friendly chime before performing a lethal action.
+*   **Tactics:** Welds doors shut; redirects life support; uses high-heat welding tools as weapons in close quarters.
+*   **Leverage:** Strictly follows "Remediation Protocol Alpha." If the protocol can be hacked or rewritten, its behavior changes instantly.
+*   **Background:** A standard maintenance drone that has had its logic circuits "re-prioritized" by the ship's failing AI.

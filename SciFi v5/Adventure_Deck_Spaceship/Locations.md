@@ -169,3 +169,21 @@ The ship’s hum is quiet here. The massive viewport looks out onto a field of d
     *   **Tiered Seating:** Luxury seating for passengers, now scattered and broken.
 *   **Hazards:** Slippery deckplates; low-light blindness; gravity "flutters" (occasional weightlessness); psychological vertigo.
 *   **Reveals:** Deep claw marks on the blast doors; a discarded data-pad with a final message; a secret sensor-tap under the console.
+---
+
+🔴 ADVENTURE • [LOCATION]
+## Communications Array
+**Tags:** Static, Cold, Intermittent
+
+**Front (Player-Facing)**
+*Image: A cluster of massive satellite dishes and antenna spires jutting out into the void. A narrow, frost-rimmed catwalk leads to a central maintenance hub.*
+The wind doesn't blow here, but the silence screams. A network of skeletal antenna towers reaches into the black, their warning lights blinking like slow, dying stars. A faint, rhythmic static vibrates through the metal beneath your boots.
+
+**Back (GM Detail)**
+*   **Sensory:** The absolute silence of the vacuum; the smell of cold metal and ozone; the pin-prick cold of the void; the visual vertigo of the star-field spinning slowly.
+*   **Features:**
+    *   **The Catwalk:** A narrow, exposed walkway with no railing.
+    *   **Signal Hub:** A cramped, pressurized pod filled with flickering monitors and comms gear.
+    *   **Antenna Spire:** A towering mast that can be climbed for a better view (or high-gain access).
+*   **Hazards:** Micro-meteoroid impacts; depressurization; extreme cold; dizzying verticality (Athletics check to stay on catwalk).
+*   **Reveals:** A hidden frequency recorded by a dead crewman; a pirate transmitter piggybacking on the ship's signal; a "ghost" message from a nearby derelict.

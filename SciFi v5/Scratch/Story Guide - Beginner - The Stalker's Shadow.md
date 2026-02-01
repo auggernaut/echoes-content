@@ -80,14 +80,14 @@ If the players hesitate or investigate the area further:
 - **Questioning Aris**: *"Is there no other way?"* Aris scowls. *"The Hydroponics Wing is open, but it's a humid deathtrap. I wouldn't recommend it."*
 
 **The Choice**:
-- **Route A: The Maintenance Gut**: Go to [Scene 2A](#-scene-2a-the-maintenance-gut). (Aris's recommended route; Stealth/Cramped).
+- **Route A: The Gut (Maintenance)**: Go to [Scene 2A](#-scene-2a-the-maintenance-gut). (Aris's recommended route; Stealth/Cramped).
 - **Route B: The Hydroponics Wing**: Go to [Scene 2B](#-scene-2b-the-hydroponics-wing). (Discovered alternative; Environmental hazards).
 
 ---
 
 ## 🎬 Scene 2A: The Maintenance Gut
 **Tags**: Cramped, dark, steam-filled
-**Location Card**: [Maintenance Gut](file:///Users/home/Dev/git/echoes-content/SciFi%20v5/Locations.md)
+**Location Card**: [The Gut (Maintenance)](file:///Users/home/Dev/git/echoes-content/SciFi%20v5/Locations.md)
 
 ### 1. The Scene
 > **"You squeeze into the narrow walls of the ship's spine. Steam hisses from broken pipes, obscuring your vision. The floor grating vibrates with the engine's thrum. Ahead, a single red emergency light blinks. Underneath it, you see a leg—a human leg, wearing a grey jumpsuit."**

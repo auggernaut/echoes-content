@@ -149,3 +149,49 @@ A high-clearance keycard that grants access to Engineering controls and critical
 *   **Function:** Access restricted areas and override ship power systems.
 *   **Mechanical Benefit:** Once per session, use this to override a locked system or gain advantage on an Engineering roll.
 *   **Narrative Twist:** The card is coded with a "Dead Man's Switch" that triggers a ship-wide alert if it leaves the Engineering zone.
+---
+
+🔴 ADVENTURE • [ITEM] • [SLOT: 0]
+## Bridge Key
+**Tags:** Command, Heavy, Officer-Only
+
+**Front (Player View)**
+*Image: A heavy, antiquated-looking physical key with a complex laser-etched pattern.*
+A heavy, physical key that feels cold and significant in your hand. It features a complex laser-etched pattern on its bit. It’s a relic of a time before everything was digital—a failsafe for the ship’s most critical chamber.
+
+**Back (Item Details)**
+*   **Function:** Grants physical access to The Bridge, even during a total power failure or system lockdown.
+*   **Mechanical Benefit:** Automatically succeeds on any roll to bypass a Bridge bulkhead or airlock.
+*   **Narrative Twist:** The key is linked to a private log on the Bridge console that only the holder can read—a final message from the ship's builder.
+
+---
+
+🔴 ADVENTURE • [ITEM] • [SLOT: 1]
+## Bio-Scanner
+**Tags:** Scientific, Handheld, Pulsing
+
+**Front (Player View)**
+*Image: A sleek handheld device with a circular display showing green pulse waves.*
+A handheld scanner that chirps with a steady, reassuring rhythm. Its display shows a clean sweep of biological signatures in the immediate vicinity. It feels light, but the data it provides is heavy.
+
+**Back (Item Details)**
+*   **Function:** Identifies and tracks biological signatures through walls and floors.
+*   **Mechanical Benefit:** Boon on all Scouting and Detection rolls. Can identify the general type of creature (Humanoid, Xenomorph, Small) from up to 30 feet.
+*   **Side Effect:** [Psychotropic Interference]: If used in a room with a Psychotropic Leak, the scanner displays life-forms that aren't there—or hides ones that are.
+*   **Narrative Twist:** The scanner is picking up a second, fainter heartbeat from within the user's own chest.
+
+---
+
+🔴 ADVENTURE • [ITEM] • [SLOT: 0]
+## Compliance Badge
+**Tags:** Authorized, Shiny, Metallic
+
+**Front (Player View)**
+*Image: A small, polished silver badge with the Void Corp emblem.*
+A small, silver badge that catches the light. It looks official, even if it was found in a dusty corner of the cargo hold. Wearing it makes you feel like you belong—and more importantly, it tells the ship's automated systems the same.
+
+**Back (Item Details)**
+*   **Function:** Identifies the wearer as "Authorized Personnel" to ship security systems.
+*   **Mechanical Benefit:** Rogue Sentries and Automated Turrets will not target the wearer unless they act aggressively.
+*   **Risk:** [Legacy Clearance]: The badge belongs to a crew member marked for "Termination" in a hidden protocol.
+*   **Narrative Twist:** The back of the badge has the name "Lt. Senn" scratched out.

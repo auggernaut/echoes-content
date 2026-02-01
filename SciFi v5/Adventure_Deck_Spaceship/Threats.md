@@ -126,3 +126,71 @@ The artificial gravity is failing in waves. Your stomach lurches as the "down" b
 *   **Trigger:** Any critical failure in a room with power issues.
 *   **Effect:** [Axis Flip]: Everyone in the room must roll 4+ or be slammed into the new "floor" (ceiling or wall), taking 1 Strike (Armor allows a save). 
 *   **Gameplay Twist:** For the next turn, the room's architecture is inverted. Tactical advantages (cover) are lost or repositioned.
+---
+
+## Automated Turrets
+**Tags:** Lethal, Fixed, Automated
+
+**Front (Player-Facing)**
+*Image: A ceiling-mounted gatling turret with a rotating barrel and a pulsing red target designator.*
+A low hum precedes the metallic whir of rotating barrels. A thin, red laser beam sweeps the corridor, pausing briefly on anything that moves. A synthetic voice announces: "Bio-hazard remediation in progress. Please remain stationary for processing."
+
+**Back (GM Detail)**
+*   **Strikes:** 2 (Fixed position)
+*   **To Hit:** 3+
+*   **Boons:** +1d6 to Perception (Targeting).
+*   **Abilities:**
+    *   **Suppression Fire:** Anyone in the turret's line of sight must roll 5+ (Will) or lose their next move action to fear/suppression.
+    *   **Remediation Protocol:** Deals 1 Strike to any moving target detected.
+*   **Behavior:** Stationary but rotates 360 degrees. Targets the largest biological signature first.
+
+---
+
+## Rapid Flora
+**Tags:** Invasive, Explosive, Suffocating
+
+**Front (Player-Facing)**
+*Image: Thick, thorny vines burst through a metal bulkhead, their pods pulsing with a sickly green light.*
+The ship’s metal groans as it's squeezed by a relentless tide of green. Thorny vines move with a slow, deliberate grace, wrapping around anything they touch. The air is thick with a cloying, sweet pollen that makes your lungs feel heavy.
+
+**Back (GM Detail)**
+*   **Strikes:** 5 (Per Zone)
+*   **To Hit:** 5+ (Automatic if Entangled)
+*   **Resistances:** Immune to piercing; Double damage from Fire/Heat.
+*   **Abilities:**
+    *   **Entangle:** Roll 4+ to dodge or become *Restrained*.
+    *   **Pollen Explosion:** If hit with a physical attack, the flora releases a cloud. Roll 5+ (Will) or take a Bane on all actions for 2 turns.
+*   **Behavior:** Spreads slowly. Reacts to heat and vibration.
+
+---
+
+## Boarding Party
+**Tags:** Professional, Coordinated, Lethal
+
+**Front (Player-Facing)**
+*Image: A squad of three soldiers in matte-black tactical armor, moving in a tight formation with raised carbines.*
+These aren't monsters; they're professionals. They move with a silent, practiced efficiency, checking corners and communicating through silent hand signals. Their armor is matte-black, absorbing the dim light of the corridor.
+
+**Back (GM Detail)**
+*   **Strikes:** 3 (Per Squad)
+*   **To Hit:** 4+
+*   **Boons:** +1d6 to Tactical Positioning, +1d6 to Ranged.
+*   **Abilities:**
+    *   **Flashbang:** Roll 4+ to dodge or become *Stunned* and *Blinded* for 1 turn.
+    *   **Focus Fire:** If two or more boarders target the same PC, the PC takes a Bane on their Defense roll.
+*   **Behavior:** Uses cover; retreats if the leader is killed; attempts to capture "High Value Assets."
+
+---
+
+## Hypnotic Signal
+**Tags:** Abstract, Mental, Persistent
+
+**Front (Player-Facing)**
+*Image: A data terminal displaying a scrolling pattern of complex geometric shapes and pulsing colors.*
+The frequency isn't just a sound; it's a feeling. Your vision swims as a pattern on the monitors pulses in time with your own heartbeat. You hear a voice—not with your ears, but in the back of your mind—telling you that everything is fine, and you should just... rest.
+
+**Back (GM Detail)**
+*   **Save:** 5+ (Will)
+*   **Effect:** On a failure, the player becomes *Dazed* and cannot take any actions. They must roll a 6+ on their next turn to "snap out of it" or be guided to the nearest "Safe Zone" by the ship's voice.
+*   **Mechanical Twist:** Any player with a **Neural Dampener** is immune.
+*   **Narrative Insight:** The signal is a corrupted version of a deep-sleep cycle designed to keep passengers calm during long transits.
