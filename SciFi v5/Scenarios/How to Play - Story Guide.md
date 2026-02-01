@@ -31,6 +31,9 @@ Instead of rolling dice, the GM asks a **Hook Question** to establish the charac
 *   **GM to Player**: *"Who in your past was taken by a shadow, and why does this sound exactly like that?"*
 *   **Success**: The player answers. This establishes their motivation without a single rule needed.
 
+### 🌟 Rule: Roleplay Rewards
+Tell the players: *"If you do something cool, act in character, or make a choice that makes the story better (even if it hurts your character), I will give you a **Karma Token** (Hero Die). You can use these to re-roll dice later."*
+
 ### **Rule 2: Scene Setting (GM Only)**
 The GM draws a **Location Card** (e.g., **Cargo Hold**). **Important**: Players never see the back of this card.
 *   **The GM's Role**: Describe the **Sensory** atmosphere (the hiss of pipes, the smell of ozone). Use the **Features** list to pepper your description with interesting objects (like "massive shipping containers").
