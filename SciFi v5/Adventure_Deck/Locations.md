@@ -185,5 +185,5 @@ The wind doesn't blow here, but the silence screams. A network of skeletal anten
     *   **The Catwalk:** A narrow, exposed walkway with no railing.
     *   **Signal Hub:** A cramped, pressurized pod filled with flickering monitors and comms gear.
     *   **Antenna Spire:** A towering mast that can be climbed for a better view (or high-gain access).
-*   **Hazards:** Micro-meteoroid impacts; depressurization; extreme cold; dizzying verticality (Athletics check to stay on catwalk).
+*   **Hazards:** Micro-meteoroid impacts; depressurization; extreme cold; dizzying verticality (**Flip an Echo to Static** to stay on catwalk).
 *   **Reveals:** A hidden frequency recorded by a dead crewman; a pirate transmitter piggybacking on the ship's signal; a "ghost" message from a nearby derelict.

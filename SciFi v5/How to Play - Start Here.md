@@ -27,6 +27,11 @@ This guide is designed for the **Game Master (GM)** to read aloud and follow at 
 **Read Aloud**:
 > *"Each of you, choose a **Character Deck**. This is your role on the ship. Once you have it, flip the top card to reveal who you are."*
 
+**GM Action**: *Hand each player their deck, **3 Red tokens** (Strikes), and **3 Dual-Sided tokens** (Echoes).*
+
+**Read Aloud**:
+> *"You are also holding two sets of tokens. The **Red tokens** are your life—each time you're hurt, you lose one. The **White/Black tokens** are your **Echoes**. Start with three on the **White (Signal) side**. These represent your clarity and focus. If things get scary, they might flip to the **Black (Static) side**."*
+
 **GM Action**: *As they reveal their identities, explain the **5-Slot Loadout**.*
 
 **Read Aloud**:
@@ -45,6 +50,9 @@ This guide is designed for the **Game Master (GM)** to read aloud and follow at 
 **Read Aloud to a Player**: 
 > *"Who in your past was taken by a shadow, and why does this sound exactly like that?"*
 
+> [!TIP]
+> **The Echo Economy**: This is a perfect time to award the first **Echo (Signal)**. Reward the player for their answer. Echoes are the primary reward for "Good Roleplay" — leaning into the atmosphere, answering prompts with detail, or taking cool, thematic risks.
+
 ---
 
 ## 🛠 Step 5: Scene Setting
@@ -53,10 +61,10 @@ This guide is designed for the **Game Master (GM)** to read aloud and follow at 
 **Read Aloud**:
 > *"We are in the **Cargo Hold**. Massive shipping containers rise into the darkness like metal cliffs. The air smells of wet metal and old cardboard. You can hear a rhythmic scratching coming from somewhere above."*
 
-**GM Action**: *Explain how players interact with the environment.*
+**GM Action**: *Read the back of the location card. Describe the Features of the room to the players.* 
 
 **Read Aloud**: 
-> *"I will describe the world. You tell me what you want to do. If you want to use a **Feature** I mentioned—like hiding behind a container—just tell me. If do something cool or act in character, I'll give you a **Karma Token** which you can use for re-rolls later."*
+> *"I will describe the world. You tell me what you want to do. If you want to use a **Feature** I mentioned—like hiding behind a container—just tell me. If you do something cool or act in character, I'll give you an **Echo** (Signal) which you can spend for boons or re-rolls later."*
 
 ---
 
@@ -67,7 +75,7 @@ This guide is designed for the **Game Master (GM)** to read aloud and follow at 
 **GM Action**: *Wait for a player to suggest an action (e.g., "I'll use my Bio-Scanner").*
 
 1.  **Set the Difficulty (DR)**: *"Because it's dark and cluttered, this is a **DR 5+** check."*
-2.  **Check for Boons**: *"Check your cards. Does any item or ability give you a **Boon** for this?"* (e.g., Bio-Scanner).
+2.  **Check for Boons or Banes**: *"Check your cards and your current conditions. Does any item, ability, or status (like an infection or Static) give you a **Boon** or a **Bane** for this?"* (e.g., Bio-Scanner gives a Boon).
 3.  **The Roll**:
     *   **Boon**: Roll **2d6**, take the **highest**.
     *   **Bane**: Roll **2d6**, take the **lowest**.
@@ -83,7 +91,7 @@ This guide is designed for the **Game Master (GM)** to read aloud and follow at 
 > *"A long-limbed shadow clings to the ceiling, its eyes glowing with a cold light. It strikes!"*
 
 **Explain Damage**:
-> *"In this game, you don't have health points. You take **Strikes**. Most of you can only take 3 before you are 'Broken.' You can spend a **Karma Token** or a feature from one of your **[DEFENSE]** cards to negate a Strike. If you can't, mark a Strike on your sheet."*
+> *"In this game, you don't have health points. You take **Strikes**. Most of you can only take 3 before you are 'Broken.' You can spend an **Echo** (Signal) or a feature from one of your **[DEFENSE]** cards to negate a Strike. If you can't, mark a Strike on your sheet."*
 
 ---
 

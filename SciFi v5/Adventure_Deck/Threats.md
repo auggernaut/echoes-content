@@ -5,6 +5,7 @@
 
 
 ## The Stalker
+**Tags:** [LURKER], Stealth, Vertical
 
 **Front (Player-Facing)**
 *Image: A long-limbed shadow clinging to the ceiling of a dark corridor. Its eyes are not visible, but you feel their weight.*
@@ -15,7 +16,7 @@ A flicker of movement in the peripherals. A wet, rhythmic scratching against the
 *   **To Hit:** 4+ (5+ in bright light)
 *   **Boons:** +1d6 to Stealth, +1d6 to Climbing.
 *   **Abilities:**
-    *   **[Lurker]:** Gains a Boon on attacks if no PC is actively looking at it (GM: enforce player facing).
+    *   **Lurker:** Gains a Boon on attacks if no PC is actively looking at it (GM: enforce player facing).
     *   **Pounce:** If attacking from hidden, deals 1 Strike and targets must roll 4+ to resist or become *Stunned*.
     *   **Shadow Meld:** Can vanish into any non-illuminated area as a free action.
 *   **Behavior:** Avoids groups; strikes the tail of the party; flees if it takes 1 Strike.
@@ -23,6 +24,7 @@ A flicker of movement in the peripherals. A wet, rhythmic scratching against the
 ---
 
 ## Apex Predator
+**Tags:** [LURKER], Violent, Decoy
 
 **Front (Player-Facing)**
 *Image: A chitinous, shifting geometry of limbs and bone, eyes glowing with cold intelligence.*
@@ -41,6 +43,7 @@ A creature of impossible geometry—shifting limbs of chitin and bone. It doesn'
 ---
 
 ## Bio-Organic Hive
+**Tags:** [BIO], Fixed, Persistent
 
 **Front (Player-Facing)**
 *Image: Violet veins and pulsating flesh covering a ship's corridor.*
@@ -58,6 +61,7 @@ The walls are no longer metal; they are covered in a thick, pulsating mass of vi
 ---
 
 ## Rogue Sentry
+**Tags:** [TECH], Mobile, Automated
 
 **Front (Player-Facing)**
 *Image: A hovering gunmetal sphere with a red laser grid scanner.*
@@ -75,6 +79,7 @@ A hovering sphere of gunmetal and glass. It tracks movement with a red laser gri
 ---
 
 ## Nanite Swarm
+**Tags:** [TECH], [BIO], Invasive
 
 **Front (Player-Facing)**
 *Image: A glittering metallic mist vibrating against the walls.*
@@ -92,18 +97,20 @@ A metallic mist drifts through the corridor — glittering dust that hums faintl
 ---
 
 ## Psychotropic Leak
+**Tags:** [SURREAL], Abstract, Mental
 
 **Front (Player-Facing)**
 *Image: Ozone haze and detached shadows whispering on the walls.*
 The air smells like ozone and burnt sugar. Shadows seem to detach from the walls. You hear your name whispered by a voice that sounds exactly like your own.
 
 **Back (GM Detail)**
-*   **Save:** 6+ (Will)
+*   **Save:** 6+
 *   **Effect:** On failure, player gains the *Paranoid* condition and cannot help allies for the scene.
 
 ---
 
 ## Breached Bulkhead
+**Tags:** Hazard, Environmental, Lethal
 
 **Front (Player-Facing)**
 *Image: A jagged tear in the hull showing the silent void of space.*
@@ -129,7 +136,7 @@ The artificial gravity is failing in waves. Your stomach lurches as the "down" b
 ---
 
 ## Automated Turrets
-**Tags:** Lethal, Fixed, Automated
+**Tags:** [TECH], Lethal, Fixed
 
 **Front (Player-Facing)**
 *Image: A ceiling-mounted gatling turret with a rotating barrel and a pulsing red target designator.*
@@ -140,14 +147,14 @@ A low hum precedes the metallic whir of rotating barrels. A thin, red laser beam
 *   **To Hit:** 3+
 *   **Boons:** +1d6 to Perception (Targeting).
 *   **Abilities:**
-    *   **Suppression Fire:** Anyone in the turret's line of sight must roll 5+ (Will) or lose their next move action to fear/suppression.
+    *   **Suppression Fire:** Targets must roll 5+ or lose their next move action. Players can bypass this by moving slowly or spending an **Echo** for a bypass code.
     *   **Remediation Protocol:** Deals 1 Strike to any moving target detected.
 *   **Behavior:** Stationary but rotates 360 degrees. Targets the largest biological signature first.
 
 ---
 
 ## Rapid Flora
-**Tags:** Invasive, Explosive, Suffocating
+**Tags:** [BIO], Invasive, Explosive
 
 **Front (Player-Facing)**
 *Image: Thick, thorny vines burst through a metal bulkhead, their pods pulsing with a sickly green light.*
@@ -158,8 +165,8 @@ The ship’s metal groans as it's squeezed by a relentless tide of green. Thorny
 *   **To Hit:** 5+ (Automatic if Entangled)
 *   **Resistances:** Immune to piercing; Double damage from Fire/Heat.
 *   **Abilities:**
-    *   **Entangle:** Roll 4+ to dodge or become *Restrained*.
-    *   **Pollen Explosion:** If hit with a physical attack, the flora releases a cloud. Roll 5+ (Will) or take a Bane on all actions for 2 turns.
+    *   **Entangle:** Roll 4+ to dodge or become *Restrained*. If a character remains restrained at the end of a scene, they take 1 Strike from constricting pressure.
+    *   **Pollen Explosion:** If hit with a physical attack, the flora releases a cloud. Roll 5+ or take a Bane on all actions for 2 turns.
 *   **Behavior:** Spreads slowly. Reacts to heat and vibration.
 
 ---
@@ -183,14 +190,14 @@ These aren't monsters; they're professionals. They move with a silent, practiced
 ---
 
 ## Hypnotic Signal
-**Tags:** Abstract, Mental, Persistent
+**Tags:** [SURREAL], Abstract, Mental, Persistent
 
 **Front (Player-Facing)**
 *Image: A data terminal displaying a scrolling pattern of complex geometric shapes and pulsing colors.*
 The frequency isn't just a sound; it's a feeling. Your vision swims as a pattern on the monitors pulses in time with your own heartbeat. You hear a voice—not with your ears, but in the back of your mind—telling you that everything is fine, and you should just... rest.
 
 **Back (GM Detail)**
-*   **Save:** 5+ (Will)
-*   **Effect:** On a failure, the player becomes *Dazed* and cannot take any actions. They must roll a 6+ on their next turn to "snap out of it" or be guided to the nearest "Safe Zone" by the ship's voice.
+*   **Save:** Flip an **Echo** to **Static** or roll 5+.
+*   **Effect:** On a failure, the player becomes *Dazed*. If the player has no Echoes left to flip, take a **Strike** (The Void) instead.
 *   **Mechanical Twist:** Any player with a **Neural Dampener** is immune.
 *   **Narrative Insight:** The signal is a corrupted version of a deep-sleep cycle designed to keep passengers calm during long transits.

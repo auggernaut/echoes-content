@@ -15,7 +15,7 @@ A translucent data crystal, warm to the touch. When held near an active console,
 *   **Function:** Interfaces with terminals to unlock sealed logs or doors.
 *   **Side Effect:** Each use triggers a fleeting vision — another player’s memory.
 *   **Risk:** Overuse invites Echo-1 into the user’s neural implant.
-*   **Mechanical Benefit:** Advantage on tech rolls once per scene.
+*   **Mechanical Benefit:** Advantage on **tech-based actions** once per scene.
 *   **Narrative Twist:** The shard contains the fragmented consciousness of the ship’s first captain.
 
 ---
@@ -28,9 +28,9 @@ A translucent data crystal, warm to the touch. When held near an active console,
 A heavy, industrial-grade tool with various folding attachments—wrenches, scanners, and a small plasma torch. It feels solid and reliable in your hand.
 
 **Back (Item Details)**
-*   **Function:** Grants advantage on Engineering and Technical checks related to physical repairs or hacking.
+*   **Function:** Grants advantage on **Engineering and Technical actions** related to physical repairs or hacking.
 *   **Risk:** [Sticky Trigger]: If used for a desperate repair (rolling a 1), the plasma torch triggers fire suppression (Bane on all actions in the room for 1 turn due to foam/halon).
-*   **Mechanical Benefit:** Once per session, automatically succeed on a "Minor Repair" check.
+*   **Mechanical Benefit:** Once per session, automatically succeed on a **"Minor Repair" action**.
 *   **Narrative Twist:** The tool has the name "Mara Iko" etched into the casing.
 
 ---
@@ -59,7 +59,7 @@ A handheld launcher that fires a high-strength cable with a powerful magnetic he
 
 **Back (Item Details)**
 *   **Function:** Allows the user to move safely in zero-G or pull objects/allies toward them.
-*   **Mechanical Benefit:** Grants a reroll on "Athletics/Movement" checks in vacuum or zero-G.
+*   **Mechanical Benefit:** Grants a reroll on **"Athletics/Movement" actions** in vacuum or zero-G.
 *   **Narrative Twist:** The cable is made of the same material as the ship's hull, making it heavy but nearly indestructible.
 
 ---
@@ -103,7 +103,7 @@ A handheld hub that connects to the ship's skin. It "feels" the vibrations in th
 **Back (Item Details)**
 *   **Function:** Detects movement through walls, floors, or vents by hull resonance.
 *   **Mechanical Benefit:** Boon on Scouting rolls. On a Success, the GM tells you the size of the movement (Titan, Humanoid, Small).
-*   **Drawback:** [Blind Resonance]: Cannot distinguish between a crewmate and a monster. If two sources of movement are present, you must guess or roll Will 5+ to focus.
+*   **Drawback:** [Blind Resonance]: Cannot distinguish between a crewmate and a monster. If two sources of movement are present, you must guess or **Flip an Echo to Static** to focus.
 *   **Narrative Twist:** The sensor picks up a rhythmic "thump-thump" coming from the empty void outside the hull.
 
 ---
@@ -147,7 +147,7 @@ A high-clearance keycard that grants access to Engineering controls and critical
 
 **Back (Item Details)**
 *   **Function:** Access restricted areas and override ship power systems.
-*   **Mechanical Benefit:** Once per session, use this to override a locked system or gain advantage on an Engineering roll.
+*   **Mechanical Benefit:** Once per session, use this to override a locked system or gain advantage on an **Engineering action**.
 *   **Narrative Twist:** The card is coded with a "Dead Man's Switch" that triggers a ship-wide alert if it leaves the Engineering zone.
 ---
 
@@ -161,7 +161,7 @@ A heavy, physical key that feels cold and significant in your hand. It features 
 
 **Back (Item Details)**
 *   **Function:** Grants physical access to The Bridge, even during a total power failure or system lockdown.
-*   **Mechanical Benefit:** Automatically succeeds on any roll to bypass a Bridge bulkhead or airlock.
+*   **Mechanical Benefit:** Automatically succeed on any **action** to bypass a Bridge bulkhead or airlock.
 *   **Narrative Twist:** The key is linked to a private log on the Bridge console that only the holder can read—a final message from the ship's builder.
 
 ---
@@ -176,7 +176,7 @@ A handheld scanner that chirps with a steady, reassuring rhythm. Its display sho
 
 **Back (Item Details)**
 *   **Function:** Identifies and tracks biological signatures through walls and floors.
-*   **Mechanical Benefit:** Boon on all Scouting and Detection rolls. Can identify the general type of creature (Humanoid, Xenomorph, Small) from up to 30 feet.
+*   **Mechanical Benefit:** Boon on all **Scouting and Detection actions**. Can identify the general type of creature (Humanoid, Xenomorph, Small) from up to 30 feet.
 *   **Side Effect:** [Psychotropic Interference]: If used in a room with a Psychotropic Leak, the scanner displays life-forms that aren't there—or hides ones that are.
 *   **Narrative Twist:** The scanner is picking up a second, fainter heartbeat from within the user's own chest.
 

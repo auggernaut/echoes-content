@@ -109,6 +109,14 @@ Immersive, sensory text describing the location, person, or item as first seen.
     *   🟠 **Legendary**: "Golden Ticket" items. Only 1 allowed per deck.
 
 ---
+112: 
+113: ## 🏷️ The Tag Registry (Mechanics)
+114: 
+115: SciFi v5 uses **Tags** to add mechanical depth to specific horror archetypes without bloating the core rules. Every Scenario and many Adventure Cards should inherit behaviors from the [Tag Registry](file:///Users/home/Dev/git/echoes-content/SciFi%20v5/Tag_Registry.md).
+116: 
+117: *   **Scenario Tags**: Define the "house rules" for the table during that mission (e.g., `[LURKER]` vision rules).
+118: *   **Card Tags**: Define how items or threats interact with those scenario rules.
+119: 
 
 ## 🌎 Location Design & Scenario Interplay
 
@@ -142,7 +150,7 @@ The GM is the bridge between the scenario and the table.
 [TAGS]: [Engineering], [Personal]
 
 **Reliable Fix**: 
-Boon on any [Repair] or [Tech] roll. If the roll is a 6, gain 1 Karma.
+Boon on any **[Repair] or [Tech] action**. If you succeed with a 6, gain an **Echo (Signal)**.
 
 **Narrative Prompt**:
 - Who gave you this tool when you first signed onto the Aegis?

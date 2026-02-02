@@ -1,5 +1,5 @@
 # The Silent Mutiny
-**Tags:** Intrigue, Thriller, Human-Conflict
+**Tags:** Intrigue, Thriller, Human-Conflict, [TECH]
 
 ## **Summary (GM Only)**
 **Lt. Senn** has initiated a security coup, claiming the crew is unfit for the mission. He has locked down the ship using **Rogue Sentries** and is purging "disloyal" memory logs from the Core.
@@ -12,14 +12,18 @@
 2. *Which of the **Rogue Sentries** (Threat) bears a serial number you recognize?*
 3. *What 'Black Box' data are you hiding that Senn would kill to delete?*
 
+## **Scenario Rules: [TECH]**
+*   **Rigid Protocols**: Interacting with any locked terminal or sentry requires following a specific narrative protocol (e.g., "Enter the code in reverse"). If a player ignores the protocol, they must **Flip an Echo** to **Static** (Lockout).
+*   **Hardware Lock**: If a player has **3 Static echoes**, one of their 5-slot items (GM's choice) is disabled until they retreat to a "Safe Zone".
+
 ## **Locations**
-*   **The Bridge**: Protected by **Automated security defenses** (Hazard). The **Captain's Chair** (Feature) is the only place to upload a **Social** or **Tech** override.
+*   **The Bridge**: Protected by **Automated security defenses** (Hazard). The **Captain's Chair** (Feature) is the only place to **Discard an Echo** or an **[ITEM]** use to initiate a manual override.
 *   **AI Core Chamber**: **Neuro-shock** (Hazard) triggers if you try to stop the purge. A **Manual Kill Switch** (Reveal) is hidden under the floor, but reaching it requires stealth.
 *   **Observation Deck**: **Gravity flutters** (Hazard) make this a difficult zone for combat. **Senn** has left a **Discarded Data-pad** (Reveal) here detailing his true motives.
 
 ## **NPCs**
 *   **Lt. Senn**: Currently on the **Bridge**. He uses **Tactical Command** to coordinate the **Rogue Sentries** (Threat). He holds the **Bridge Key** (Loot).
-*   **Maintenance Unit 17**: A rogue droid found in **The Gut**. It has been reprogrammed by the PCs (or Senn) and acts as a wild-card ally with **Heavy Welding** capabilities.
+*   **Maintenance Unit 17**: A rogue droid found in **The Gut**. It has been reprogrammed by the PCs (or Senn) and acts as a wild-card ally with **Heavy Welding** capabilities. Spending an **Echo** allows the PCs to issue it a direct command.
 
 ## **Threats**
 *   **Rogue Sentry**: Move them in strict patrol loops. Use the **Compliance Check** (flash-strobe) as an opening move to stun players before they can react. If a Sentry isn't destroyed immediately, narrate it pinging the network to **Call for Backup**, effectively doubling the threat count each turn.

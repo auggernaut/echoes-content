@@ -26,7 +26,7 @@ Quick, Desperate
 Health: 3 Strikes
 
 When targeted by an attack, roll a d6. On 5+, you avoid the Strike by ducking into cover.
-If you expose another PC while dodging, gain +1 Karma.
+If you expose another PC while dodging, gain an **Echo (Signal)**.
 
 "If sparks fly, I'm already under the console."
 	•	Who do I always leave behind when I scramble?
@@ -39,7 +39,7 @@ Failsafe Trigger
 Paranoid, Precise
 Health: 3 Strikes
 
-Once per fight, negate a Strike against you by declaring a failsafe you prepared. Describe how it works.
+Once per fight, you may **Flip an Echo to Static** to negate a Strike against you by declaring a failsafe you prepared. Describe how it works.
 
 "If it breaks, I already planned how it'll break."
 	•	What improvised trick has saved me more than once?
@@ -197,7 +197,7 @@ Overclock (System Cannibalization)
 🔵 CHARACTER • [ABILITY] • [SLOT: 1]
 Cynical, Resourceful
 
-Once per session, you may permanently "junk" one [ITEM] you are carrying (it becomes useless scrap) to gain a massive Boon (+2d6) on a ship system roll (Repair, Hack, or Reroute).
+Once per session, you may permanently "junk" one [ITEM] you are carrying (it becomes useless scrap) to gain a massive Boon (+2d6) on a ship system ACTION (Repair, Hack, or Reroute).
 
 "I can give you ten more minutes of life support. But you're going to have to give me your scanner."
 	•	What essential tool did I sacrifice to save the crew once?
