@@ -8,11 +8,11 @@
 ## Reactor Core
 **Tags:** Overheated, Thrumming, Metallic
 
-**Front (Player-Facing)**
+**Front**
 *Image: Massive cylindrical reactor core glowing with pulsing blue and orange light. Industrial, pipes, steam, heat distortion.*
 The air tastes metallic. Heat shimmers off the deckplates. A half-lit reactor core looms in the chamber’s center, breathing in mechanical gasps. Every few seconds, the lights dim and pulse like a dying heartbeat.
 
-**Back (GM Detail)**
+**Back**
 *   **Sensory:** The deep, bone-rattling thrum of the drive; the scent of ozone and hot oil; the oppressive warmth that makes skin prickle; the blue-white glare of the core.
 *   **Features:**
     *   **The Core:** A shielded, vertical column pulsing with lethal energy.
@@ -27,11 +27,11 @@ The air tastes metallic. Heat shimmers off the deckplates. A half-lit reactor co
 ## Cryo Bay Theta
 **Tags:** Frigid, Silent, Tomb-like
 
-**Front (Player-Facing)**
+**Front**
 *Image: Rows of vertical glass pods, some frosted or broken. Dim blue lighting. Mist covers the floor.*
 A skin of frost turns the cryo‑pods into glass sarcophagi. One capsule is shattered inward, glittering with glass dust. Cold breath blooms in the air. Frozen stasis gel beads on the deck with an antiseptic sweetness.
 
-**Back (GM Detail)**
+**Back**
 *   **Sensory:** The absolute silence of the void; the clinical smell of antiseptic and frozen gel; the biting cold that numbs fingers; the rhythmic click of pod life-support.
 *   **Features:**
     *   **Cryo Pods:** Rows of vertical glass pods, some frosted, some occupied by sleeping crew.
@@ -46,12 +46,12 @@ A skin of frost turns the cryo‑pods into glass sarcophagi. One capsule is shat
 ## The Bridge
 **Tags:** Command, Hissing, Fragile
 
-**Front (Player-Facing)**
+**Front**
 *Image: Cracked viewport framing a starry void. Captain's chair in the center.*
-The nerve center of the ship. Tactical stations blink in a rhythmic, electronic pulse around a central command chair. The massive viewport looks out into the void, its glass spiderwebbed with thin, shivering cracks. A faint comm light blinks on the console—a ghost signal waiting for an answer.
+The nerve center of the ship. Tactical stations blink in a rhythmic, electronic pulse around a central command chair. The massive viewport looks out into the void, its glass spiderwebbed with thin, shivering cracks.
 
-**Back (GM Detail)**
-*   **Sensory:** The whistle of air cycling (or leaking); the smell of burnt plastic and stale coffee; the visual vertigo of the stars moving past the cracks; the static hiss from the comms.
+**Back**
+*   **Sensory:** The whistle of air cycling (or leaking); the smell of burnt plastic and stale coffee; the static hiss from the comms.
 *   **Features:**
     *   **Captain's Chair:** The central position; physical keys and overrides.
     *   **Navigation Console:** Holographic map table, flickering or corrupted.
@@ -65,11 +65,11 @@ The nerve center of the ship. Tactical stations blink in a rhythmic, electronic 
 ## MedBay
 **Tags:** Antiseptic, Sterile, Whirring
 
-**Front (Player-Facing)**
+**Front**
 *Image: High-tech hospital room. Surgical robots hanging from the ceiling. Sterile white and blue lighting.*
 A chemical haze hangs like glittering dust in sterile light. Auto-doc arms twitch to life, then freeze mid-motion. The air smells like antiseptic and hot metal, with a sweetness that shouldn’t be there.
 
-**Back (GM Detail)**
+**Back**
 *   **Sensory:** The sharp sting of alcohol and bleach; the high-pitched whine of surgical lasers; the eerie stillness of the hibernation beds; the flickering white UV lights.
 *   **Features:**
     *   **Auto-Doc:** A robotic surgical spider suspended from the ceiling.
@@ -84,12 +84,12 @@ A chemical haze hangs like glittering dust in sterile light. Auto-doc arms twitc
 ## AI Core Chamber
 **Tags:** Freezing, Hushed, Charged
 
-**Front (Player-Facing)**
+**Front**
 *Image: Dark server room with a central glowing monolith. Cables like tree roots.*
-Cable looms gather like roots around a cold, black obelisk of memory lattice. The temperature drops with each step toward the core, and breath crystallizes in the air. This is the ship's brain, and it is vast.
+Cable looms gather like roots around a cold, black obelisk of memory lattice. The temperature drops with each step toward the core, and breath crystallizes in the air.
 
-**Back (GM Detail)**
-*   **Sensory:** The low, vibrating hum of massive data processing; the smell of ozone and dry, cold air; the static charge that makes hair stand up; the pulsing blue light of the memory lattice.
+**Back**
+*   **Sensory:** The low, vibrating hum of massive data processing; the smell of ozone and dry, cold air; the static charge that makes hair stand up; 
 *   **Features:**
     *   **The Obelisk:** The central memory lattice housed in a black, crystalline tower.
     *   **Interface Port:** A specialized terminal for direct neural-link interaction.
@@ -103,10 +103,10 @@ Cable looms gather like roots around a cold, black obelisk of memory lattice. Th
 ## Cargo Hold
 **Tags:** Cavernous, Echoing, Shadowy
 
-**Front (Player-Facing)**
+**Front**
 Columns of cargo crates rise into the darkness above, forming a labyrinth of metal and plastic. Every distant clank or hiss echoes through the vast space. The scale makes you feel small and exposed in this canyon of shipping containers.
 
-**Back (GM Detail)**
+**Back**
 *   **Sensory:** The booming echo of your own footsteps; the smell of grease and wet cardboard; the industrial chill of an unheated space; the sight of towering, swaying crate stacks.
 *   **Features:**
     *   **Shipping Containers:** Massive metal boxes, some pried open like ribcages.
@@ -121,11 +121,11 @@ Columns of cargo crates rise into the darkness above, forming a labyrinth of met
 ## The Gut (Maintenance)
 **Tags:** Cramped, Hissing, Vibrating
 
-**Front (Player-Facing)**
+**Front**
 *Image: Narrow maintenance shafts filled with hissing steam and low-hanging wires.*
 The walls squeeze in. You can feel the ship's heartbeat through the vibrating steel. It's a claustrophobic vein of pipes, cables, and narrow crawlspaces. Every movement feels loud, and every hiss of steam feels like a breath.
 
-**Back (GM Detail)**
+**Back**
 *   **Sensory:** The intense heat of the pipe-walls; the smell of recycled air and old sweat; the constant, grinding vibration; the dim, red emergency lighting.
 *   **Features:**
     *   **The Veins:** Narrow crawlspaces where you must move in single file.
@@ -140,10 +140,10 @@ The walls squeeze in. You can feel the ship's heartbeat through the vibrating st
 ## Hydroponics Wing
 **Tags:** Humid, Overgrown, Oxygen-Rich
 
-**Front (Player-Facing)**
+**Front**
 The air here is sweet—too sweet. Oxygen levels are in the red, making your skin tingle. Pale vines creep out of shattered growth tanks, illuminated by the ghostly green glow of nutrient vats. The mist is thick enough to hide anything.
 
-**Back (GM Detail)**
+**Back**
 *   **Sensory:** The suffocating humidity; the smell of wet earth and rotting flowers; the green, sickly glow of the UV vats; the sound of water dripping onto leaves.
 *   **Features:**
     *   **Growth Tanks:** Shattered glass tubes spilling nutrient-rich sludge.
@@ -158,10 +158,10 @@ The air here is sweet—too sweet. Oxygen levels are in the red, making your ski
 ## Observation Deck
 **Tags:** Silent, Expansive, Star-lit
 
-**Front (Player-Facing)**
+**Front**
 The ship’s hum is quiet here. The massive viewport looks out onto a field of distant stars, cold and indifferent. It is a place of peace, or at least it was. Now, a table lies overturned, and the silence is deafening.
 
-**Back (GM Detail)**
+**Back**
 *   **Sensory:** The eerie silence; the cold light of distant suns; the smell of cold metal and recycled air; the feeling of being watched by the void.
 *   **Features:**
     *   **The Viewport:** A floor-to-ceiling sheets of reinforced transparisteel.
@@ -175,15 +175,15 @@ The ship’s hum is quiet here. The massive viewport looks out onto a field of d
 ## Communications Array
 **Tags:** Static, Cold, Intermittent
 
-**Front (Player-Facing)**
+**Front**
 *Image: A cluster of massive satellite dishes and antenna spires jutting out into the void. A narrow, frost-rimmed catwalk leads to a central maintenance hub.*
-The wind doesn't blow here, but the silence screams. A network of skeletal antenna towers reaches into the black, their warning lights blinking like slow, dying stars. A faint, rhythmic static vibrates through the metal beneath your boots.
+The wind doesn't blow here, but the silence screams. A network of skeletal antenna towers reaches into the black, their warning lights blinking like slow, dying stars. A faint, rhythmic static vibrates through the metal.
 
-**Back (GM Detail)**
+**Back**
 *   **Sensory:** The absolute silence of the vacuum; the smell of cold metal and ozone; the pin-prick cold of the void; the visual vertigo of the star-field spinning slowly.
 *   **Features:**
-    *   **The Catwalk:** A narrow, exposed walkway with no railing.
-    *   **Signal Hub:** A cramped, pressurized pod filled with flickering monitors and comms gear.
-    *   **Antenna Spire:** A towering mast that can be climbed for a better view (or high-gain access).
-*   **Hazards:** Micro-meteoroid impacts; depressurization; extreme cold; dizzying verticality (**Flip an Echo to Static** to stay on catwalk).
+    *   **The Catwalk:** Narrow, exposed walkway with no railing.
+    *   **Signal Hub:** Cramped, pressurized pod filled with flickering monitors and comms gear.
+    *   **Antenna Spire:** Towering mast that can be climbed for a better view (or high-gain access).
+*   **Hazards:** Micro-meteoroid impacts; depressurization; extreme cold; dizzying verticality.
 *   **Reveals:** A hidden frequency recorded by a dead crewman; a pirate transmitter piggybacking on the ship's signal; a "ghost" message from a nearby derelict.

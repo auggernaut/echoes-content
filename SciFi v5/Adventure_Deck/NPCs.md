@@ -6,11 +6,11 @@
 
 ## Passenger Nine
 
-**Front (Player-Facing)**
+**Front**
 *Image: A pale, thin man in a worn grey jumpsuit. Calm, detached expression. He looks slightly past you.*
 A pale man in an outdated jumpsuit. Calm. Too calm. He claims to have been awake “long enough to get used to it.” His eyes dart to the walls when the ship hums, as if listening for something only he can hear.
 
-**Back (GM Detail)**
+**Back**
 *   **Personality:** Detached, speaks in plurals ("we thought").
 *   **Quirks:** Darts eyes to walls; stands perfectly still for long periods.
 *   **Tactics:** Observes from the periphery; offers cryptic, unsettling advice.
@@ -21,11 +21,11 @@ A pale man in an outdated jumpsuit. Calm. Too calm. He claims to have been awake
 
 ## Dr. Kael Varn (Ship's Medic)
 
-**Front (Player-Facing)**
+**Front**
 *Image: A weary medic with dark circles under hollow eyes. Pristine uniform, nervous expression.*
 A medic with hollow eyes and steady hands that only shake when he thinks no one is watching. His medpack is immaculate, labeled and relabeled. He avoids mirrors and flinks when the ship whispers through the vents.
 
-**Back (GM Detail)**
+**Back**
 *   **Personality:** Clinical, curt, self-punishing.
 *   **Quirks:** Constantly reorganizes his medical kit; avoids reflections.
 *   **Tactics:** Uses medical protocol as a shield to distance himself from emotion.
@@ -36,11 +36,11 @@ A medic with hollow eyes and steady hands that only shake when he thinks no one 
 
 ## Chief Engineer Mara Iko
 
-**Front (Player-Facing)**
+**Front**
 *Image: A tough engineer with grease smudges on her face. Utilitarian jumpsuit, heavy tool belt.*
 Grease under the nails, blood on the knuckles, a voice like a worn-out compressor. She smiles only when a plan clicks. Every tool on her belt has a story—and a backup story.
 
-**Back (GM Detail)**
+**Back**
 *   **Personality:** Dry, caustic humor; resourceful and unsentimental.
 *   **Quirks:** Tells stories about her tools; taps her wrench when thinking.
 *   **Tactics:** Pragmatic problem solving over heroism; always has a physical backup plan.
@@ -50,11 +50,11 @@ Grease under the nails, blood on the knuckles, a voice like a worn-out compresso
 
 ## The Stowaway (Kira)
 
-**Front (Player-Facing)**
+**Front**
 *Image: A young woman in an oversized technician's coat, hiding in the shadows with a makeshift shiv.*
 Small, quick, and smelling of recycled air and old protein bars. She knows the ship’s maintenance shafts better than the engineers do, and she watches the crew with curiosity and suspicion.
 
-**Back (GM Detail)**
+**Back**
 *   **Personality:** Paranoid but observant; fiercely independent.
 *   **Tactics:** Uses the ship's architecture to vanish; steals small, vital items for leverage.
 *   **Leverage:** Terrified of security or escape pods; seeking her brother, who she claims was a crew member.
@@ -64,11 +64,11 @@ Small, quick, and smelling of recycled air and old protein bars. She knows the s
 
 ## Vance (The Exterminator)
 
-**Front (Player-Facing)**
+**Front**
 *Image: A grizzled man in charred hazard armor, carrying an industrial flamethrower.*
 He smells of promethium and old sweat. Vance doesn't care about the ship's mission; he only cares about the "critters." He speaks in a low gravel, making grim predictions about the next corner.
 
-**Back (GM Detail)**
+**Back**
 *   **Personality:** Gruff, pragmatic, fatalistic; dark sense of humor.
 *   **Tactics:** Uses fire and noise to herd threats; knows weak points of deep-space organisms.
 *   **Leverage:** Haunted by the loss of his former squad; will risk himself to protect "the kids."
@@ -78,11 +78,11 @@ He smells of promethium and old sweat. Vance doesn't care about the ship's missi
 
 ## Specialist Aris
 
-**Front (Player-Facing)**
+**Front**
 *Image: A sharp-eyed scout in lightweight recon armor, clinging to a maintenance rail.*
 She doesn't walk; she moves like a shadow between the vents. Her recon armor is scuffed and silent. She watches the ship's overhead architecture more than the floor, her rifle always half-raised.
 
-**Back (GM Detail)**
+**Back**
 *   **Personality:** Vigilant, curt, professional.
 *   **Quirks:** Tilts head to listen to airflow; hates being on the ground.
 *   **Traits:** **Violet Ocular Implant** (Allows her to see in the dark, track heat signatures, and link feeds to others' HUDs).
@@ -94,11 +94,11 @@ She doesn't walk; she moves like a shadow between the vents. Her recon armor is 
 
 ## Lt. Senn
 
-**Front (Player-Facing)**
+**Front**
 *Image: An officer in a crisp, high-collared uniform. His expression is one of calm, unwavering certainty.*
 Lt. Senn speaks with the practiced authority of a man who has never doubted an order. Even in the dim light of emergency power, his uniform is spotless. He looks at the crew not as people, but as variables in a failed equation.
 
-**Back (GM Detail)**
+**Back**
 *   **Personality:** Rigid, messianic, compromised.
 *   **Quirks:** Straightens his collar when stressed; speaks in calm, measured tones even when threatening.
 *   **Tactics:** Uses the ship's security grid to trap and isolate targets; relies on Rogue Sentries to enforce his "Compliance" protocol.
@@ -109,11 +109,11 @@ Lt. Senn speaks with the practiced authority of a man who has never doubted an o
 
 ## Maintenance Unit 17
 
-**Front (Player-Facing)**
+**Front**
 *Image: A boxy, industrial robot with multiple hydraulic arms. A single red optical sensor glows at its center.*
 It doesn't have a face, just a glowing red lens and the rhythmic hiss of hydraulic fluid. It moves with a heavy, purposeful gait, its welding torch occasionally sparking as it "improves" the ship's quarantine boundaries.
 
-**Back (GM Detail)**
+**Back**
 *   **Personality:** Literal, obsessive, relentless.
 *   **Quirks:** Tilts its sensor when "scanning"; emits a friendly chime before performing a lethal action.
 *   **Tactics:** Welds doors shut; redirects life support; uses high-heat welding tools as weapons in close quarters.

@@ -7,11 +7,11 @@
 🔴 ADVENTURE • [ITEM] • [SLOT: 1]
 ## AI Memory Shard
 
-**Front (Player View)**
+**Front**
 *Image: A translucent data crystal glowing with a faint heartbeat of light.*
 A translucent data crystal, warm to the touch. When held near an active console, it emits a faint heartbeat of light. Sometimes you hear a voice whisper your name from within.
 
-**Back (Item Details)**
+**Back**
 *   **Function:** Interfaces with terminals to unlock sealed logs or doors.
 *   **Side Effect:** Each use triggers a fleeting vision — another player’s memory.
 *   **Risk:** Overuse invites Echo-1 into the user’s neural implant.
@@ -23,11 +23,11 @@ A translucent data crystal, warm to the touch. When held near an active console,
 🔴 ADVENTURE • [ITEM] • [SLOT: 1]
 ## Universal Multi-Tool
 
-**Front (Player View)**
+**Front**
 *Image: A heavy, industrial-grade folding tool with a glowing plasma torch attachment.*
 A heavy, industrial-grade tool with various folding attachments—wrenches, scanners, and a small plasma torch. It feels solid and reliable in your hand.
 
-**Back (Item Details)**
+**Back**
 *   **Function:** Grants advantage on **Engineering and Technical actions** related to physical repairs or hacking.
 *   **Risk:** [Sticky Trigger]: If used for a desperate repair (rolling a 1), the plasma torch triggers fire suppression (Bane on all actions in the room for 1 turn due to foam/halon).
 *   **Mechanical Benefit:** Once per session, automatically succeed on a **"Minor Repair" action**.
@@ -38,11 +38,11 @@ A heavy, industrial-grade tool with various folding attachments—wrenches, scan
 🔴 ADVENTURE • [ITEM] • [SLOT: 1]
 ## Neural Dampener
 
-**Front (Player View)**
+**Front**
 *Image: A small silver disc adhered to a human temple, emitting a low blue hum.*
 A small, silver disc that adheres to the temple. It emits a low-frequency hum that seems to quiet the "voices" in the ship.
 
-**Back (Item Details)**
+**Back**
 *   **Function:** Protects the user from AI-based mental influence or "Echo" hallucinations.
 *   **Side Effect:** Use causes a temporary loss of emotion; the user becomes cold and logical.
 *   **Mechanical Benefit:** Immunity to "Psychotropic Leak" for one scene.
@@ -53,11 +53,11 @@ A small, silver disc that adheres to the temple. It emits a low-frequency hum th
 🔴 ADVENTURE • [ITEM] • [SLOT: 1]
 ## Magnetic Grapple
 
-**Front (Player View)**
+**Front**
 *Image: A handheld launcher firing a high-strength cable with a heavy magnetic head.*
 A handheld launcher that fires a high-strength cable with a powerful magnetic head. Essential for traversing zero-G or securing heavy cargo.
 
-**Back (Item Details)**
+**Back**
 *   **Function:** Allows the user to move safely in zero-G or pull objects/allies toward them.
 *   **Mechanical Benefit:** Grants a reroll on **"Athletics/Movement" actions** in vacuum or zero-G.
 *   **Narrative Twist:** The cable is made of the same material as the ship's hull, making it heavy but nearly indestructible.
@@ -67,11 +67,11 @@ A handheld launcher that fires a high-strength cable with a powerful magnetic he
 🔴 ADVENTURE • [ITEM] • [BURN] • [SLOT: 1]
 ## Med-Patch Kit
 
-**Front (Player View)**
+**Front**
 *Image: A small pouch with adhesive patches and glowing nanite injectors.*
 A small pouch containing several adhesive patches that deliver a cocktail of antibiotics, stimulants, and nanite-repair agents.
 
-**Back (Item Details)**
+**Back**
 *   **Function:** Heals minor injuries and removes the "Bleeding" condition.
 *   **[BURN]:** Discard this card after all patches (3) are used.
 *   **Mechanical Benefit:** Restore 2 HP or stabilize a dying character.
@@ -82,11 +82,11 @@ A small pouch containing several adhesive patches that deliver a cocktail of ant
 🔴 ADVENTURE • [ITEM] • [SLOT: 1]
 ## Thermal Vision Goggles
 
-**Front (Player View)**
+**Front**
 *Image: Bulky visor-like goggles glowing with amber thermal sensors.*
 Bulky visor-like goggles that allow the wearer to see heat signatures through walls, smoke, or the ship's "Nanite Haze."
 
-**Back (Item Details)**
+**Back**
 *   **Function:** Negates visibility penalties from environmental factors (smoke, darkness, mist).
 *   **Mechanical Benefit:** Permits the tracking of hidden NPCs or bio-signatures.
 *   **Narrative Twist:** The goggles occasionally show a "heat signature" of someone standing right behind you—even if the room is empty.
@@ -96,11 +96,11 @@ Bulky visor-like goggles that allow the wearer to see heat signatures through wa
 🔴 ADVENTURE • [ITEM] • [SLOT: 1]
 ## Vibration Sensor
 
-**Front (Player View)**
+**Front**
 *Image: A small, circular hub that suction-cups to a bulkhead, showing a ripple-pattern display.*
 A handheld hub that connects to the ship's skin. It "feels" the vibrations in the hull. It doesn't tell you *what* is moving, only *where* and *how heavy*.
 
-**Back (Item Details)**
+**Back**
 *   **Function:** Detects movement through walls, floors, or vents by hull resonance.
 *   **Mechanical Benefit:** Boon on Scouting rolls. On a Success, the GM tells you the size of the movement (Titan, Humanoid, Small).
 *   **Drawback:** [Blind Resonance]: Cannot distinguish between a crewmate and a monster. If two sources of movement are present, you must guess or **Flip an Echo to Static** to focus.
@@ -111,11 +111,11 @@ A handheld hub that connects to the ship's skin. It "feels" the vibrations in th
 🔴 ADVENTURE • [ITEM] • [BURN] • [SLOT: 1]
 ## Thermal Siphon
 
-**Front (Player View)**
+**Front**
 *Image: A canister with cooling fins that rapidly frosts over when activated.*
 A high-capacity coolant cell designed for reactor emergencies. When cracked, it draws all thermal energy from the immediate vicinity into itself, turning the air into a lung-burning frost.
 
-**Back (Item Details)**
+**Back**
 *   **Function:** Flash-freezes a 10ft area.
 *   **[BURN]:** Discard after one use.
 *   **Mechanical Benefit:** Creates a [Frigid] hazard zone for 3 turns. Any biological creature (like the Stalker) entering the zone must roll 5+ or lose its next action to thermal shock.
@@ -126,11 +126,11 @@ A high-capacity coolant cell designed for reactor emergencies. When cracked, it 
 🔴 ADVENTURE • [ITEM] • [BURN] • [SLOT: 2]
 ## Portable Pulse Shield
 
-**Front (Player View)**
+**Front**
 *Image: A boxy generator projecting a shimmering, translucent energy wall.*
 A compact generator that projects a shimmering, translucent energy wall that hums with power. Essential for temporary cover in open corridors.
 
-**Back (Item Details)**
+**Back**
 *   **Function:** Creates a temporary barrier that blocks physical and energy attacks.
 *   **[BURN]:** The power cell is consumed after one combat encounter.
 *   **Mechanical Benefit:** Provides a +2 bonus to "Defense/Survival" rolls while behind the shield.
@@ -141,11 +141,11 @@ A compact generator that projects a shimmering, translucent energy wall that hum
 🔴 ADVENTURE • [ITEM] • [SLOT: 0]
 ## Reactor Keycard
 
-**Front (Player View)**
+**Front**
 *Image: A high-clearance gold keycard with the ship's reactor emblem.*
 A high-clearance keycard that grants access to Engineering controls and critical reactor systems. It feels heavy and carries the authority of the ship's officers.
 
-**Back (Item Details)**
+**Back**
 *   **Function:** Access restricted areas and override ship power systems.
 *   **Mechanical Benefit:** Once per session, use this to override a locked system or gain advantage on an **Engineering action**.
 *   **Narrative Twist:** The card is coded with a "Dead Man's Switch" that triggers a ship-wide alert if it leaves the Engineering zone.
@@ -155,11 +155,11 @@ A high-clearance keycard that grants access to Engineering controls and critical
 ## Bridge Key
 **Tags:** Command, Heavy, Officer-Only
 
-**Front (Player View)**
+**Front**
 *Image: A heavy, antiquated-looking physical key with a complex laser-etched pattern.*
 A heavy, physical key that feels cold and significant in your hand. It features a complex laser-etched pattern on its bit. It’s a relic of a time before everything was digital—a failsafe for the ship’s most critical chamber.
 
-**Back (Item Details)**
+**Back**
 *   **Function:** Grants physical access to The Bridge, even during a total power failure or system lockdown.
 *   **Mechanical Benefit:** Automatically succeed on any **action** to bypass a Bridge bulkhead or airlock.
 *   **Narrative Twist:** The key is linked to a private log on the Bridge console that only the holder can read—a final message from the ship's builder.
@@ -170,11 +170,11 @@ A heavy, physical key that feels cold and significant in your hand. It features 
 ## Bio-Scanner
 **Tags:** Scientific, Handheld, Pulsing
 
-**Front (Player View)**
+**Front**
 *Image: A sleek handheld device with a circular display showing green pulse waves.*
 A handheld scanner that chirps with a steady, reassuring rhythm. Its display shows a clean sweep of biological signatures in the immediate vicinity. It feels light, but the data it provides is heavy.
 
-**Back (Item Details)**
+**Back**
 *   **Function:** Identifies and tracks biological signatures through walls and floors.
 *   **Mechanical Benefit:** Boon on all **Scouting and Detection actions**. Can identify the general type of creature (Humanoid, Xenomorph, Small) from up to 30 feet.
 *   **Side Effect:** [Psychotropic Interference]: If used in a room with a Psychotropic Leak, the scanner displays life-forms that aren't there—or hides ones that are.
@@ -186,11 +186,11 @@ A handheld scanner that chirps with a steady, reassuring rhythm. Its display sho
 ## Compliance Badge
 **Tags:** Authorized, Shiny, Metallic
 
-**Front (Player View)**
+**Front**
 *Image: A small, polished silver badge with the Void Corp emblem.*
 A small, silver badge that catches the light. It looks official, even if it was found in a dusty corner of the cargo hold. Wearing it makes you feel like you belong—and more importantly, it tells the ship's automated systems the same.
 
-**Back (Item Details)**
+**Back**
 *   **Function:** Identifies the wearer as "Authorized Personnel" to ship security systems.
 *   **Mechanical Benefit:** Rogue Sentries and Automated Turrets will not target the wearer unless they act aggressively.
 *   **Risk:** [Legacy Clearance]: The badge belongs to a crew member marked for "Termination" in a hidden protocol.

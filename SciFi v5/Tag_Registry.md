@@ -6,6 +6,7 @@
 SciFi v5 uses a single pool of dual-sided tokens—**Echoes**—to track all non-physical pressure.
 *   **⚪ Signal (Side A)**: Clarity, Resolve, and Luck.
 *   **⚫ Static (Side B)**: Distortion, Trauma, and Glitches.
+*   **🪙 Committing**: Tokens can be set aside (Committed) to track **Durations** or **Conditions**.
 *   **The Void**: When a player has **0 Echoes**, all resource-based triggers (Flip/Discard) deal a **Strike** directly.
 
 ---
