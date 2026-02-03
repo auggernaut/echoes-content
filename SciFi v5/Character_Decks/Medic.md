@@ -48,43 +48,43 @@ Once per fight, you may take a Strike meant for an ally. Gain an **Echo (Signal)
 * What wound reminds me I'm not invincible
 ---
 
-## Field Medic
+## Combat Surgeon
 **🔵 CHARACTER • [BOON] • [SLOT: 1]**
-**Tags**: Practical, Quick
+**Tags**: Efficient, Fearless
 
-Roll +1d6 when: treating injuries, stabilizing patients, performing emergency medicine, diagnosing symptoms, improvising medical solutions, triaging casualties.
+Roll +1d6 when: performing emergency surgery, stopping bleeding, stabilizing a dying ally, treating physical trauma, or moving casualties under fire.
 
-> "I patch people up in the dark, under fire, with whatever's at hand."
+> "A bullet is just a mechanical failure of the body. I can fix that."
 
 **Narrative Prompts**:
-* What's the worst injury I've treated?
-* Who taught me that sometimes good enough is enough
+* What's the fastest I've ever patched someone?
+* Who taught me to ignore the screaming and focus on the hands?
 ---
 
-## Nanite Specialist
+## Xeno-Pathologist
 **🔵 CHARACTER • [BOON] • [SLOT: 1]**
-**Tags**: Technical, Precise
+**Tags**: Analytical, Skeptical
 
-Roll +1d6 when: working with medical nanites, operating automated systems, managing cryo pods, programming medical protocols, diagnosing nanite malfunctions, purging corrupted systems.
+Roll +1d6 when: diagnosing unknown [BIO] infections, Developing on-the-fly counter-agents, identifying biological weaknesses, or purging invasive toxins.
 
-> "I know how the machines heal. I know when they fail."
+> "It isn't a monster. It's just a very aggressive pathogen."
 
 **Narrative Prompts**:
-* What nanite protocol have I memorized?
-* Who trusts me with their life support
+* What outbreak did I fail to contain?
+* Why do I trust microbiology more than people?
 ---
 
-## Trauma Surgeon
+## Neural Counselor
 **🔵 CHARACTER • [BOON] • [SLOT: 1]**
-**Tags**: Focused, Unflinching
+**Tags**: Empathetic, Resilient
 
-Roll +1d6 when: performing surgery, treating critical wounds, making life-or-death medical decisions, working under pressure, dealing with severe trauma, making difficult triage calls.
+Roll +1d6 when: helping an ally **Restore** an Echo, resisting [SURREAL] hallucinations, diagnosing neural malfunctions, or calming a panicked survivor.
 
-> "When everything's falling apart, I cut straight to what matters."
+> "The ship isn't the only thing breaking down. Let's look at your signal."
 
 **Narrative Prompts**:
-* What surgery still haunts my dreams?
-* Who did I save when everyone said it was impossible?
+* What memory did I have to help someone let go of?
+* Who do I check on first when the ship goes dark?
 ---
 
 ## Stabilize

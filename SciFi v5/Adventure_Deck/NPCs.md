@@ -4,10 +4,11 @@
 
 ---
 
+🔴 ADVENTURE • [NPC]
 ## Passenger Nine
+**Tags:** Detached, Cryptic, Compromised
 
 **Front**
-*Image: A pale, thin man in a worn grey jumpsuit. Calm, detached expression. He looks slightly past you.*
 A pale man in an outdated jumpsuit. Calm. Too calm. He claims to have been awake “long enough to get used to it.” His eyes dart to the walls when the ship hums, as if listening for something only he can hear.
 
 **Back**
@@ -19,10 +20,11 @@ A pale man in an outdated jumpsuit. Calm. Too calm. He claims to have been awake
 
 ---
 
+🔴 ADVENTURE • [NPC]
 ## Dr. Kael Varn (Ship's Medic)
+**Tags:** Clinical, Guilt-ridden, Steady
 
 **Front**
-*Image: A weary medic with dark circles under hollow eyes. Pristine uniform, nervous expression.*
 A medic with hollow eyes and steady hands that only shake when he thinks no one is watching. His medpack is immaculate, labeled and relabeled. He avoids mirrors and flinks when the ship whispers through the vents.
 
 **Back**
@@ -34,10 +36,11 @@ A medic with hollow eyes and steady hands that only shake when he thinks no one 
 
 ---
 
+🔴 ADVENTURE • [NPC]
 ## Chief Engineer Mara Iko
+**Tags:** Caustic, Resourceful, Grizzled
 
 **Front**
-*Image: A tough engineer with grease smudges on her face. Utilitarian jumpsuit, heavy tool belt.*
 Grease under the nails, blood on the knuckles, a voice like a worn-out compressor. She smiles only when a plan clicks. Every tool on her belt has a story—and a backup story.
 
 **Back**
@@ -48,10 +51,11 @@ Grease under the nails, blood on the knuckles, a voice like a worn-out compresso
 
 ---
 
+🔴 ADVENTURE • [NPC]
 ## The Stowaway (Kira)
+**Tags:** Feral, Observant, Hidden
 
 **Front**
-*Image: A young woman in an oversized technician's coat, hiding in the shadows with a makeshift shiv.*
 Small, quick, and smelling of recycled air and old protein bars. She knows the ship’s maintenance shafts better than the engineers do, and she watches the crew with curiosity and suspicion.
 
 **Back**
@@ -62,10 +66,11 @@ Small, quick, and smelling of recycled air and old protein bars. She knows the s
 
 ---
 
+🔴 ADVENTURE • [NPC]
 ## Vance (The Exterminator)
+**Tags:** Fatalistic, Grizzled, Protective
 
 **Front**
-*Image: A grizzled man in charred hazard armor, carrying an industrial flamethrower.*
 He smells of promethium and old sweat. Vance doesn't care about the ship's mission; he only cares about the "critters." He speaks in a low gravel, making grim predictions about the next corner.
 
 **Back**
@@ -76,10 +81,11 @@ He smells of promethium and old sweat. Vance doesn't care about the ship's missi
 
 ---
 
+🔴 ADVENTURE • [NPC]
 ## Specialist Aris
+**Tags:** Vigilant, Silent, Professional
 
 **Front**
-*Image: A sharp-eyed scout in lightweight recon armor, clinging to a maintenance rail.*
 She doesn't walk; she moves like a shadow between the vents. Her recon armor is scuffed and silent. She watches the ship's overhead architecture more than the floor, her rifle always half-raised.
 
 **Back**
@@ -92,10 +98,11 @@ She doesn't walk; she moves like a shadow between the vents. Her recon armor is 
 
 ---
 
+🔴 ADVENTURE • [NPC]
 ## Lt. Senn
+**Tags:** Rigid, Obsessive, Authoritarian
 
 **Front**
-*Image: An officer in a crisp, high-collared uniform. His expression is one of calm, unwavering certainty.*
 Lt. Senn speaks with the practiced authority of a man who has never doubted an order. Even in the dim light of emergency power, his uniform is spotless. He looks at the crew not as people, but as variables in a failed equation.
 
 **Back**
@@ -107,10 +114,11 @@ Lt. Senn speaks with the practiced authority of a man who has never doubted an o
 
 ---
 
+🔴 ADVENTURE • [NPC]
 ## Maintenance Unit 17
+**Tags:** Literal, Relentless, Mechanical
 
 **Front**
-*Image: A boxy, industrial robot with multiple hydraulic arms. A single red optical sensor glows at its center.*
 It doesn't have a face, just a glowing red lens and the rhythmic hiss of hydraulic fluid. It moves with a heavy, purposeful gait, its welding torch occasionally sparking as it "improves" the ship's quarantine boundaries.
 
 **Back**

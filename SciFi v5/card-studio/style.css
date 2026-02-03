@@ -1,0 +1,164 @@
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background: #1a1a1a;
+    color: #eee;
+}
+
+.studio-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 0 20px;
+}
+
+.studio-header h1 {
+    margin: 0;
+    font-size: 1.5em;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #0088ff;
+}
+
+#card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+/* Page Layout (for Studio View) */
+.page {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0;
+    padding: 10px;
+    background: #2a2a2a;
+    border-radius: 4px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+    margin-bottom: 40px;
+}
+
+/* Card Styles (Imported from generate_cards.py) */
+.card {
+    width: 66mm;
+    height: 91mm;
+    background: white;
+    color: black;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    padding: 10px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    margin: -0.5px;
+    /* Overlap borders */
+}
+
+.card.tarot {
+    width: 100mm;
+    height: 135mm;
+}
+
+.card.blue {
+    border: 4px solid #0056b3;
+}
+
+.card.red {
+    border: 4px solid #b30000;
+}
+
+.card-header {
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 3px;
+}
+
+.card-meta {
+    font-size: 0.7em;
+    color: #666;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.card-tags {
+    font-size: 0.65em;
+    font-style: italic;
+    color: #444;
+    margin-bottom: 10px;
+}
+
+.card-content {
+    font-size: 0.8em;
+    flex-grow: 1;
+    line-height: 1.3;
+}
+
+.card-quote {
+    font-style: italic;
+    font-size: 0.7em;
+    border-left: 2px solid #ddd;
+    padding-left: 5px;
+    margin: 10px 0;
+    color: #555;
+}
+
+.card-footer {
+    font-size: 0.6em;
+    margin-top: auto;
+    padding-top: 5px;
+    border-top: 1px solid #eee;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-archetype {
+    font-weight: bold;
+    color: #0056b3;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Print Overrides */
+@media print {
+    body {
+        background: white;
+        padding: 0;
+    }
+
+    .studio-header {
+        display: none;
+    }
+
+    #card-container {
+        display: block;
+    }
+
+    .page {
+        width: 210mm;
+        height: auto;
+        padding: 2mm;
+        margin: 0;
+        background: white;
+        box-shadow: none;
+        display: grid;
+        grid-template-columns: repeat(3, 66mm);
+        grid-template-rows: repeat(3, 91mm);
+        justify-content: center;
+        align-content: start;
+        gap: 0;
+        page-break-after: always;
+        overflow: visible;
+        border-radius: 0;
+    }
+
+    .page.tarot {
+        grid-template-columns: repeat(2, 100mm);
+        grid-template-rows: repeat(2, 135mm);
+    }
+}

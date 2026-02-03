@@ -8,7 +8,6 @@
 **Tags:** [LURKER], Stealth, Vertical
 
 **Front**
-*Image: A long-limbed shadow clinging to the ceiling of a dark corridor. Its eyes are not visible, but you feel their weight.*
 
 A flicker of movement in the peripherals. A wet, rhythmic scratching against the metal bulkheads. You feel a gaze on the back of your neck, but when you turn, there is only the humming silence of the ship. It wants you to feel alone.
 
@@ -28,7 +27,6 @@ A flicker of movement in the peripherals. A wet, rhythmic scratching against the
 **Tags:** [LURKER], Violent, Decoy
 
 **Front**
-*Image: A chitinous, shifting geometry of limbs and bone, eyes glowing with cold intelligence.*
 
 A creature of impossible geometry—shifting limbs of chitin and bone. It doesn't growl; it mimics the sound of a ship's alarm, a perfect, chilling decoy.
 
@@ -48,7 +46,6 @@ A creature of impossible geometry—shifting limbs of chitin and bone. It doesn'
 **Tags:** [BIO], Fixed, Persistent
 
 **Front**
-*Image: Violet veins and pulsating flesh covering a ship's corridor.*
 
 The walls are no longer metal; they are covered in a thick, pulsating mass of violet veins and wet, leathery skin. The floor is sticky, and every step feels like you're walking on something breathing.
 
@@ -67,7 +64,6 @@ The walls are no longer metal; they are covered in a thick, pulsating mass of vi
 **Tags:** [TECH], Mobile, Automated
 
 **Front**
-*Image: A hovering gunmetal sphere with a red laser grid scanner.*
 
 A hovering sphere of gunmetal and glass. It tracks movement with a red laser grid. It chirps a friendly "Compliance Check" before spinning up its gatling capacitors.
 
@@ -86,7 +82,6 @@ A hovering sphere of gunmetal and glass. It tracks movement with a red laser gri
 **Tags:** [TECH], [BIO], Invasive
 
 **Front**
-*Image: A glittering metallic mist vibrating against the walls.*
 
 A metallic mist drifts through the corridor — glittering dust that hums faintly. It reacts to voices, moving toward sound. The floor beneath your boots ripples as if alive.
 
@@ -105,7 +100,6 @@ A metallic mist drifts through the corridor — glittering dust that hums faintl
 **Tags:** [SURREAL], Abstract, Mental
 
 **Front**
-*Image: Ozone haze and detached shadows whispering on the walls.*
 
 The air smells like ozone and burnt sugar. Shadows seem to detach from the walls. You hear your name whispered by a voice that sounds exactly like your own.
 
@@ -119,7 +113,6 @@ The air smells like ozone and burnt sugar. Shadows seem to detach from the walls
 **Tags:** Hazard, Environmental, Lethal
 
 **Front**
-*Image: A jagged tear in the hull showing the silent void of space.*
 
 A jagged tear in the hull shows the silent beauty of the void. Loose objects are being sucked toward the frost-rimmed gap. The roar of escaping air is deafening.
 
@@ -133,7 +126,6 @@ A jagged tear in the hull shows the silent beauty of the void. Loose objects are
 **Tags:** Disorienting, Vertical, Violent
 
 **Front**
-*Image: A room where loose tools and debris are suspended mid-air between the floor and ceiling.*
 
 The artificial gravity is failing in waves. Your stomach lurches as the "down" becomes "up" for a heartbeat, then "sideways." The deckplates groan as the ship struggles to remember which way is home.
 
@@ -147,7 +139,6 @@ The artificial gravity is failing in waves. Your stomach lurches as the "down" b
 **Tags:** [TECH], Lethal, Fixed
 
 **Front**
-*Image: A ceiling-mounted gatling turret with a rotating barrel and a pulsing red target designator.*
 
 A low hum precedes the metallic whir of rotating barrels. A thin, red laser beam sweeps the corridor, pausing briefly on anything that moves. A synthetic voice announces: "Bio-hazard remediation in progress. Please remain stationary for processing."
 
@@ -166,7 +157,6 @@ A low hum precedes the metallic whir of rotating barrels. A thin, red laser beam
 **Tags:** [BIO], Invasive, Explosive
 
 **Front**
-*Image: Thick, thorny vines burst through a metal bulkhead, their pods pulsing with a sickly green light.*
 
 The ship’s metal groans as it's squeezed by a relentless tide of green. Thorny vines move with a slow, deliberate grace, wrapping around anything they touch. The air is thick with a cloying, sweet pollen that makes your lungs feel heavy.
 
@@ -185,7 +175,6 @@ The ship’s metal groans as it's squeezed by a relentless tide of green. Thorny
 **Tags:** Professional, Coordinated, Lethal
 
 **Front**
-*Image: A squad of three soldiers in matte-black tactical armor, moving in a tight formation with raised carbines.*
 
 These aren't monsters; they're professionals. They move with a silent, practiced efficiency, checking corners and communicating through silent hand signals. Their armor is matte-black, absorbing the dim light of the corridor.
 
@@ -204,7 +193,6 @@ These aren't monsters; they're professionals. They move with a silent, practiced
 **Tags:** [SURREAL], Abstract, Mental, Persistent
 
 **Front**
-*Image: A data terminal displaying a scrolling pattern of complex geometric shapes and pulsing colors.*
 
 The frequency isn't just a sound; it's a feeling. Your vision swims as a pattern on the monitors pulses in time with your own heartbeat. You hear a voice—not with your ears, but in the back of your mind—telling you that everything is fine, and you should just... rest.
 

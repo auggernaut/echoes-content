@@ -6,9 +6,9 @@
 
 🔴 ADVENTURE • [ITEM] • [SLOT: 1]
 ## AI Memory Shard
+**Tags:** Translucent, Archeological, Crystalline
 
 **Front**
-*Image: A translucent data crystal glowing with a faint heartbeat of light.*
 A translucent data crystal, warm to the touch. When held near an active console, it emits a faint heartbeat of light. Sometimes you hear a voice whisper your name from within.
 
 **Back**
@@ -22,9 +22,9 @@ A translucent data crystal, warm to the touch. When held near an active console,
 
 🔴 ADVENTURE • [ITEM] • [SLOT: 1]
 ## Universal Multi-Tool
+**Tags:** Industrial, Versatile, Reliable
 
 **Front**
-*Image: A heavy, industrial-grade folding tool with a glowing plasma torch attachment.*
 A heavy, industrial-grade tool with various folding attachments—wrenches, scanners, and a small plasma torch. It feels solid and reliable in your hand.
 
 **Back**
@@ -37,9 +37,9 @@ A heavy, industrial-grade tool with various folding attachments—wrenches, scan
 
 🔴 ADVENTURE • [ITEM] • [SLOT: 1]
 ## Neural Dampener
+**Tags:** Silver, Low-Frequency, Mental
 
 **Front**
-*Image: A small silver disc adhered to a human temple, emitting a low blue hum.*
 A small, silver disc that adheres to the temple. It emits a low-frequency hum that seems to quiet the "voices" in the ship.
 
 **Back**
@@ -52,9 +52,9 @@ A small, silver disc that adheres to the temple. It emits a low-frequency hum th
 
 🔴 ADVENTURE • [ITEM] • [SLOT: 1]
 ## Magnetic Grapple
+**Tags:** Kinetic, Magnetic, Heavy-Duty
 
 **Front**
-*Image: A handheld launcher firing a high-strength cable with a heavy magnetic head.*
 A handheld launcher that fires a high-strength cable with a powerful magnetic head. Essential for traversing zero-G or securing heavy cargo.
 
 **Back**
@@ -66,9 +66,9 @@ A handheld launcher that fires a high-strength cable with a powerful magnetic he
 
 🔴 ADVENTURE • [ITEM] • [BURN] • [SLOT: 1]
 ## Med-Patch Kit
+**Tags:** Medical, Adhesive, Stimulating
 
 **Front**
-*Image: A small pouch with adhesive patches and glowing nanite injectors.*
 A small pouch containing several adhesive patches that deliver a cocktail of antibiotics, stimulants, and nanite-repair agents.
 
 **Back**
@@ -81,9 +81,9 @@ A small pouch containing several adhesive patches that deliver a cocktail of ant
 
 🔴 ADVENTURE • [ITEM] • [SLOT: 1]
 ## Thermal Vision Goggles
+**Tags:** Visor, Amber, Heat-Seeking
 
 **Front**
-*Image: Bulky visor-like goggles glowing with amber thermal sensors.*
 Bulky visor-like goggles that allow the wearer to see heat signatures through walls, smoke, or the ship's "Nanite Haze."
 
 **Back**
@@ -95,9 +95,9 @@ Bulky visor-like goggles that allow the wearer to see heat signatures through wa
 
 🔴 ADVENTURE • [ITEM] • [SLOT: 1]
 ## Vibration Sensor
+**Tags:** Handheld, Resonant, Auditory
 
 **Front**
-*Image: A small, circular hub that suction-cups to a bulkhead, showing a ripple-pattern display.*
 A handheld hub that connects to the ship's skin. It "feels" the vibrations in the hull. It doesn't tell you *what* is moving, only *where* and *how heavy*.
 
 **Back**
@@ -110,9 +110,9 @@ A handheld hub that connects to the ship's skin. It "feels" the vibrations in th
 
 🔴 ADVENTURE • [ITEM] • [BURN] • [SLOT: 1]
 ## Thermal Siphon
+**Tags:** Coolant, Reactive, Frost-Rimming
 
 **Front**
-*Image: A canister with cooling fins that rapidly frosts over when activated.*
 A high-capacity coolant cell designed for reactor emergencies. When cracked, it draws all thermal energy from the immediate vicinity into itself, turning the air into a lung-burning frost.
 
 **Back**
@@ -125,9 +125,9 @@ A high-capacity coolant cell designed for reactor emergencies. When cracked, it 
 
 🔴 ADVENTURE • [ITEM] • [BURN] • [SLOT: 2]
 ## Portable Pulse Shield
+**Tags:** Energy, Translucent, Shimmering
 
 **Front**
-*Image: A boxy generator projecting a shimmering, translucent energy wall.*
 A compact generator that projects a shimmering, translucent energy wall that hums with power. Essential for temporary cover in open corridors.
 
 **Back**
@@ -140,9 +140,9 @@ A compact generator that projects a shimmering, translucent energy wall that hum
 
 🔴 ADVENTURE • [ITEM] • [SLOT: 0]
 ## Reactor Keycard
+**Tags:** High-Clearance, Heavy, Authorized
 
 **Front**
-*Image: A high-clearance gold keycard with the ship's reactor emblem.*
 A high-clearance keycard that grants access to Engineering controls and critical reactor systems. It feels heavy and carries the authority of the ship's officers.
 
 **Back**
@@ -156,7 +156,6 @@ A high-clearance keycard that grants access to Engineering controls and critical
 **Tags:** Command, Heavy, Officer-Only
 
 **Front**
-*Image: A heavy, antiquated-looking physical key with a complex laser-etched pattern.*
 A heavy, physical key that feels cold and significant in your hand. It features a complex laser-etched pattern on its bit. It’s a relic of a time before everything was digital—a failsafe for the ship’s most critical chamber.
 
 **Back**
@@ -171,7 +170,6 @@ A heavy, physical key that feels cold and significant in your hand. It features 
 **Tags:** Scientific, Handheld, Pulsing
 
 **Front**
-*Image: A sleek handheld device with a circular display showing green pulse waves.*
 A handheld scanner that chirps with a steady, reassuring rhythm. Its display shows a clean sweep of biological signatures in the immediate vicinity. It feels light, but the data it provides is heavy.
 
 **Back**
@@ -187,7 +185,6 @@ A handheld scanner that chirps with a steady, reassuring rhythm. Its display sho
 **Tags:** Authorized, Shiny, Metallic
 
 **Front**
-*Image: A small, polished silver badge with the Void Corp emblem.*
 A small, silver badge that catches the light. It looks official, even if it was found in a dusty corner of the cargo hold. Wearing it makes you feel like you belong—and more importantly, it tells the ship's automated systems the same.
 
 **Back**

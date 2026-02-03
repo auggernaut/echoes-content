@@ -9,7 +9,6 @@
 **Tags:** Overheated, Thrumming, Metallic
 
 **Front**
-*Image: Massive cylindrical reactor core glowing with pulsing blue and orange light. Industrial, pipes, steam, heat distortion.*
 The air tastes metallic. Heat shimmers off the deckplates. A half-lit reactor core looms in the chamber’s center, breathing in mechanical gasps. Every few seconds, the lights dim and pulse like a dying heartbeat.
 
 **Back**
@@ -28,7 +27,6 @@ The air tastes metallic. Heat shimmers off the deckplates. A half-lit reactor co
 **Tags:** Frigid, Silent, Tomb-like
 
 **Front**
-*Image: Rows of vertical glass pods, some frosted or broken. Dim blue lighting. Mist covers the floor.*
 A skin of frost turns the cryo‑pods into glass sarcophagi. One capsule is shattered inward, glittering with glass dust. Cold breath blooms in the air. Frozen stasis gel beads on the deck with an antiseptic sweetness.
 
 **Back**
@@ -47,7 +45,6 @@ A skin of frost turns the cryo‑pods into glass sarcophagi. One capsule is shat
 **Tags:** Command, Hissing, Fragile
 
 **Front**
-*Image: Cracked viewport framing a starry void. Captain's chair in the center.*
 The nerve center of the ship. Tactical stations blink in a rhythmic, electronic pulse around a central command chair. The massive viewport looks out into the void, its glass spiderwebbed with thin, shivering cracks.
 
 **Back**
@@ -66,7 +63,6 @@ The nerve center of the ship. Tactical stations blink in a rhythmic, electronic 
 **Tags:** Antiseptic, Sterile, Whirring
 
 **Front**
-*Image: High-tech hospital room. Surgical robots hanging from the ceiling. Sterile white and blue lighting.*
 A chemical haze hangs like glittering dust in sterile light. Auto-doc arms twitch to life, then freeze mid-motion. The air smells like antiseptic and hot metal, with a sweetness that shouldn’t be there.
 
 **Back**
@@ -85,7 +81,6 @@ A chemical haze hangs like glittering dust in sterile light. Auto-doc arms twitc
 **Tags:** Freezing, Hushed, Charged
 
 **Front**
-*Image: Dark server room with a central glowing monolith. Cables like tree roots.*
 Cable looms gather like roots around a cold, black obelisk of memory lattice. The temperature drops with each step toward the core, and breath crystallizes in the air.
 
 **Back**
@@ -122,7 +117,6 @@ Columns of cargo crates rise into the darkness above, forming a labyrinth of met
 **Tags:** Cramped, Hissing, Vibrating
 
 **Front**
-*Image: Narrow maintenance shafts filled with hissing steam and low-hanging wires.*
 The walls squeeze in. You can feel the ship's heartbeat through the vibrating steel. It's a claustrophobic vein of pipes, cables, and narrow crawlspaces. Every movement feels loud, and every hiss of steam feels like a breath.
 
 **Back**
@@ -176,7 +170,6 @@ The ship’s hum is quiet here. The massive viewport looks out onto a field of d
 **Tags:** Static, Cold, Intermittent
 
 **Front**
-*Image: A cluster of massive satellite dishes and antenna spires jutting out into the void. A narrow, frost-rimmed catwalk leads to a central maintenance hub.*
 The wind doesn't blow here, but the silence screams. A network of skeletal antenna towers reaches into the black, their warning lights blinking like slow, dying stars. A faint, rhythmic static vibrates through the metal.
 
 **Back**

@@ -89,7 +89,7 @@ def parse_character_cards(text, archetype):
             elif clean_line.startswith('**Tags**:'):
                 tags = clean_line.replace('**Tags**:', '').strip()
             elif clean_line.startswith('**Health**:'):
-                meta += f" | {md_to_html(clean_line.strip())}"
+                meta += f"<br>{md_to_html(clean_line.strip())}"
             elif clean_line.startswith('>'):
                 quote = md_to_html(clean_line.strip('> "'))
             elif clean_line.startswith('**Narrative Prompts**:'):
