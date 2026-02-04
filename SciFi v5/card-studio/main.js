@@ -207,7 +207,6 @@ function parseAdventureCards(text, filename) {
                 continue;
             } else if (line.startsWith('**Back**')) {
                 mode = 'BACK';
-                backDetail.push({ level: 0, content: 'Back' });
             } else if (line.startsWith('* ') || line.startsWith('- ')) {
                 mode = 'BACK';
                 const indent = rawLine.length - rawLine.trimStart().length;
@@ -274,14 +273,15 @@ function renderCards(cards) {
     }
 
     // Render Tarot Pages
-    for (let i = 0; i < tarotCards.length; i += 4) {
+    for (let i = 0; i < tarotCards.length; i += 6) {
         const page = document.createElement('div');
         page.className = 'page tarot';
-        const chunk = tarotCards.slice(i, i + 4);
+        const chunk = tarotCards.slice(i, i + 6);
 
         chunk.forEach(card => {
             const div = document.createElement('div');
-            div.className = `card ${card.type} tarot`;
+            const typeClass = card.cardType ? card.cardType.toLowerCase().replace(/\s+/g, '-') : '';
+            div.className = `card ${card.type} tarot ${typeClass}`;
 
             let backHtml = '<ul style="padding-left:15px; margin:5px 0;">';
             let currentLevel = 0;
@@ -298,7 +298,7 @@ function renderCards(cards) {
 
                 const cleanContent = item.content.trim().replace(/^\*\*|\*\*$/g, '').replace(/:$/, '');
                 if (cleanContent === "Back" || cleanContent === "GM Detail") {
-                    backHtml += `<div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div>`;
+                    // Skip header
                 } else if (item.content.startsWith('**') && item.content.endsWith('**:')) {
                     // It's a header like **Sensory:** or **Features:**
                     backHtml += `<div style="margin: 8px 0 4px -15px; font-size: 0.9em; border-bottom: 1px solid #f9f9f9;"><b>${cleanContent}</b></div>`;
@@ -313,14 +313,12 @@ function renderCards(cards) {
                 <div class="card-header">${card.name}</div>
                 <div class="card-tags">${card.tags}</div>
                 <div class="card-content">
-                    <div style="margin-bottom:4px;"><b>Front</b></div>
-                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
                     ${card.front}<br><br>
                     ${backHtml}
                 </div>
-                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
-                    <span style="color: #b30000;">ADV-000</span>
-                    <span class="card-archetype" style="color: #b30000;">${card.cardType}</span>
+                <div class="card-footer">
+                    <span>ADV-000</span>
+                    <span class="card-archetype">${card.cardType}</span>
                 </div>
             `;
             page.appendChild(div);

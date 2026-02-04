@@ -36,29 +36,22 @@
         }
 
         .snapshot-preview {
-            height: 400px;
+            width: 333%;
+            /* Complement scale(0.3) */
+            height: 3333px;
+            /* Long internal viewport */
             border: none;
-            background: white;
+            background: #1a1a1a;
             pointer-events: none;
-            /* Prevent interaction with the preview */
-            zoom: 0.25;
-            /* CSS zoom for scaling the thumbnail */
-            -moz-transform: scale(0.25);
-            -moz-transform-origin: 0 0;
-            transform: scale(0.25);
+            transform: scale(0.3);
             transform-origin: 0 0;
-            width: 400%;
-            /* Complement scale */
-            height: 1600px;
-            /* Complement scale */
+            overflow: hidden;
         }
 
-        /* Firefox fallback if zoom doesn't work well */
-        @-moz-document url-prefix() {
-            .snapshot-card-iframe-container {
-                height: 400px;
-                overflow: hidden;
-            }
+        .snapshot-card-iframe-container {
+            height: 600px;
+            overflow: hidden;
+            background: #1a1a1a;
         }
 
         .snapshot-info {

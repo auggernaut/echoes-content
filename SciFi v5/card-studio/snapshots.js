@@ -13,7 +13,10 @@ async function loadSnapshots() {
         snapshotContainer.innerHTML = '';
         snapshots.forEach(filename => {
             const dateStr = filename.replace('scifi-cards-snapshot-', '').replace('.html', '');
-            const readableDate = new Date(dateStr.replace(/-/g, ':').replace(/T(\d+)-(\d+)-(\d+)-(\d+)/, 'T$1:$2:$3.$4Z')).toLocaleString();
+            // Correctly parse the timestamp 2026-02-04T15-33-08-588Z -> 2026-02-04T15:33:08.588Z
+            const dateParts = dateStr.split('T');
+            const hms = dateParts[1].replace(/-/g, ':').replace(/:([^:]+)$/, '.$1');
+            const readableDate = new Date(`${dateParts[0]}T${hms}`).toLocaleString();
 
             const card = document.createElement('div');
             card.className = 'snapshot-card';

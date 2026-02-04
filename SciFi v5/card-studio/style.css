@@ -59,8 +59,27 @@ body {
 }
 
 .card.tarot {
-    width: 100mm;
-    height: 135mm;
+    width: 70mm;
+    height: 120mm;
+}
+
+.card.tarot .card-header {
+    font-size: 1.1em;
+}
+
+.card.tarot .card-content {
+    font-size: 0.74em;
+    line-height: 1.25;
+}
+
+.card.tarot.location .card-content {
+    font-size: 0.68em;
+    line-height: 1.2;
+}
+
+.card.tarot .card-tags {
+    font-size: 0.6em;
+    margin-bottom: 5px;
 }
 
 .card.blue {
@@ -69,6 +88,43 @@ body {
 
 .card.red {
     border: 4px solid #b30000;
+}
+
+/* Specific Adventure Deck Colors */
+.card.red.location {
+    border-color: #6f42c1;
+}
+
+/* Indigo */
+.card.red.location .card-footer .card-archetype {
+    color: #6f42c1;
+}
+
+.card.red.item {
+    border-color: #ff9f00;
+}
+
+/* Amber */
+.card.red.item .card-footer .card-archetype {
+    color: #ff9f00;
+}
+
+.card.red.npc {
+    border-color: #28a745;
+}
+
+/* Emerald */
+.card.red.npc .card-footer .card-archetype {
+    color: #28a745;
+}
+
+.card.red.threat {
+    border-color: #dc3545;
+}
+
+/* Crimson */
+.card.red.threat .card-footer .card-archetype {
+    color: #dc3545;
 }
 
 .card-header {
@@ -159,7 +215,7 @@ body {
     }
 
     .page.tarot {
-        grid-template-columns: repeat(2, 100mm);
-        grid-template-rows: repeat(2, 135mm);
+        grid-template-columns: repeat(3, 70mm);
+        grid-template-rows: repeat(2, 120mm);
     }
 }
