@@ -109,14 +109,13 @@ Immersive, sensory text describing the location, person, or item as first seen.
     *   🟠 **Legendary**: "Golden Ticket" items. Only 1 allowed per deck.
 
 ---
-112: 
-113: ## 🏷️ The Tag Registry (Mechanics)
-114: 
-115: SciFi v5 uses **Tags** to add mechanical depth to specific horror archetypes without bloating the core rules. Every Scenario and many Adventure Cards should inherit behaviors from the [Tag Registry](file:///Users/home/Dev/git/echoes-content/SciFi%20v5/Tag_Registry.md).
-116: 
-117: *   **Scenario Tags**: Define the "house rules" for the table during that mission (e.g., `[LURKER]` vision rules).
-118: *   **Card Tags**: Define how items or threats interact with those scenario rules.
-119: 
+
+## 🏷️ The Tag Registry (Mechanics)
+
+SciFi v5 uses **Tags** to add mechanical depth to specific horror archetypes without bloating the core rules. Every Scenario and many Adventure Cards should inherit behaviors from the [Tag Registry](file:///Users/home/Dev/git/echoes-content/SciFi%20v5/Tag_Registry.md).
+
+*   **Scenario Tags**: Define the "house rules" for the table during that mission (e.g., `[LURKER]` vision rules).
+*   **Card Tags**: Define how items or threats interact with those scenario rules.
 
 ## 🌎 Location Design & Scenario Interplay
 

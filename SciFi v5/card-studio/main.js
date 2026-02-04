@@ -8,6 +8,86 @@ const md = new MarkdownIt({
 
 const cardContainer = document.getElementById('card-container');
 const refreshBtn = document.getElementById('refresh-btn');
+const exportBtn = document.getElementById('export-btn');
+
+async function exportCards() {
+    const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
+    const filename = `scifi-cards-snapshot-${timestamp}.html`;
+
+    // Fetch current CSS (using ?raw to get literal CSS from Vite)
+    const cssResponse = await fetch('./style.css?raw');
+    const cssText = await cssResponse.text();
+
+    // Clone the container to avoid affecting the live app
+    const content = cardContainer.innerHTML;
+
+    const htmlContent = `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SciFi v5 Card Snapshot - ${timestamp}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+    <style>
+        ${cssText}
+        /* Custom snapshot overrides */
+        body { background: #1a1a1a; color: #eee; padding: 40px; }
+        .studio-header { display: none; }
+        #card-container { display: flex; flex-direction: column; align-items: center; gap: 40px; }
+        .page { background: #2a2a2a; box-shadow: 0 10px 30px rgba(0,0,0,0.5); border: 1px solid #444; }
+        
+        @media print {
+            body { background: white; color: black; padding: 0; }
+            #card-container { display: block; }
+            .page { background: white; box-shadow: none; border: none; margin: 0; }
+        }
+    </style>
+</head>
+<body>
+    <div id="card-container">
+        ${content}
+    </div>
+</body>
+</html>`;
+
+    try {
+        console.log('[Card Studio] Pinging API at:', window.location.origin + '/api/ping');
+        // Quick check to see if the server-side API is even responsive
+        const ping = await fetch('/api/ping');
+        if (!ping.ok) {
+            throw new Error('Server API is not responding. Did you restart the dev server?');
+        }
+
+        const response = await fetch('/api/save-snapshot', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ filename, content: htmlContent })
+        });
+
+        const contentType = response.headers.get('content-type');
+        let result;
+        if (contentType && contentType.includes('application/json')) {
+            result = await response.json();
+        } else {
+            const text = await response.text();
+            throw new Error(`Server returned non-JSON response: ${text.substring(0, 100)}...`);
+        }
+
+        if (response.ok) {
+            alert(`Snapshot exported to /exports/${filename}`);
+        } else {
+            console.error('Export failed:', result.error);
+            alert(`Export failed: ${result.error || response.statusText}`);
+        }
+    } catch (err) {
+        console.error('Export error:', err);
+        alert(`Export error: ${err.message}`);
+    }
+}
 
 // Use Vite's glob import to get all markdown files from the project root
 // Use ?raw to get the text content of the markdown files
@@ -250,4 +330,5 @@ function renderCards(cards) {
 }
 
 refreshBtn.addEventListener('click', () => window.location.reload());
+exportBtn.addEventListener('click', exportCards);
 loadDecks();

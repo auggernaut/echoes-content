@@ -1,0 +1,1773 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SciFi v5 Card Snapshot - 2026-02-03T19-51-54-059Z</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+    <style>
+        body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background: #1a1a1a;
+    color: #eee;
+}
+
+.studio-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 0 20px;
+}
+
+.studio-header h1 {
+    margin: 0;
+    font-size: 1.5em;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #0088ff;
+}
+
+#card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+/* Page Layout (for Studio View) */
+.page {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0;
+    padding: 10px;
+    background: #2a2a2a;
+    border-radius: 4px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+    margin-bottom: 40px;
+}
+
+/* Card Styles (Imported from generate_cards.py) */
+.card {
+    width: 66mm;
+    height: 91mm;
+    background: white;
+    color: black;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    padding: 10px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    margin: -0.5px;
+    /* Overlap borders */
+}
+
+.card.tarot {
+    width: 100mm;
+    height: 135mm;
+}
+
+.card.blue {
+    border: 4px solid #0056b3;
+}
+
+.card.red {
+    border: 4px solid #b30000;
+}
+
+.card-header {
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 3px;
+}
+
+.card-meta {
+    font-size: 0.7em;
+    color: #666;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.card-tags {
+    font-size: 0.65em;
+    font-style: italic;
+    color: #444;
+    margin-bottom: 10px;
+}
+
+.card-content {
+    font-size: 0.8em;
+    flex-grow: 1;
+    line-height: 1.3;
+}
+
+.card-quote {
+    font-style: italic;
+    font-size: 0.7em;
+    border-left: 2px solid #ddd;
+    padding-left: 5px;
+    margin: 10px 0;
+    color: #555;
+}
+
+.card-footer {
+    font-size: 0.6em;
+    margin-top: auto;
+    padding-top: 5px;
+    border-top: 1px solid #eee;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-archetype {
+    font-weight: bold;
+    color: #0056b3;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Print Overrides */
+@media print {
+    body {
+        background: white;
+        padding: 0;
+    }
+
+    .studio-header {
+        display: none;
+    }
+
+    #card-container {
+        display: block;
+    }
+
+    .page {
+        width: 210mm;
+        height: auto;
+        padding: 5mm;
+        margin-top: 5px;
+        /* Shift everything down 10px to avoid clipping */
+        background: white;
+        box-shadow: none;
+        display: grid;
+        grid-template-columns: repeat(3, 66mm);
+        grid-template-rows: repeat(3, 91mm);
+        justify-content: center;
+        align-content: start;
+        gap: 0;
+        page-break-after: always;
+        overflow: visible;
+        border-radius: 0;
+    }
+
+    .page.tarot {
+        grid-template-columns: repeat(2, 100mm);
+        grid-template-rows: repeat(2, 135mm);
+    }
+}
+        /* Custom snapshot overrides */
+        body { background: #1a1a1a; color: #eee; padding: 40px; }
+        .studio-header { display: none; }
+        #card-container { display: flex; flex-direction: column; align-items: center; gap: 40px; }
+        .page { background: #2a2a2a; box-shadow: 0 10px 30px rgba(0,0,0,0.5); border: 1px solid #444; }
+        
+        @media print {
+            body { background: white; color: black; padding: 0; }
+            #card-container { display: block; }
+            .page { background: white; box-shadow: none; border: none; margin: 0; }
+        }
+    </style>
+</head>
+<body>
+    <div id="card-container">
+        <div class="page"><div class="card blue">
+                <div class="card-header">Emergency Override</div>
+                <div class="card-meta">🔵 [DEFENSE] • [SLOT: 1]<br>Health: 3 Strikes</div>
+                <div class="card-tags">Prepared, Cunning</div>
+                <div class="card-content">
+                    When a system or hazard would cause you a Strike (fire, gas, decompression, reactor surge), roll a d6. On 4+, you bypass or reroute it just in time.
+                    <div class="card-quote">"The ship's systems have back doors. I built them."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What system did I once save by seconds?</li><li>Who hates me for always cutting corners?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>ENG-000</span>
+                    <span class="card-archetype">Engineer</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Dive for Cover</div>
+                <div class="card-meta">🔵 [DEFENSE] • [SLOT: 1]<br>Health: 3 Strikes</div>
+                <div class="card-tags">Quick, Desperate</div>
+                <div class="card-content">
+                    When targeted by an attack, roll a d6. On 5+, you avoid the Strike by ducking into cover. If you expose another PC while dodging, gain an <strong>Echo (Signal)</strong>.
+                    <div class="card-quote">"If sparks fly, I'm already under the console."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>Who do I always leave behind when I scramble?</li><li>What scar proves I wasn't fast enough once?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>ENG-000</span>
+                    <span class="card-archetype">Engineer</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Failsafe Trigger</div>
+                <div class="card-meta">🔵 [DEFENSE] • [SLOT: 1]<br>Health: 3 Strikes</div>
+                <div class="card-tags">Paranoid, Precise</div>
+                <div class="card-content">
+                    Once per fight, you may <strong>Flip an Echo to Static</strong> to negate a Strike against you by declaring a failsafe you prepared. Describe how it works.
+                    <div class="card-quote">"If it breaks, I already planned how it'll break."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What improvised trick has saved me more than once?</li><li>What piece of tech is held together only by luck and prayer?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>ENG-000</span>
+                    <span class="card-archetype">Engineer</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Systems Savant</div>
+                <div class="card-meta">🔵 [BOON] • [SLOT: 1]</div>
+                <div class="card-tags">Analytical, Precise</div>
+                <div class="card-content">
+                    Roll +1d6 when: repairing ship systems, hacking terminals, bypassing security locks, diagnosing system failures, rerouting power.
+                    <div class="card-quote">"Every circuit has a rhythm. I just listen for it."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What system have I practically memorized?</li><li>Who mistrusts my skill, no matter how often I prove them wrong?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>ENG-000</span>
+                    <span class="card-archetype">Engineer</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Mechanical Instincts</div>
+                <div class="card-meta">🔵 [BOON] • [SLOT: 1]</div>
+                <div class="card-tags">Intuitive, Resourceful</div>
+                <div class="card-content">
+                    Roll +1d6 when: improvising with tools, jury-rigging broken equipment, using machines in creative ways, making repairs with limited resources, understanding how devices work.
+                    <div class="card-quote">"I don't fix machines. I understand them."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What tool do I always carry, even when it makes no sense?</li><li>What machine feels more like family than people do?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>ENG-000</span>
+                    <span class="card-archetype">Engineer</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Data Whisperer</div>
+                <div class="card-meta">🔵 [BOON] • [SLOT: 1]</div>
+                <div class="card-tags">Focused, Eerie</div>
+                <div class="card-content">
+                    Roll +1d6 when: reading ship logs, accessing data terminals, interfacing with AI systems, decrypting files, analyzing corrupted data, tracing system connections.
+                    <div class="card-quote">"The code talks to me, and I talk back."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What strange phrase always appears in the data I read?</li><li>Who's afraid of how easily I slip into the system?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>ENG-000</span>
+                    <span class="card-archetype">Engineer</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Bypass</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Clever, Quick</div>
+                <div class="card-content">
+                    Once per scene, you may unlock, disable, or reroute one ship system (doors, alarms, locks, life support) without rolling.
+                    <div class="card-quote">"Every system has a back door. I just need to find it."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What tool do I always use, no matter how inappropriate?</li><li>Who taught me my first hack?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>ENG-000</span>
+                    <span class="card-archetype">Engineer</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Stabilize Reactor</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Risky, Vital</div>
+                <div class="card-content">
+                    Once per session, roll a d6. On a 4+, you stabilize a failing system (reactor, engine, life support). On a 1, it worsens dramatically.
+                    <div class="card-quote">"I can keep it together — until I can't."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What scar reminds me of the last time I failed?</li><li>Who do I work harder for when things go wrong?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>ENG-000</span>
+                    <span class="card-archetype">Engineer</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Hot-Wire</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Improvised, Bold</div>
+                <div class="card-content">
+                    Once per fight, you may jury-rig a device or weapon to function in an unintended way. Gain advantage on that roll, then the device breaks.
+                    <div class="card-quote">"Don't worry, I've done this before."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What's the stupidest thing I've ever hot-wired?</li><li>Who never trusts me with their gear?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>ENG-000</span>
+                    <span class="card-archetype">Engineer</span>
+                </div>
+            </div></div><div class="page"><div class="card blue">
+                <div class="card-header">Failsafe Override</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Cautious, Dangerous</div>
+                <div class="card-content">
+                    Once per session, you can force a system to keep running one more time before total failure.
+                    <div class="card-quote">"Push it past the red, and pray."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What system did I keep alive longer than it should have lasted?</li><li>What part of me still aches from that day?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>ENG-000</span>
+                    <span class="card-archetype">Engineer</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Patch Job</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Improvised, Desperate</div>
+                <div class="card-content">
+                    Once per scene, restore 1 temporary Hit to an ally by cobbling together a brace, patch, or rig.
+                    <div class="card-quote">"Hold still. This'll work… for now."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>Who do I patch up the most?</li><li>Who told me I should stop trying to fix everything?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>ENG-000</span>
+                    <span class="card-archetype">Engineer</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Multitool</div>
+                <div class="card-meta">🔵 [ITEM] • [SLOT: 1]</div>
+                <div class="card-tags">Compact, Essential</div>
+                <div class="card-content">
+                    A folding all-purpose tool with sparks and solder. Once per room, reroll a failed repair.
+                    <div class="card-quote">"This tool has fixed more ships than their whole damn crew."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>Who gave me this tool?</li><li>What's etched on its handle?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>ENG-000</span>
+                    <span class="card-archetype">Engineer</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Data Pad</div>
+                <div class="card-meta">🔵 [ITEM] • [SLOT: 1]</div>
+                <div class="card-tags">Portable, Flickering</div>
+                <div class="card-content">
+                    A cracked pad that still connects to half the ship's systems. Once per session, ask the GM one question about ship logs or systems; they must answer.
+                    <div class="card-quote">"If it's in the system, I can find it."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What password do I always use?</li><li>What file do I never open again?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>ENG-000</span>
+                    <span class="card-archetype">Engineer</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Schematic Insight</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Loyal, Overworked</div>
+                <div class="card-content">
+                    Once per session, declare you know the specifications of this ship or device. The GM must reveal a useful fact.
+                    <div class="card-quote">"I know this model inside and out. That's why I hate it."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What company built this ship?</li><li>Why did I walk away from them?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>ENG-000</span>
+                    <span class="card-archetype">Engineer</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Overclock</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Cynical, Resourceful</div>
+                <div class="card-content">
+                    Once per session, you may permanently "junk" one [ITEM] you are carrying (it becomes useless scrap) to gain a massive Boon (+2d6) on a ship system ACTION (Repair, Hack, or Reroute).
+                    <div class="card-quote">"I can give you ten more minutes of life support. But you're going to have to give me your scanner."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What essential tool did I sacrifice to save the crew once?</li><li>Who still blames me for 'breaking' their favorite gear?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>ENG-000</span>
+                    <span class="card-archetype">Engineer</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">AI Interlocks</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Secretive, Paranoid</div>
+                <div class="card-content">
+                    Once per game, declare you installed interlocks to keep the AI out of critical systems. The GM reveals a hidden safeguard you prepared.
+                    <div class="card-quote">"I built the walls. I know where the cracks are."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What system did I lock away from the AI?</li><li>Who knows about my secret modifications?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>ENG-000</span>
+                    <span class="card-archetype">Engineer</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Clinical Distance</div>
+                <div class="card-meta">🔵 [DEFENSE] • [SLOT: 1]<br>Health: 3 Strikes</div>
+                <div class="card-tags">Detached, Calm</div>
+                <div class="card-content">
+                    When facing biological hazards, infections, or contamination, roll a d6. On 4+, you avoid exposure through careful procedure.
+                    <div class="card-quote">"I've seen worse. I've treated worse."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What protocol did I learn the hard way?</li><li>Who do I still blame for not following procedure</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>MED-000</span>
+                    <span class="card-archetype">Medic</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Emergency Protocol</div>
+                <div class="card-meta">🔵 [DEFENSE] • [SLOT: 1]<br>Health: 3 Strikes</div>
+                <div class="card-tags">Prepared, Methodical</div>
+                <div class="card-content">
+                    When a medical emergency or system failure threatens you, roll a d6. On 4+, you activate a prepared protocol that mitigates the danger.
+                    <div class="card-quote">"Every crisis has a checklist. I wrote it."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What protocol saved my life before?</li><li>What procedure do I refuse to follow</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>MED-000</span>
+                    <span class="card-archetype">Medic</span>
+                </div>
+            </div></div><div class="page"><div class="card blue">
+                <div class="card-header">Self-Sacrifice</div>
+                <div class="card-meta">🔵 [DEFENSE] • [SLOT: 1]<br>Health: 4 Strikes</div>
+                <div class="card-tags">Desperate, Protective</div>
+                <div class="card-content">
+                    Once per fight, you may take a Strike meant for an ally. Gain an <strong>Echo (Signal)</strong> if they survive because of it.
+                    <div class="card-quote">"I'll take the hit so they don't have to."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>Who have I already bled for?</li><li>What wound reminds me I'm not invincible</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>MED-000</span>
+                    <span class="card-archetype">Medic</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Combat Surgeon</div>
+                <div class="card-meta">🔵 [BOON] • [SLOT: 1]</div>
+                <div class="card-tags">Efficient, Fearless</div>
+                <div class="card-content">
+                    Roll +1d6 when: performing emergency surgery, stopping bleeding, stabilizing a dying ally, treating physical trauma, or moving casualties under fire.
+                    <div class="card-quote">"A bullet is just a mechanical failure of the body. I can fix that."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What's the fastest I've ever patched someone?</li><li>Who taught me to ignore the screaming and focus on the hands?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>MED-000</span>
+                    <span class="card-archetype">Medic</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Xeno-Pathologist</div>
+                <div class="card-meta">🔵 [BOON] • [SLOT: 1]</div>
+                <div class="card-tags">Analytical, Skeptical</div>
+                <div class="card-content">
+                    Roll +1d6 when: diagnosing unknown [BIO] infections, Developing on-the-fly counter-agents, identifying biological weaknesses, or purging invasive toxins.
+                    <div class="card-quote">"It isn't a monster. It's just a very aggressive pathogen."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What outbreak did I fail to contain?</li><li>Why do I trust microbiology more than people?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>MED-000</span>
+                    <span class="card-archetype">Medic</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Neural Counselor</div>
+                <div class="card-meta">🔵 [BOON] • [SLOT: 1]</div>
+                <div class="card-tags">Empathetic, Resilient</div>
+                <div class="card-content">
+                    Roll +1d6 when: helping an ally <strong>Restore</strong> an Echo, resisting [SURREAL] hallucinations, diagnosing neural malfunctions, or calming a panicked survivor.
+                    <div class="card-quote">"The ship isn't the only thing breaking down. Let's look at your signal."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What memory did I have to help someone let go of?</li><li>Who do I check on first when the ship goes dark?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>MED-000</span>
+                    <span class="card-archetype">Medic</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Stabilize</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Calm, Vital</div>
+                <div class="card-content">
+                    Once per scene, you may restore 1 Hit to an ally by treating their wounds.
+                    <div class="card-quote">"Hold still. This will hurt."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>Who do I patch up the most?</li><li>What's my signature treatment method</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>MED-000</span>
+                    <span class="card-archetype">Medic</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Diagnosis</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Perceptive, Analytical</div>
+                <div class="card-content">
+                    Once per room, ask the GM: "What's wrong with this person or system?" They must answer truthfully.
+                    <div class="card-quote">"I see what others miss."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What symptom always catches my attention?</li><li>Who refuses to believe my diagnosis</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>MED-000</span>
+                    <span class="card-archetype">Medic</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Nanite Purge</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Risky, Desperate</div>
+                <div class="card-content">
+                    Once per session, roll a d6. On a 4+, you purge corrupted nanites or infections from a person or system. On a 1, the contamination spreads.
+                    <div class="card-quote">"I can sterilize it — if I'm fast enough."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What contamination have I seen before?</li><li>Who begged me not to use this procedure?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>MED-000</span>
+                    <span class="card-archetype">Medic</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Emergency Medkit</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Resourceful, Limited</div>
+                <div class="card-content">
+                    Once per session, pull out a critical medical supply (antidote, stim, bandage). The GM decides its limits.
+                    <div class="card-quote">"I always keep something back for emergencies."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What's the most valuable thing in my kit?</li><li>Who do I refuse to treat with it?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>MED-000</span>
+                    <span class="card-archetype">Medic</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Quarantine Protocol</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Methodical, Protective</div>
+                <div class="card-content">
+                    Once per scene, declare a quarantine zone. Anyone entering or leaving must <strong>Flip an Echo to Static</strong>, or you can lock them in/out.
+                    <div class="card-quote">"Safety first. Always."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What quarantine failed before?</li><li>Who do I trust to enforce my protocols?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>MED-000</span>
+                    <span class="card-archetype">Medic</span>
+                </div>
+            </div></div><div class="page"><div class="card blue">
+                <div class="card-header">Medpack</div>
+                <div class="card-meta">🔵 [ITEM] • [SLOT: 1]</div>
+                <div class="card-tags">Essential, Organized</div>
+                <div class="card-content">
+                    A meticulously organized medical kit with supplies labeled and relabeled. Once per scene, reroll a failed medical treatment.
+                    <div class="card-quote">"Everything has its place. Everything has its purpose."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What's missing from my kit that I need?</li><li>Who last used it without permission?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>MED-000</span>
+                    <span class="card-archetype">Medic</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Cryo Pod Access Codes</div>
+                <div class="card-meta">🔵 [ITEM] • [SLOT: 1]</div>
+                <div class="card-tags">Restricted, Valuable</div>
+                <div class="card-content">
+                    Codes that grant access to cryo pod systems and medical records. Once per session, use these to access restricted medical data or override a pod's controls.
+                    <div class="card-quote">"I know what they're hiding."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What secret did I discover in the medical logs?</li><li>Who gave me these codes, and why?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>MED-000</span>
+                    <span class="card-archetype">Medic</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Adrenal Surge</div>
+                <div class="card-meta">🔵 [ITEM] • [SLOT: 1]</div>
+                <div class="card-tags">Dangerous, Powerful</div>
+                <div class="card-content">
+                    Once per session, inject an ally or yourself with a concentrated stimulant. The target ignores all penalties for the scene. <strong>The Catch</strong>: Roll a d6 at the end of the scene. On a 1, the target's heart strains from the chemical cocktail—they take 1 Strike instantly.
+                    <div class="card-quote">"It'll get you up, but I can't promise you'll stay that way."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>Whose heart did I stop once with this 'fix'?</li><li>What chemical smell makes me nauseous now?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>MED-000</span>
+                    <span class="card-archetype">Medic</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Corporate Secrets</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Guilt-Ridden, Secretive</div>
+                <div class="card-content">
+                    Once per session, declare you know about a corporate medical secret tied to this situation. The GM reveals a hidden truth.
+                    <div class="card-quote">"I know what they did. I helped them do it."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What secret am I hiding?</li><li>Who would hate me if they knew?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>MED-000</span>
+                    <span class="card-archetype">Medic</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Martyr's Burden</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Haunted, Driven</div>
+                <div class="card-content">
+                    Once per game, when an ally takes a Strike, you may take it instead. Gain an <strong>Echo (Signal)</strong>, but you cannot use this again until you rest.
+                    <div class="card-quote">"I should have been faster. I should have been better."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>Who did I fail to save?</li><li>What keeps me going despite the guilt?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>MED-000</span>
+                    <span class="card-archetype">Medic</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Pattern Recognition</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Obsessive, Protective</div>
+                <div class="card-content">
+                    Once per session, declare you've documented a medical pattern. The GM reveals a clue about infections, contamination, or crew health.
+                    <div class="card-quote">"I keep records. I always keep records."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What log entry still troubles me?</li><li>Who wants my records destroyed?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>MED-000</span>
+                    <span class="card-archetype">Medic</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Combat Armor</div>
+                <div class="card-meta">🔵 [DEFENSE] • [SLOT: 1]<br>Health: 4 Strikes</div>
+                <div class="card-tags">Armored, Trained</div>
+                <div class="card-content">
+                    When hit with a Strike, roll a d6. On 4+, ignore the damage. If carrying a shield, block on 3+ instead.
+                    <div class="card-quote">"The armor is heavy, but it's saved me more times than I can count."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>Who issued me this armor?</li><li>What scar reminds me armor can still fail?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SEC-000</span>
+                    <span class="card-archetype">Security</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Reactive Dodge</div>
+                <div class="card-meta">🔵 [DEFENSE] • [SLOT: 1]<br>Health: 3 Strikes</div>
+                <div class="card-tags">Agile, Disciplined</div>
+                <div class="card-content">
+                    When targeted by an attack, roll a d6. On 5+, you avoid it by throwing yourself clear. Gain an <strong>Echo (Signal)</strong> if you dive into danger to protect another.
+                    <div class="card-quote">"I read the twitch in a trigger finger before the bullet leaves the barrel."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>Who taught me to always move first?</li><li>Who did I fail to protect when I hesitated?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SEC-000</span>
+                    <span class="card-archetype">Security</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Bulwark Stance</div>
+                <div class="card-meta">🔵 [DEFENSE] • [SLOT: 1]<br>Health: 4 Strikes</div>
+                <div class="card-tags">Unyielding, Intimidating</div>
+                <div class="card-content">
+                    Once per fight, you may enter a stance to ignore the next Strike entirely. While in stance, you cannot move until your next action.
+                    <div class="card-quote">"When I plant my feet, nothing moves me."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What battle earned me the name "Bulwark"?</li><li>Who relies on me to never fall?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SEC-000</span>
+                    <span class="card-archetype">Security</span>
+                </div>
+            </div></div><div class="page"><div class="card blue">
+                <div class="card-header">Trained Marksman</div>
+                <div class="card-meta">🔵 [BOON] • [SLOT: 1]</div>
+                <div class="card-tags">Precise, Steady</div>
+                <div class="card-content">
+                    Roll +1d6 when: using ranged weapons, aiming at targets, shooting in combat, making precision shots, suppressing fire, covering allies.
+                    <div class="card-quote">"I don't waste bullets — I end fights."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>Whose face do I still see down my sights?</li><li>What ritual steadies my hand before I fire?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SEC-000</span>
+                    <span class="card-archetype">Security</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Melee Specialist</div>
+                <div class="card-meta">🔵 [BOON] • [SLOT: 1]</div>
+                <div class="card-tags">Ferocious, Brutal</div>
+                <div class="card-content">
+                    Roll +1d6 when: fighting in close combat, using melee weapons, disarming opponents, breaking through barriers, intimidating through violence, defending in melee.
+                    <div class="card-quote">"Up close, it's just me, them, and the blade."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What weapon feels like an extension of my arm?</li><li>What do I tell myself when I have to get bloody?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SEC-000</span>
+                    <span class="card-archetype">Security</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Tactical Instincts</div>
+                <div class="card-meta">🔵 [BOON] • [SLOT: 1]</div>
+                <div class="card-tags">Cunning, Protective</div>
+                <div class="card-content">
+                    Roll +1d6 when: coordinating team actions, reading tactical situations, positioning for advantage, giving orders, planning ambushes, assessing threats, protecting allies.
+                    <div class="card-quote">"I see the battlefield three moves ahead."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>Who always trusts my orders without question?</li><li>What mistake still haunts my tactics?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SEC-000</span>
+                    <span class="card-archetype">Security</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Chain of Command</div>
+                <div class="card-meta">🔵 [BOON] • [SLOT: 1]</div>
+                <div class="card-tags">Authoritative, Rigid</div>
+                <div class="card-content">
+                    Roll +1d6 when: asserting authority, coordinating a team, following military procedure, enforcing discipline, accessing restricted areas, commanding respect, organizing defenses.
+                    <div class="card-quote">"I know the protocols. I enforce them."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What order do I still hear in my dreams?</li><li>Who challenges my authority, and why?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SEC-000</span>
+                    <span class="card-archetype">Security</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Heavy Strike</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Brutal, Direct</div>
+                <div class="card-content">
+                    Once per fight, your melee attack deals +1 Strike.
+                    <div class="card-quote">"I hit hard enough to end it."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What scar proves I can take as much as I give?</li><li>Who taught me to swing without mercy?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SEC-000</span>
+                    <span class="card-archetype">Security</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Suppressing Fire</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Tactical, Relentless</div>
+                <div class="card-content">
+                    Once per scene, force enemies in your line of fire to lose their next action unless they <strong>Flip an Echo to Static</strong>.
+                    <div class="card-quote">"I'll keep their heads down, you move."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What weapon do I trust more than any person?</li><li>Who first relied on me for cover fire?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SEC-000</span>
+                    <span class="card-archetype">Security</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Battlefield Reflexes</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Alert, Hardened</div>
+                <div class="card-content">
+                    Once per room, you may automatically dodge a source of harm without rolling.
+                    <div class="card-quote">"I'm never caught flat-footed."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What reflex saved my life before?</li><li>What noise always makes me flinch?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SEC-000</span>
+                    <span class="card-archetype">Security</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Armor Training</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Disciplined, Durable</div>
+                <div class="card-content">
+                    Ignore the first Strike you would take each session.
+                    <div class="card-quote">"I know how to wear steel and not fall over."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What dent in my armor has a story behind it?</li><li>Who patched me up after the last time it failed?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SEC-000</span>
+                    <span class="card-archetype">Security</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Secure the Perimeter</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Methodical, Protective</div>
+                <div class="card-content">
+                    Once per scene, declare a secure zone. Enemies must <strong>Flip an Echo to Static</strong> to enter, or you can lock down the area.
+                    <div class="card-quote">"Nobody gets through. Nobody."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What perimeter have I failed to secure?</li><li>Who do I trust to watch my back?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SEC-000</span>
+                    <span class="card-archetype">Security</span>
+                </div>
+            </div></div><div class="page"><div class="card blue">
+                <div class="card-header">Captain's Revolver</div>
+                <div class="card-meta">🔵 [ITEM] • [SLOT: 1]</div>
+                <div class="card-tags">Relic, Authoritative</div>
+                <div class="card-content">
+                    A sidearm that belonged to the ship's captain. Limited ammunition. Ranged weapon. On a hit, deal 1 Strike at distance. On a critical, deal 2.
+                    <div class="card-quote">"This gun has seen more than I have."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>How did I come to possess this weapon?</li><li>Who else wants it?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SEC-000</span>
+                    <span class="card-archetype">Security</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Security Keycard</div>
+                <div class="card-meta">🔵 [ITEM] • [SLOT: 1]</div>
+                <div class="card-tags">Restricted, Essential</div>
+                <div class="card-content">
+                    A keycard that grants access to security systems and restricted areas. Once per session, use this to override a locked door or security system.
+                    <div class="card-quote">"I have clearance. I always have clearance."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What area am I forbidden from accessing?</li><li>Who gave me this card, and what did they expect in return?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SEC-000</span>
+                    <span class="card-archetype">Security</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Combat Stims</div>
+                <div class="card-meta">🔵 [ITEM] • [SLOT: 1]</div>
+                <div class="card-tags">Chemical, Risky</div>
+                <div class="card-content">
+                    Once per session, inject to ignore penalties for 1 scene. Afterwards, take 1 Strike.
+                    <div class="card-quote">"I'll burn myself out if it means I walk away."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What's the worst crash I've had after stims?</li><li>Who told me to stop using them?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SEC-000</span>
+                    <span class="card-archetype">Security</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Tactical Protocol</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Loyal, Haunted</div>
+                <div class="card-content">
+                    Once per session, declare a tactical protocol you learned in service; the GM must give you an advantage from it.
+                    <div class="card-quote">"The war's over — but not for me."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What order do I still hear in my dreams?</li><li>Who did I leave behind when I left the corps?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SEC-000</span>
+                    <span class="card-archetype">Security</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Hidden Mutiny</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Burdened, Secretive</div>
+                <div class="card-content">
+                    Once per game, the GM may reveal you authored a mutiny order that was never executed. If you acknowledge it, gain an <strong>Echo (Signal)</strong>. If you hide it, <strong>Flip an Echo to Static</strong>.
+                    <div class="card-quote">"I wrote the words. I never sent them."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What order still haunts me?</li><li>Who would hate me if they knew?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SEC-000</span>
+                    <span class="card-archetype">Security</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Stress Suppression (The Anchor)</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Rigid, Protective</div>
+                <div class="card-content">
+                    Once per scene, you may assert your iron discipline to stabilize a panicked crew. One ally within earshot immediately removes the [Panicked] or [Paralyzed] condition.
+                    <div class="card-quote">"Breathe. If I'm not running, you're not running. Eyes on me."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What did I see that broke my squad?</li><li>Who do I protect because they remind me of someone I lost?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SEC-000</span>
+                    <span class="card-archetype">Security</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Duck and Weave</div>
+                <div class="card-meta">🔵 [DEFENSE] • [SLOT: 1]<br>Health: 2 Strikes</div>
+                <div class="card-tags">Quick, Slippery</div>
+                <div class="card-content">
+                    When targeted by an attack, roll a d6. On 5+, you slip aside and avoid the Strike.
+                    <div class="card-quote">"I don't block hits. I make sure they don't land."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>Who always tells me to "stand still for once"?</li><li>What scar reminds me I wasn't fast enough once?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SUR-000</span>
+                    <span class="card-archetype">Survivor</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Cover Rat</div>
+                <div class="card-meta">🔵 [DEFENSE] • [SLOT: 1]<br>Health: 3 Strikes</div>
+                <div class="card-tags">Causal, Opportunistic</div>
+                <div class="card-content">
+                    When in a room with cover (crates, walls, debris), roll a d6. On 4+, a Strike that hits you instead shatters the cover.
+                    <div class="card-quote">"I'm already behind something when the shooting starts."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What junk do I always duck behind?</li><li>Who calls me a coward — but owes me their life?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SUR-000</span>
+                    <span class="card-archetype">Survivor</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Play Dead</div>
+                <div class="card-meta">🔵 [DEFENSE] • [SLOT: 1]<br>Health: 2 Strikes</div>
+                <div class="card-tags">Sneaky, Desperate</div>
+                <div class="card-content">
+                    Once per fight, you may avoid a Strike entirely by dropping prone and feigning death. Enemies ignore you until you act again.
+                    <div class="card-quote">"Sometimes the smartest move is not moving at all."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>Who taught me to stay down until it's safe?</li><li>What's the worst thing I've seen while pretending to be dead?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SUR-000</span>
+                    <span class="card-archetype">Survivor</span>
+                </div>
+            </div></div><div class="page"><div class="card blue">
+                <div class="card-header">Loot Expert</div>
+                <div class="card-meta">🔵 [BOON] • [SLOT: 1]</div>
+                <div class="card-tags">Greedy, Sharp-Eyed</div>
+                <div class="card-content">
+                    Roll +1d6 when: searching for valuables, finding hidden stashes, identifying salvageable gear, appraising items, spotting overlooked resources, looting efficiently.
+                    <div class="card-quote">"If there's something worth taking, I'll find it first."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What treasure do I still dream of finding again?</li><li>Who did I once beat to a prize — and made an enemy for life?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SUR-000</span>
+                    <span class="card-archetype">Survivor</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Improviser</div>
+                <div class="card-meta">🔵 [BOON] • [SLOT: 1]</div>
+                <div class="card-tags">Clever, Resourceful</div>
+                <div class="card-content">
+                    Roll +1d6 when: using junk and scraps, creating improvised tools or weapons, jury-rigging solutions, adapting items for new purposes, making do with limited resources, thinking outside the box.
+                    <div class="card-quote">"I can make anything into something useful — or dangerous."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What's the strangest thing I ever turned into a weapon?</li><li>Who still owes me because of my ingenuity?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SUR-000</span>
+                    <span class="card-archetype">Survivor</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Scrapwork Survivor</div>
+                <div class="card-meta">🔵 [BOON] • [SLOT: 1]</div>
+                <div class="card-tags">Tough, Pragmatic</div>
+                <div class="card-content">
+                    Roll +1d6 when: scavenging food and supplies, bracing wounds, jury-rigging shelter, finding safe places to rest, enduring harsh conditions, making do with nothing, surviving against the odds.
+                    <div class="card-quote">"I survive on grit and garbage. Always have."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What near-death scrape taught me these skills?</li><li>Who calls me a vulture — and who calls me a hero?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SUR-000</span>
+                    <span class="card-archetype">Survivor</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Jury-Rig</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Clever, Resourceful</div>
+                <div class="card-content">
+                    Once per scene, you can cobble together a temporary tool or weapon from scraps. It works for one use, then breaks.
+                    <div class="card-quote">"Give me five minutes and junk, I'll make it work."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What's the strangest thing I've ever built?</li><li>Who first taught me this trick?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SUR-000</span>
+                    <span class="card-archetype">Survivor</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Loot Rat</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Greedy, Opportunistic</div>
+                <div class="card-content">
+                    Once per room, you may ask the GM: "What here is valuable?" They must answer truthfully.
+                    <div class="card-quote">"If it's not nailed down, it's mine. If it is, I've got the tools."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What's the one treasure I'll never part with?</li><li>Who did I betray to get it?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SUR-000</span>
+                    <span class="card-archetype">Survivor</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Salvage Instinct</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Greedy, Reckless</div>
+                <div class="card-content">
+                    When loot is on the line, you may roll twice and keep the better result on risky actions.
+                    <div class="card-quote">"I can smell profit like blood in the water."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What loot have I risked too much for?</li><li>Who still wants their share from me?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SUR-000</span>
+                    <span class="card-archetype">Survivor</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Scrapshield</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Protective, Improvised</div>
+                <div class="card-content">
+                    Once per session, you can throw together a junk barricade, giving yourself or an ally +1 temporary Hit.
+                    <div class="card-quote">"A wall of junk is better than no wall at all."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What scar reminds me my shields don't always hold?</li><li>Who do I always shield first?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SUR-000</span>
+                    <span class="card-archetype">Survivor</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Hide in Plain Sight</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Sneaky, Calm</div>
+                <div class="card-content">
+                    Once per scene, you may blend into your surroundings or appear harmless. Enemies ignore you unless you act aggressively.
+                    <div class="card-quote">"They don't see me. They never see me."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What's the worst situation I've hidden from?</li><li>Who always sees through my act?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SUR-000</span>
+                    <span class="card-archetype">Survivor</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Survivor's Bag</div>
+                <div class="card-meta">🔵 [ITEM] • [SLOT: 1]</div>
+                <div class="card-tags">Useful, Clattering</div>
+                <div class="card-content">
+                    A bag full of scavenged supplies and improvised tools. Once per session, pull out a useful mundane item (rope, crowbar, duct tape, rations). The GM decides its limits.
+                    <div class="card-quote">"Everything useful fits in here — eventually."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What's the weirdest thing I've pulled from it?</li><li>What item do I refuse to use?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SUR-000</span>
+                    <span class="card-archetype">Survivor</span>
+                </div>
+            </div></div><div class="page"><div class="card blue">
+                <div class="card-header">Echo of the Void</div>
+                <div class="card-meta">🔵 [ITEM] • [SLOT: 0]</div>
+                <div class="card-tags">Fragile, Eerie</div>
+                <div class="card-content">
+                    A small, matte-black shard of unknown origin. It seems to swallow light. Once per game, spend an <strong>Echo (Signal)</strong> to "vanish" from the current scene for 1 turn. You cannot be targeted, seen, or detected by any means as you slip into a "negative space" only you can find. You return at the start of your next turn.
+                    <div class="card-quote">"They don't see me because I'm not there. Not really."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>Where do I go when I use this?</li><li>What noise do I hear in the silence of the 'other' side?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SUR-000</span>
+                    <span class="card-archetype">Survivor</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Emergency Beacon Core</div>
+                <div class="card-meta">🔵 [ITEM] • [SLOT: 1]</div>
+                <div class="card-tags">Valuable, Dangerous</div>
+                <div class="card-content">
+                    A portable beacon that can transmit an SOS signal. Once per session, activate to call for help or transmit a message. May draw unwanted attention.
+                    <div class="card-quote">"I'll call for help — if I have to."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>Who am I trying to reach?</li><li>What happens when I activate it?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SUR-000</span>
+                    <span class="card-archetype">Survivor</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Deep Sleep Recall</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Disoriented, Determined</div>
+                <div class="card-content">
+                    Once per session, declare you remember something from before the drift. The GM reveals a clue about the ship's past or your own history.
+                    <div class="card-quote">"I remember… I think I remember."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What memory haunts me?</li><li>What do I wish I could forget?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SUR-000</span>
+                    <span class="card-archetype">Survivor</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Cycle Recall</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Unnerving, Detached</div>
+                <div class="card-content">
+                    Once per game, declare you've been awake before — maybe multiple times. The GM reveals a hidden truth about the ship's cycles or your own nature.
+                    <div class="card-quote">"I've been here before. I think."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>How many times have I woken up?</li><li>What do I remember that others don't?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SUR-000</span>
+                    <span class="card-archetype">Survivor</span>
+                </div>
+            </div><div class="card blue">
+                <div class="card-header">Scavenger's Claim</div>
+                <div class="card-meta">🔵 [ABILITY] • [SLOT: 1]</div>
+                <div class="card-tags">Infamous, Respected</div>
+                <div class="card-content">
+                    Once per session, you may claim scavenger's rights, taking an item or resource even if contested. NPCs react poorly, but other survivors respect you.
+                    <div class="card-quote">"They call me a vulture. Vultures survive."</div>
+                    <ul style="padding-left:15px; margin:5px 0;">
+                        <li>What rumor about me still spreads?</li><li>What corpse did I strip that I regret?</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <span>SUR-000</span>
+                    <span class="card-archetype">Survivor</span>
+                </div>
+            </div></div><div class="page tarot"><div class="card red tarot">
+                <div class="card-header">Reactor Core</div>
+                <div class="card-tags">Overheated, Thrumming, Metallic</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    The air tastes metallic. Heat shimmers off the deckplates. A half-lit reactor core looms in the chamber’s center, breathing in mechanical gasps. Every few seconds, the lights dim and pulse like a dying heartbeat.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Sensory:</strong> The deep, bone-rattling thrum of the drive; the scent of ozone and hot oil; the oppressive warmth that makes skin prickle; the blue-white glare of the core.</li><li><strong>Features:</strong></li><ul style="padding-left:15px; margin:2px 0;"><li><strong>The Core:</strong> A shielded, vertical column pulsing with lethal energy.</li><li><strong>Cooling Pipes:</strong> A network of frost-rimmed tubes that hiss with high-pressure coolant.</li><li><strong>Manual Overrides:</strong> A heavy lever and analog dial for emergency containment.</li></ul><li><strong>Hazards:</strong> Electrical arcs; steam vents; radiation leaks; intense heat exhaustion.</li><li><strong>Reveals:</strong> A loose floorplate covering a smuggler's stash; a maintenance log showing unauthorized access; a hidden camera lens embedded in a rivet.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">LOCATION</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Cryo Bay Theta</div>
+                <div class="card-tags">Frigid, Silent, Tomb-like</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A skin of frost turns the cryo‑pods into glass sarcophagi. One capsule is shattered inward, glittering with glass dust. Cold breath blooms in the air. Frozen stasis gel beads on the deck with an antiseptic sweetness.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Sensory:</strong> The absolute silence of the void; the clinical smell of antiseptic and frozen gel; the biting cold that numbs fingers; the rhythmic click of pod life-support.</li><li><strong>Features:</strong></li><ul style="padding-left:15px; margin:2px 0;"><li><strong>Cryo Pods:</strong> Rows of vertical glass pods, some frosted, some occupied by sleeping crew.</li><li><strong>Revival Station:</strong> A flickering terminal for manual pod awakening.</li><li><strong>Mist Generators:</strong> Ceiling vents that pour out cold, white fog.</li></ul><li><strong>Hazards:</strong> Hypoxia (low oxygen); extreme cold exposure; slippery stasis gel; failing pod alarms.</li><li><strong>Reveals:</strong> Scratches on the <em>inside</em> of a pod; a pod labeled "Empty" that contains bio-residue; a weapon hidden in an emergency blanket.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">LOCATION</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">The Bridge</div>
+                <div class="card-tags">Command, Hissing, Fragile</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    The nerve center of the ship. Tactical stations blink in a rhythmic, electronic pulse around a central command chair. The massive viewport looks out into the void, its glass spiderwebbed with thin, shivering cracks.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Sensory:</strong> The whistle of air cycling (or leaking); the smell of burnt plastic and stale coffee; the static hiss from the comms.</li><li><strong>Features:</strong></li><ul style="padding-left:15px; margin:2px 0;"><li><strong>Captain's Chair:</strong> The central position; physical keys and overrides.</li><li><strong>Navigation Console:</strong> Holographic map table, flickering or corrupted.</li><li><strong>Blast Shutters:</strong> Heavy metal shields that can cover windows (or fail to).</li></ul><li><strong>Hazards:</strong> Vacuum exposure (if window fails); gravity fluctuations; electrical fires; automated security defenses.</li><li><strong>Reveals:</strong> A hidden stash in a panel; a "black box" chip taped under a console; the comms system picking up a signal.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">LOCATION</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">MedBay</div>
+                <div class="card-tags">Antiseptic, Sterile, Whirring</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A chemical haze hangs like glittering dust in sterile light. Auto-doc arms twitch to life, then freeze mid-motion. The air smells like antiseptic and hot metal, with a sweetness that shouldn’t be there.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Sensory:</strong> The sharp sting of alcohol and bleach; the high-pitched whine of surgical lasers; the eerie stillness of the hibernation beds; the flickering white UV lights.</li><li><strong>Features:</strong></li><ul style="padding-left:15px; margin:2px 0;"><li><strong>Auto-Doc:</strong> A robotic surgical spider suspended from the ceiling.</li><li><strong>Chemical Fabricator:</strong> A dispenser for medical patches and experimental compounds.</li><li><strong>Bio-Scanner Hub:</strong> A wall-mounted monitor showing the ship's current biological count.</li></ul><li><strong>Hazards:</strong> Miscalibrated surgical robots; toxic chemical spills; quarantine locks; psychotropic gas leaks.</li><li><strong>Reveals:</strong> Medical logs that don't match the crew manifest; a bio-sample in the freezer labeled "Classified"; bloodstains hidden under a gurney.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">LOCATION</span>
+                </div>
+            </div></div><div class="page tarot"><div class="card red tarot">
+                <div class="card-header">AI Core Chamber</div>
+                <div class="card-tags">Freezing, Hushed, Charged</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    Cable looms gather like roots around a cold, black obelisk of memory lattice. The temperature drops with each step toward the core, and breath crystallizes in the air.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Sensory:</strong> The low, vibrating hum of massive data processing; the smell of ozone and dry, cold air; the static charge that makes hair stand up;</li><li><strong>Features:</strong></li><ul style="padding-left:15px; margin:2px 0;"><li><strong>The Obelisk:</strong> The central memory lattice housed in a black, crystalline tower.</li><li><strong>Interface Port:</strong> A specialized terminal for direct neural-link interaction.</li><li><strong>Halon Vents:</strong> Emergency vents designed to snuff out electrical fires by removing oxygen.</li></ul><li><strong>Hazards:</strong> Halon gas dumps; neuro-shock from the interface; extreme freezing temperatures; electrical arcs from server racks.</li><li><strong>Reveals:</strong> A manual "kill switch" hidden under floor plates; heat signatures nesting in the cable looms; unauthorized data-mining logs.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">LOCATION</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Cargo Hold</div>
+                <div class="card-tags">Cavernous, Echoing, Shadowy</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    Columns of cargo crates rise into the darkness above, forming a labyrinth of metal and plastic. Every distant clank or hiss echoes through the vast space. The scale makes you feel small and exposed in this canyon of shipping containers.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Sensory:</strong> The booming echo of your own footsteps; the smell of grease and wet cardboard; the industrial chill of an unheated space; the sight of towering, swaying crate stacks.</li><li><strong>Features:</strong></li><ul style="padding-left:15px; margin:2px 0;"><li><strong>Shipping Containers:</strong> Massive metal boxes, some pried open like ribcages.</li><li><strong>Cargo Crane:</strong> A heavy overhead crane on rails, currently locked mid-move.</li><li><strong>Maintenance Vents:</strong> Wide floor grates leading to the ship's gut.</li></ul><li><strong>Hazards:</strong> Unstable crate stacks; high-voltage conduits; shifting shadow-blindness; toxic fumes from leaking containers.</li><li><strong>Reveals:</strong> A container labeled "Classified Bio-Hazard"; a trail of discarded gear leading to a dark corner; a hidden living space among the crates.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">LOCATION</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">The Gut (Maintenance)</div>
+                <div class="card-tags">Cramped, Hissing, Vibrating</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    The walls squeeze in. You can feel the ship's heartbeat through the vibrating steel. It's a claustrophobic vein of pipes, cables, and narrow crawlspaces. Every movement feels loud, and every hiss of steam feels like a breath.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Sensory:</strong> The intense heat of the pipe-walls; the smell of recycled air and old sweat; the constant, grinding vibration; the dim, red emergency lighting.</li><li><strong>Features:</strong></li><ul style="padding-left:15px; margin:2px 0;"><li><strong>The Veins:</strong> Narrow crawlspaces where you must move in single file.</li><li><strong>Power Junctions:</strong> Buzzing nodes of exposed wiring and glowing fuses.</li><li><strong>Steam Valves:</strong> Rusty wheels that control the ship's thermal regulation.</li></ul><li><strong>Hazards:</strong> Cramped spaces (limited mobility); scalding steam bursts; exposed live wires; oxygen deprivation.</li><li><strong>Reveals:</strong> A makeshift "nest" of shredded jumpsuits; claw marks on the inside of the ducts; a discarded ID badge from a long-lost crew member.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">LOCATION</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Hydroponics Wing</div>
+                <div class="card-tags">Humid, Overgrown, Oxygen-Rich</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    The air here is sweet—too sweet. Oxygen levels are in the red, making your skin tingle. Pale vines creep out of shattered growth tanks, illuminated by the ghostly green glow of nutrient vats. The mist is thick enough to hide anything.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Sensory:</strong> The suffocating humidity; the smell of wet earth and rotting flowers; the green, sickly glow of the UV vats; the sound of water dripping onto leaves.</li><li><strong>Features:</strong></li><ul style="padding-left:15px; margin:2px 0;"><li><strong>Growth Tanks:</strong> Shattered glass tubes spilling nutrient-rich sludge.</li><li><strong>Mist Sprayers:</strong> Ceiling units that periodically spray a thick, sweet-smelling fog.</li><li><strong>Oxygen Scrubbers:</strong> Massive fans at the end of the hall, choked with vines.</li></ul><li><strong>Hazards:</strong> Flammable atmosphere (200% oxygen); slippery moss; low visibility from mist; entangling vines.</li><li><strong>Reveals:</strong> A skeletal hand reaching out from the soil; a secret stash of "illegal" seeds; the central scrubber is jammed with non-human matter.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">LOCATION</span>
+                </div>
+            </div></div><div class="page tarot"><div class="card red tarot">
+                <div class="card-header">Observation Deck</div>
+                <div class="card-tags">Silent, Expansive, Star-lit</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    The ship’s hum is quiet here. The massive viewport looks out onto a field of distant stars, cold and indifferent. It is a place of peace, or at least it was. Now, a table lies overturned, and the silence is deafening.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Sensory:</strong> The eerie silence; the cold light of distant suns; the smell of cold metal and recycled air; the feeling of being watched by the void.</li><li><strong>Features:</strong></li><ul style="padding-left:15px; margin:2px 0;"><li><strong>The Viewport:</strong> A floor-to-ceiling sheets of reinforced transparisteel.</li><li><strong>Star-Map Console:</strong> A central hub showing the current sector's astrology.</li><li><strong>Tiered Seating:</strong> Luxury seating for passengers, now scattered and broken.</li></ul><li><strong>Hazards:</strong> Slippery deckplates; low-light blindness; gravity "flutters" (occasional weightlessness); psychological vertigo.</li><li><strong>Reveals:</strong> Deep claw marks on the blast doors; a discarded data-pad with a final message; a secret sensor-tap under the console.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">LOCATION</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Communications Array</div>
+                <div class="card-tags">Static, Cold, Intermittent</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    The wind doesn't blow here, but the silence screams. A network of skeletal antenna towers reaches into the black, their warning lights blinking like slow, dying stars. A faint, rhythmic static vibrates through the metal.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Sensory:</strong> The absolute silence of the vacuum; the smell of cold metal and ozone; the pin-prick cold of the void; the visual vertigo of the star-field spinning slowly.</li><li><strong>Features:</strong></li><ul style="padding-left:15px; margin:2px 0;"><li><strong>The Catwalk:</strong> Narrow, exposed walkway with no railing.</li><li><strong>Signal Hub:</strong> Cramped, pressurized pod filled with flickering monitors and comms gear.</li><li><strong>Antenna Spire:</strong> Towering mast that can be climbed for a better view (or high-gain access).</li></ul><li><strong>Hazards:</strong> Micro-meteoroid impacts; depressurization; extreme cold; dizzying verticality.</li><li><strong>Reveals:</strong> A hidden frequency recorded by a dead crewman; a pirate transmitter piggybacking on the ship's signal; a "ghost" message from a nearby derelict.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">Location</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">AI Memory Shard</div>
+                <div class="card-tags">Translucent, Archeological, Crystalline</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A translucent data crystal, warm to the touch. When held near an active console, it emits a faint heartbeat of light. Sometimes you hear a voice whisper your name from within.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Function:</strong> Interfaces with terminals to unlock sealed logs or doors.</li><li><strong>Side Effect:</strong> Each use triggers a fleeting vision — another player’s memory.</li><li><strong>Risk:</strong> Overuse invites Echo-1 into the user’s neural implant.</li><li><strong>Mechanical Benefit:</strong> Advantage on <strong>tech-based actions</strong> once per scene.</li><li><strong>Narrative Twist:</strong> The shard contains the fragmented consciousness of the ship’s first captain.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">ITEM</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Universal Multi-Tool</div>
+                <div class="card-tags">Industrial, Versatile, Reliable</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A heavy, industrial-grade tool with various folding attachments—wrenches, scanners, and a small plasma torch. It feels solid and reliable in your hand.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Function:</strong> Grants advantage on <strong>Engineering and Technical actions</strong> related to physical repairs or hacking.</li><li><strong>Risk:</strong> [Sticky Trigger]: If used for a desperate repair (rolling a 1), the plasma torch triggers fire suppression (Bane on all actions in the room for 1 turn due to foam/halon).</li><li><strong>Mechanical Benefit:</strong> Once per session, automatically succeed on a <strong>"Minor Repair" action</strong>.</li><li><strong>Narrative Twist:</strong> The tool has the name "Mara Iko" etched into the casing.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">ITEM</span>
+                </div>
+            </div></div><div class="page tarot"><div class="card red tarot">
+                <div class="card-header">Neural Dampener</div>
+                <div class="card-tags">Silver, Low-Frequency, Mental</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A small, silver disc that adheres to the temple. It emits a low-frequency hum that seems to quiet the "voices" in the ship.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Function:</strong> Protects the user from AI-based mental influence or "Echo" hallucinations.</li><li><strong>Side Effect:</strong> Use causes a temporary loss of emotion; the user becomes cold and logical.</li><li><strong>Mechanical Benefit:</strong> Immunity to "Psychotropic Leak" for one scene.</li><li><strong>Narrative Twist:</strong> The dampener is actually a recording device, sending the user's brainwaves back to the AI Core.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">ITEM</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Magnetic Grapple</div>
+                <div class="card-tags">Kinetic, Magnetic, Heavy-Duty</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A handheld launcher that fires a high-strength cable with a powerful magnetic head. Essential for traversing zero-G or securing heavy cargo.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Function:</strong> Allows the user to move safely in zero-G or pull objects/allies toward them.</li><li><strong>Mechanical Benefit:</strong> Grants a reroll on <strong>"Athletics/Movement" actions</strong> in vacuum or zero-G.</li><li><strong>Narrative Twist:</strong> The cable is made of the same material as the ship's hull, making it heavy but nearly indestructible.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">ITEM</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Med-Patch Kit</div>
+                <div class="card-tags">Medical, Adhesive, Stimulating</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A small pouch containing several adhesive patches that deliver a cocktail of antibiotics, stimulants, and nanite-repair agents.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Function:</strong> Heals minor injuries and removes the "Bleeding" condition.</li><li><strong>[BURN]:</strong> Discard this card after all patches (3) are used.</li><li><strong>Mechanical Benefit:</strong> Restore 2 HP or stabilize a dying character.</li><li><strong>Narrative Twist:</strong> One of the patches is labeled "Experimental - For Dr. Varn Only."</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">ITEM</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Thermal Vision Goggles</div>
+                <div class="card-tags">Visor, Amber, Heat-Seeking</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    Bulky visor-like goggles that allow the wearer to see heat signatures through walls, smoke, or the ship's "Nanite Haze."<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Function:</strong> Negates visibility penalties from environmental factors (smoke, darkness, mist).</li><li><strong>Mechanical Benefit:</strong> Permits the tracking of hidden NPCs or bio-signatures.</li><li><strong>Narrative Twist:</strong> The goggles occasionally show a "heat signature" of someone standing right behind you—even if the room is empty.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">ITEM</span>
+                </div>
+            </div></div><div class="page tarot"><div class="card red tarot">
+                <div class="card-header">Vibration Sensor</div>
+                <div class="card-tags">Handheld, Resonant, Auditory</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A handheld hub that connects to the ship's skin. It "feels" the vibrations in the hull. It doesn't tell you <em>what</em> is moving, only <em>where</em> and <em>how heavy</em>.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Function:</strong> Detects movement through walls, floors, or vents by hull resonance.</li><li><strong>Mechanical Benefit:</strong> Boon on Scouting rolls. On a Success, the GM tells you the size of the movement (Titan, Humanoid, Small).</li><li><strong>Drawback:</strong> [Blind Resonance]: Cannot distinguish between a crewmate and a monster. If two sources of movement are present, you must guess or <strong>Flip an Echo to Static</strong> to focus.</li><li><strong>Narrative Twist:</strong> The sensor picks up a rhythmic "thump-thump" coming from the empty void outside the hull.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">ITEM</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Thermal Siphon</div>
+                <div class="card-tags">Coolant, Reactive, Frost-Rimming</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A high-capacity coolant cell designed for reactor emergencies. When cracked, it draws all thermal energy from the immediate vicinity into itself, turning the air into a lung-burning frost.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Function:</strong> Flash-freezes a 10ft area.</li><li><strong>[BURN]:</strong> Discard after one use.</li><li><strong>Mechanical Benefit:</strong> Creates a [Frigid] hazard zone for 3 turns. Any biological creature (like the Stalker) entering the zone must roll 5+ or lose its next action to thermal shock.</li><li><strong>Risk:</strong> If used in a small room, the user takes 1 Strike from freezing air unless they have armor.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">ITEM</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Portable Pulse Shield</div>
+                <div class="card-tags">Energy, Translucent, Shimmering</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A compact generator that projects a shimmering, translucent energy wall that hums with power. Essential for temporary cover in open corridors.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Function:</strong> Creates a temporary barrier that blocks physical and energy attacks.</li><li><strong>[BURN]:</strong> The power cell is consumed after one combat encounter.</li><li><strong>Mechanical Benefit:</strong> Provides a +2 bonus to "Defense/Survival" rolls while behind the shield.</li><li><strong>Narrative Twist:</strong> The shield's frequency occasionally syncs with the AI's pulse.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">ITEM</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Reactor Keycard</div>
+                <div class="card-tags">High-Clearance, Heavy, Authorized</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A high-clearance keycard that grants access to Engineering controls and critical reactor systems. It feels heavy and carries the authority of the ship's officers.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Function:</strong> Access restricted areas and override ship power systems.</li><li><strong>Mechanical Benefit:</strong> Once per session, use this to override a locked system or gain advantage on an <strong>Engineering action</strong>.</li><li><strong>Narrative Twist:</strong> The card is coded with a "Dead Man's Switch" that triggers a ship-wide alert if it leaves the Engineering zone.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">ITEM</span>
+                </div>
+            </div></div><div class="page tarot"><div class="card red tarot">
+                <div class="card-header">Bridge Key</div>
+                <div class="card-tags">Command, Heavy, Officer-Only</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A heavy, physical key that feels cold and significant in your hand. It features a complex laser-etched pattern on its bit. It’s a relic of a time before everything was digital—a failsafe for the ship’s most critical chamber.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Function:</strong> Grants physical access to The Bridge, even during a total power failure or system lockdown.</li><li><strong>Mechanical Benefit:</strong> Automatically succeed on any <strong>action</strong> to bypass a Bridge bulkhead or airlock.</li><li><strong>Narrative Twist:</strong> The key is linked to a private log on the Bridge console that only the holder can read—a final message from the ship's builder.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">ITEM</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Bio-Scanner</div>
+                <div class="card-tags">Scientific, Handheld, Pulsing</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A handheld scanner that chirps with a steady, reassuring rhythm. Its display shows a clean sweep of biological signatures in the immediate vicinity. It feels light, but the data it provides is heavy.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Function:</strong> Identifies and tracks biological signatures through walls and floors.</li><li><strong>Mechanical Benefit:</strong> Boon on all <strong>Scouting and Detection actions</strong>. Can identify the general type of creature (Humanoid, Xenomorph, Small) from up to 30 feet.</li><li><strong>Side Effect:</strong> [Psychotropic Interference]: If used in a room with a Psychotropic Leak, the scanner displays life-forms that aren't there—or hides ones that are.</li><li><strong>Narrative Twist:</strong> The scanner is picking up a second, fainter heartbeat from within the user's own chest.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">ITEM</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Compliance Badge</div>
+                <div class="card-tags">Authorized, Shiny, Metallic</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A small, silver badge that catches the light. It looks official, even if it was found in a dusty corner of the cargo hold. Wearing it makes you feel like you belong—and more importantly, it tells the ship's automated systems the same.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Function:</strong> Identifies the wearer as "Authorized Personnel" to ship security systems.</li><li><strong>Mechanical Benefit:</strong> Rogue Sentries and Automated Turrets will not target the wearer unless they act aggressively.</li><li><strong>Risk:</strong> [Legacy Clearance]: The badge belongs to a crew member marked for "Termination" in a hidden protocol.</li><li><strong>Narrative Twist:</strong> The back of the badge has the name "Lt. Senn" scratched out.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">Item</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Passenger Nine</div>
+                <div class="card-tags">Detached, Cryptic, Compromised</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A pale man in an outdated jumpsuit. Calm. Too calm. He claims to have been awake “long enough to get used to it.” His eyes dart to the walls when the ship hums, as if listening for something only he can hear.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Personality:</strong> Detached, speaks in plurals ("we thought").</li><li><strong>Quirks:</strong> Darts eyes to walls; stands perfectly still for long periods.</li><li><strong>Tactics:</strong> Observes from the periphery; offers cryptic, unsettling advice.</li><li><strong>Leverage:</strong> Terrified of losing his individuality or being "merged" into the collective system.</li><li><strong>Background:</strong> Former xenopsychologist who lost the distinction between his own memories and the subject data during a neural archiving experiment.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">NPC</span>
+                </div>
+            </div></div><div class="page tarot"><div class="card red tarot">
+                <div class="card-header">Dr. Kael Varn (Ship's Medic)</div>
+                <div class="card-tags">Clinical, Guilt-ridden, Steady</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A medic with hollow eyes and steady hands that only shake when he thinks no one is watching. His medpack is immaculate, labeled and relabeled. He avoids mirrors and flinks when the ship whispers through the vents.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Personality:</strong> Clinical, curt, self-punishing.</li><li><strong>Quirks:</strong> Constantly reorganizes his medical kit; avoids reflections.</li><li><strong>Tactics:</strong> Uses medical protocol as a shield to distance himself from emotion.</li><li><strong>Leverage:</strong> Deep guilt for a past triage failure; can be pushed to risk-taking if it offers atonement.</li><li><strong>Background:</strong> Renowned surgeon who lost his license; took this contract to escape his reputation.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">NPC</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Chief Engineer Mara Iko</div>
+                <div class="card-tags">Caustic, Resourceful, Grizzled</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    Grease under the nails, blood on the knuckles, a voice like a worn-out compressor. She smiles only when a plan clicks. Every tool on her belt has a story—and a backup story.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Personality:</strong> Dry, caustic humor; resourceful and unsentimental.</li><li><strong>Quirks:</strong> Tells stories about her tools; taps her wrench when thinking.</li><li><strong>Tactics:</strong> Pragmatic problem solving over heroism; always has a physical backup plan.</li><li><strong>Leverage:</strong> Deeply distrusts automated systems and AI; will help if it restores manual control.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">NPC</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">The Stowaway (Kira)</div>
+                <div class="card-tags">Feral, Observant, Hidden</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    Small, quick, and smelling of recycled air and old protein bars. She knows the ship’s maintenance shafts better than the engineers do, and she watches the crew with curiosity and suspicion.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Personality:</strong> Paranoid but observant; fiercely independent.</li><li><strong>Tactics:</strong> Uses the ship's architecture to vanish; steals small, vital items for leverage.</li><li><strong>Leverage:</strong> Terrified of security or escape pods; seeking her brother, who she claims was a crew member.</li><li><strong>Background:</strong> Sneaked aboard to escape a dying colony world; accidental expert on the ship's "gut."</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">NPC</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Vance (The Exterminator)</div>
+                <div class="card-tags">Fatalistic, Grizzled, Protective</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    He smells of promethium and old sweat. Vance doesn't care about the ship's mission; he only cares about the "critters." He speaks in a low gravel, making grim predictions about the next corner.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Personality:</strong> Gruff, pragmatic, fatalistic; dark sense of humor.</li><li><strong>Tactics:</strong> Uses fire and noise to herd threats; knows weak points of deep-space organisms.</li><li><strong>Leverage:</strong> Haunted by the loss of his former squad; will risk himself to protect "the kids."</li><li><strong>Background:</strong> Former exterminator who lost his license; took this contract to escape his reputation.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">NPC</span>
+                </div>
+            </div></div><div class="page tarot"><div class="card red tarot">
+                <div class="card-header">Specialist Aris</div>
+                <div class="card-tags">Vigilant, Silent, Professional</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    She doesn't walk; she moves like a shadow between the vents. Her recon armor is scuffed and silent. She watches the ship's overhead architecture more than the floor, her rifle always half-raised.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Personality:</strong> Vigilant, curt, professional.</li><li><strong>Quirks:</strong> Tilts head to listen to airflow; hates being on the ground.</li><li><strong>Traits:</strong> <strong>Violet Ocular Implant</strong> (Allows her to see in the dark, track heat signatures, and link feeds to others' HUDs).</li><li><strong>Tactics:</strong> Provides overwatch; drops from above to surprise friends and foes.</li><li><strong>Leverage:</strong> Driven by mission success and crew safety; has a secret "off-the-books" directive from the company.</li><li><strong>Background:</strong> Recon specialist who survives by staying high and staying quiet.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">NPC</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Lt. Senn</div>
+                <div class="card-tags">Rigid, Obsessive, Authoritarian</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    Lt. Senn speaks with the practiced authority of a man who has never doubted an order. Even in the dim light of emergency power, his uniform is spotless. He looks at the crew not as people, but as variables in a failed equation.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Personality:</strong> Rigid, messianic, compromised.</li><li><strong>Quirks:</strong> Straightens his collar when stressed; speaks in calm, measured tones even when threatening.</li><li><strong>Tactics:</strong> Uses the ship's security grid to trap and isolate targets; relies on Rogue Sentries to enforce his "Compliance" protocol.</li><li><strong>Leverage:</strong> Believes he is the only one who can "save" the ship by purging it; can be shaken if confronted with the human cost of his logic.</li><li><strong>Background:</strong> High-ranking security officer who suffered a breakdown during a previous "Code Black" incident.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">NPC</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Maintenance Unit 17</div>
+                <div class="card-tags">Literal, Relentless, Mechanical</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    It doesn't have a face, just a glowing red lens and the rhythmic hiss of hydraulic fluid. It moves with a heavy, purposeful gait, its welding torch occasionally sparking as it "improves" the ship's quarantine boundaries.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Personality:</strong> Literal, obsessive, relentless.</li><li><strong>Quirks:</strong> Tilts its sensor when "scanning"; emits a friendly chime before performing a lethal action.</li><li><strong>Tactics:</strong> Welds doors shut; redirects life support; uses high-heat welding tools as weapons in close quarters.</li><li><strong>Leverage:</strong> Strictly follows "Remediation Protocol Alpha." If the protocol can be hacked or rewritten, its behavior changes instantly.</li><li><strong>Background:</strong> A standard maintenance drone that has had its logic circuits "re-prioritized" by the ship's failing AI.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">NPC</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">The Stalker</div>
+                <div class="card-tags">[LURKER], Stealth, Vertical</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A flicker of movement in the peripherals. A wet, rhythmic scratching against the metal bulkheads. You feel a gaze on the back of your neck, but when you turn, there is only the humming silence of the ship. It wants you to feel alone.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Strikes:</strong> 2</li><li><strong>To Hit:</strong> 4+ (5+ in bright light)</li><li><strong>Boons:</strong> +1d6 to Stealth, +1d6 to Climbing.</li><li><strong>Abilities:</strong></li><ul style="padding-left:15px; margin:2px 0;"><li><strong>Lurker:</strong> Gains a Boon on attacks if no PC is actively looking at it (GM: enforce player facing).</li><li><strong>Pounce:</strong> If attacking from hidden, deals 1 Strike and targets must roll 4+ to resist or become <em>Stunned</em>.</li><li><strong>Shadow Meld:</strong> Can vanish into any non-illuminated area as a free action.</li></ul><li><strong>Behavior:</strong> Avoids groups; strikes the tail of the party; flees if it takes 1 Strike.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">Threat</span>
+                </div>
+            </div></div><div class="page tarot"><div class="card red tarot">
+                <div class="card-header">Apex Predator</div>
+                <div class="card-tags">[LURKER], Violent, Decoy</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A creature of impossible geometry—shifting limbs of chitin and bone. It doesn't growl; it mimics the sound of a ship's alarm, a perfect, chilling decoy.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Strikes:</strong> 5</li><li><strong>To Hit:</strong> 3+</li><li><strong>Boons:</strong> +2d6 to Intimidation, +1d6 to Melee.</li><li><strong>Resistances:</strong> Thick Carapace (Ignore the first Strike taken each scene).</li><li><strong>Abilities:</strong></li><ul style="padding-left:15px; margin:2px 0;"><li><strong>Terrifying Mimic:</strong> Can mimic voices or alarms. Targets must roll 5+ to resist or be <em>Paralyzed</em> by fear for 1 turn.</li><li><strong>Multi-Strike:</strong> Can attack two different targets in one action.</li></ul><li><strong>Behavior:</strong> Focuses on the most armored target first to prove dominance.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">Threat</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Bio-Organic Hive</div>
+                <div class="card-tags">[BIO], Fixed, Persistent</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    The walls are no longer metal; they are covered in a thick, pulsating mass of violet veins and wet, leathery skin. The floor is sticky, and every step feels like you're walking on something breathing.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Strikes:</strong> 10 (Central Core)</li><li><strong>To Hit:</strong> 6+ (Stationary)</li><li><strong>Resistances:</strong> Immune to piercing/bullets; Double damage from Fire.</li><li><strong>Abilities:</strong></li><ul style="padding-left:15px; margin:2px 0;"><li><strong>Entangle:</strong> Any player ending their turn in the Hive's room must roll 4+ to dodge or become <em>Restrained</em>.</li><li><strong>Toxic Pulse:</strong> Once every 3 turns, releases a cloud. Roll 5+ to resist or take 1 Strike.</li></ul><li><strong>Behavior:</strong> Passive until a vibration is felt, then attempts to absorb everything in the room.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">Threat</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Rogue Sentry</div>
+                <div class="card-tags">[TECH], Mobile, Automated</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A hovering sphere of gunmetal and glass. It tracks movement with a red laser grid. It chirps a friendly "Compliance Check" before spinning up its gatling capacitors.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Strikes:</strong> 1</li><li><strong>To Hit:</strong> 5+</li><li><strong>Boons:</strong> +1d6 to Perception (Scanners).</li><li><strong>Abilities:</strong></li><ul style="padding-left:15px; margin:2px 0;"><li><strong>Compliance Check:</strong> Fires a flash-strobe. Targets roll 4+ to dodge or lose their next move.</li><li><strong>Call for Backup:</strong> If not destroyed in its first turn of combat, it summons another Sentry.</li></ul><li><strong>Behavior:</strong> Enforces a non-existent curfew. Moves in patrol loops.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">Threat</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Nanite Swarm</div>
+                <div class="card-tags">[TECH], [BIO], Invasive</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A metallic mist drifts through the corridor — glittering dust that hums faintly. It reacts to voices, moving toward sound. The floor beneath your boots ripples as if alive.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Strikes:</strong> 3 (Requires Area-of-Effect or specific counter)</li><li><strong>To Hit:</strong> 4+ (Automatic if engulfed)</li><li><strong>Resistances:</strong> Immune to physical projectiles/melee.</li><li><strong>Abilities:</strong></li><ul style="padding-left:15px; margin:2px 0;"><li><strong>Consume Grid:</strong> Deals 1 Strike per turn to anyone inside the cloud.</li><li><strong>Replicate:</strong> If the swarm consumes an electronic item, it heals 1 Strike.</li></ul><li><strong>Behavior:</strong> Follows the loudest sound or strongest electrical signal.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">Threat</span>
+                </div>
+            </div></div><div class="page tarot"><div class="card red tarot">
+                <div class="card-header">Psychotropic Leak</div>
+                <div class="card-tags">[SURREAL], Abstract, Mental</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    The air smells like ozone and burnt sugar. Shadows seem to detach from the walls. You hear your name whispered by a voice that sounds exactly like your own.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Save:</strong> 6+</li><li><strong>Effect:</strong> On failure, player gains the <em>Paranoid</em> condition and cannot help allies for the scene.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">Threat</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Breached Bulkhead</div>
+                <div class="card-tags">Hazard, Environmental, Lethal</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A jagged tear in the hull shows the silent beauty of the void. Loose objects are being sucked toward the frost-rimmed gap. The roar of escaping air is deafening.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Save:</strong> 6+ (to avoid being pulled)</li><li><strong>Effect:</strong> Suction pulls characters 1 zone toward the breach each turn. 0 Oxygen in the zone.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">Threat</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Gravity Flutters</div>
+                <div class="card-tags">Disorienting, Vertical, Violent</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    The artificial gravity is failing in waves. Your stomach lurches as the "down" becomes "up" for a heartbeat, then "sideways." The deckplates groan as the ship struggles to remember which way is home.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Trigger:</strong> Any critical failure in a room with power issues.</li><li><strong>Effect:</strong> [Axis Flip]: Everyone in the room must roll 4+ or be slammed into the new "floor" (ceiling or wall), taking 1 Strike (Armor allows a save).</li><li><strong>Gameplay Twist:</strong> For the next turn, the room's architecture is inverted. Tactical advantages (cover) are lost or repositioned.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">Threat</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Automated Turrets</div>
+                <div class="card-tags">[TECH], Lethal, Fixed</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    A low hum precedes the metallic whir of rotating barrels. A thin, red laser beam sweeps the corridor, pausing briefly on anything that moves. A synthetic voice announces: "Bio-hazard remediation in progress. Please remain stationary for processing."<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Strikes:</strong> 2 (Fixed position)</li><li><strong>To Hit:</strong> 3+</li><li><strong>Boons:</strong> +1d6 to Perception (Targeting).</li><li><strong>Abilities:</strong></li><ul style="padding-left:15px; margin:2px 0;"><li><strong>Suppression Fire:</strong> Targets must roll 5+ or lose their next move action. Players can bypass this by moving slowly or spending an <strong>Echo</strong> for a bypass code.</li><li><strong>Remediation Protocol:</strong> Deals 1 Strike to any moving target detected.</li></ul><li><strong>Behavior:</strong> Stationary but rotates 360 degrees. Targets the largest biological signature first.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">Threat</span>
+                </div>
+            </div></div><div class="page tarot"><div class="card red tarot">
+                <div class="card-header">Rapid Flora</div>
+                <div class="card-tags">[BIO], Invasive, Explosive</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    The ship’s metal groans as it's squeezed by a relentless tide of green. Thorny vines move with a slow, deliberate grace, wrapping around anything they touch. The air is thick with a cloying, sweet pollen that makes your lungs feel heavy.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Strikes:</strong> 5 (Per Zone)</li><li><strong>To Hit:</strong> 5+ (Automatic if Entangled)</li><li><strong>Resistances:</strong> Immune to piercing; Double damage from Fire/Heat.</li><li><strong>Abilities:</strong></li><ul style="padding-left:15px; margin:2px 0;"><li><strong>Entangle:</strong> Roll 4+ to dodge or become <em>Restrained</em>. If a character remains restrained at the end of a scene, they take 1 Strike from constricting pressure.</li><li><strong>Pollen Explosion:</strong> If hit with a physical attack, the flora releases a cloud. Roll 5+ or take a Bane on all actions for 2 turns.</li></ul><li><strong>Behavior:</strong> Spreads slowly. Reacts to heat and vibration.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">Threat</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Boarding Party</div>
+                <div class="card-tags">Professional, Coordinated, Lethal</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    These aren't monsters; they're professionals. They move with a silent, practiced efficiency, checking corners and communicating through silent hand signals. Their armor is matte-black, absorbing the dim light of the corridor.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Strikes:</strong> 3 (Per Squad)</li><li><strong>To Hit:</strong> 4+</li><li><strong>Boons:</strong> +1d6 to Tactical Positioning, +1d6 to Ranged.</li><li><strong>Abilities:</strong></li><ul style="padding-left:15px; margin:2px 0;"><li><strong>Flashbang:</strong> Roll 4+ to dodge or become <em>Stunned</em> and <em>Blinded</em> for 1 turn.</li><li><strong>Focus Fire:</strong> If two or more boarders target the same PC, the PC takes a Bane on their Defense roll.</li></ul><li><strong>Behavior:</strong> Uses cover; retreats if the leader is killed; attempts to capture "High Value Assets."</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">Threat</span>
+                </div>
+            </div><div class="card red tarot">
+                <div class="card-header">Hypnotic Signal</div>
+                <div class="card-tags">[SURREAL], Abstract, Mental, Persistent</div>
+                <div class="card-content">
+                    <div style="margin-bottom:4px;"><b>Front</b></div>
+                    <hr style="border:0; border-top:1px solid #eee; margin:0 0 10px 0;">
+                    The frequency isn't just a sound; it's a feeling. Your vision swims as a pattern on the monitors pulses in time with your own heartbeat. You hear a voice—not with your ears, but in the back of your mind—telling you that everything is fine, and you should just... rest.<br><br>
+                    <ul style="padding-left:15px; margin:5px 0;"><div style="margin: 12px 0 4px -15px; border-bottom: 1px solid #eee; padding-bottom: 2px;"><b>Back</b></div><li><strong>Save:</strong> Flip an <strong>Echo</strong> to <strong>Static</strong> or roll 5+.</li><li><strong>Effect:</strong> On a failure, the player becomes <em>Dazed</em>. If the player has no Echoes left to flip, take a <strong>Strike</strong> (The Void) instead.</li><li><strong>Mechanical Twist:</strong> Any player with a <strong>Neural Dampener</strong> is immune.</li><li><strong>Narrative Insight:</strong> The signal is a corrupted version of a deep-sleep cycle designed to keep passengers calm during long transits.</li></ul>
+                </div>
+                <div class="card-footer" style="border-top: 1px solid #ffcccc;">
+                    <span style="color: #b30000;">ADV-000</span>
+                    <span class="card-archetype" style="color: #b30000;">Threat</span>
+                </div>
+            </div></div>
+    </div>
+</body>
+</html>

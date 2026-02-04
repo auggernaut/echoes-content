@@ -25,12 +25,12 @@ This guide is designed for the **Game Master (GM)** to read aloud and follow at 
 
 ## 🛠 Step 3: Character Discovery
 **Read Aloud**:
-> *"Each of you, choose a **Character Deck**. This is your role on the ship. Once you have it, flip the top card to reveal who you are."*
+> *"Each of you, choose a **Character Deck**. This is your role on the ship. Once you have it, flip the **Defense** card to see how many Health (Strikes) you start with."*
 
-**GM Action**: *Hand each player their deck, **3 Red tokens** (Strikes), and **3 Dual-Sided tokens** (Echoes).*
+**GM Action**: *Hand each player their deck, their appropriate number of **Red tokens** (Strikes), and **3 Dual-Sided tokens** (Echoes).*
 
 **Read Aloud**:
-> *"You are also holding two sets of tokens. The **Red tokens** are your life—each time you're hurt, you lose one. The **White/Black tokens** are your **Echoes**. Start with three on the **White (Signal) side**. These represent your clarity and focus. If things get scary, they might flip to the **Black (Static) side**."*
+> *"You are also holding two sets of tokens. The **Red tokens** are your life—each time you're hurt, you lose one. The **White/Black tokens** are your **Echoes**. Start with three on the **White (Signal) side**. These represent your clarity and focus. If things get bad, they might flip to the **Black (Static) side**. Run out of either and you're in trouble."*
 
 **GM Action**: *As they reveal their identities, explain the **5-Slot Loadout**.*
 

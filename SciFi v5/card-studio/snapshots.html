@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SciFi v5 - Snapshot Browser</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+        rel="stylesheet">
+    <style>
+        .snapshot-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 30px;
+            padding: 20px;
+        }
+
+        .snapshot-card {
+            background: #2a2a2a;
+            border-radius: 8px;
+            overflow: hidden;
+            border: 1px solid #444;
+            transition: transform 0.2s, border-color 0.2s;
+            cursor: pointer;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .snapshot-card:hover {
+            transform: translateY(-5px);
+            border-color: #0088ff;
+        }
+
+        .snapshot-preview {
+            height: 400px;
+            border: none;
+            background: white;
+            pointer-events: none;
+            /* Prevent interaction with the preview */
+            zoom: 0.25;
+            /* CSS zoom for scaling the thumbnail */
+            -moz-transform: scale(0.25);
+            -moz-transform-origin: 0 0;
+            transform: scale(0.25);
+            transform-origin: 0 0;
+            width: 400%;
+            /* Complement scale */
+            height: 1600px;
+            /* Complement scale */
+        }
+
+        /* Firefox fallback if zoom doesn't work well */
+        @-moz-document url-prefix() {
+            .snapshot-card-iframe-container {
+                height: 400px;
+                overflow: hidden;
+            }
+        }
+
+        .snapshot-info {
+            padding: 15px;
+            background: #333;
+            border-top: 1px solid #444;
+        }
+
+        .snapshot-name {
+            font-weight: bold;
+            font-size: 0.9em;
+            color: #0088ff;
+            word-break: break-all;
+        }
+
+        .snapshot-date {
+            font-size: 0.75em;
+            color: #aaa;
+            margin-top: 5px;
+        }
+
+        .back-link {
+            text-decoration: none;
+            color: #aaa;
+            font-size: 0.9em;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .back-link:hover {
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="app">
+        <div class="studio-header">
+            <div>
+                <a href="/" class="back-link">← Back to Studio</a>
+                <h1>Snapshot Browser</h1>
+            </div>
+        </div>
+        <div id="snapshot-container" class="snapshot-grid">
+            <div style="padding: 20px; color: #aaa;">Scanning for snapshots...</div>
+        </div>
+    </div>
+    <script type="module" src="./snapshots.js"></script>
+</body>
+
+</html>

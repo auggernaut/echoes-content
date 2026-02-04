@@ -142,8 +142,9 @@ body {
     .page {
         width: 210mm;
         height: auto;
-        padding: 2mm;
-        margin: 0;
+        padding: 5mm;
+        margin-top: 5px;
+        /* Shift everything down 10px to avoid clipping */
         background: white;
         box-shadow: none;
         display: grid;
